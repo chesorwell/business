@@ -18,6 +18,17 @@
   6. **Delegation** over "I'll do it myself". I shall delegate everything that can be delegated, even if it'll be done two times worse than if I did it myself. As long as it's sufficient and the numbers are working, I shall delegate!
 - **LEARNING SPEED IS PRIORITY**
   Time is the most precious resource. I cannot demand certainty from the market, but I can demand the progress from myself. My security comes from my skills, not my bank balance; if I learn how to be a businessman fast enough, money will come. I will avoid "Gambling" (high-risk VC plays) and "Stagnation" (safe "do what you love" lifestyle businesses). I shall chose that Business Game that maximizes my learning speed because this is the fastest way to succeed. Even if I won't succeed in this venture and will have to get a job, the skills I'll acquire will increase my chances of success in my next venture.
+- **COMPETITIVE ADVANTAGE**
+  The most reliable competitive advantage which almost guarantees that I will always be ahead of the pack is to recognize obvious SIMPLE, but not EASY things in business. They are:
+
+  1. **Acceleration vs Speed**. Most smart people are afraid to leave their comfort zone where they are PRO and rarely advanced on the new territories where they SUCK. And instead keep double investing on their existing skills. I am a super fast learner and shall double invest on any skills or domain knowledge which is the RIGHT to learn, even if I currently suck at it.
+  2. **Cold Outreach** potential clients. Including interviewing them when you have nothing to sell. Follow up on not responded emails. Ask "Why" even after they reject you. Analyze rejections with curiosity.
+  3. **Listening and Empathy**. Specialist think that they "know", interrupt and push their "smart reason" missing out that Listening and Empathy is not only allows you to learn way more things (there is always something to learn), but most importantly it allows you to make people WANT to listen to you.
+  4. **Essentialism**. Specialists have hard time using boring tech stack, delivering ugly code or solving something manually if it can be automated "in 5 minutes". I shall focus on Efficiency and Simplicity to get the job done and iterated fast no matter what technology I use, wether it's manual or else. I shall only think about automation, polishing or optimization when and if it's needed. I shall also "Kill my darlings" when I see that it's no longer adding value without any Sunk Costs.
+  5. **No to shortcuts**. I shall refuse any projects that don't move me forward my goals even if it's an "easy cash".
+  6. **Under promising**. Most specialists over promise and under deliver. I shall say "I can deliver it in 1 day" even if I think I can do it in 3.
+  7. **Value Oriented Prices**. I shall ignore the COST when thinking of how much I will charge. Most people think "cost + margin = price". I shall think "value = price". So even if it costs me nothing to deliver, I shall charge as much as I possibly can confidently with cool. And when I say "It'll cost you approximately $20k" and then I shut up, because who ever speaks next will lose.
+  8. **Confidence (embracing weaknesses)**. I shall openly accept my mistakes and weaknesses. I shall easily say "I fucked it up", "I am stuck on X, can you help me?", ask "dum" questions when it's needed and give deserved credits to my competitors with cool and confidence.
 
 - **ANALYSIS PARALYSIS vs RANDOM MOTION**
   I hate equally two extremes: Analysis Paralysis and a blind Random Motion. But I am constantly fighting these two tendencies. I understand that one can never be certain about things and building a business is mostly about making the right bets taking into account the trade-offs. But I believe that I absolutely MUST understand the reason and the expectations of my actions.
@@ -35,12 +46,16 @@
 
 - **B2B ONLY**
   I consider B2B only simply because chances here are higher than for B2C.
-  1. Average time to profitability: B2B = 11 months vs B2C = 19 months
-  2. Success rates for first-time founders reaching $1M revenue: B2B = 18% vs B2C = 9%
-  3. Exit multiples: B2B SaaS = 3-5x revenue vs B2C SaaS = 1.5-3x revenue
-  4. B2C is mostly focused on GROWTH for a long timer before generating any profit
-  5. B2C is higher risk and higher reward
-  6. B2C is way more price sensitive
+  1. B2B Cold Outreach(early close worthy engagement and sales) vs B2C Paid Ads(no direct engagement).
+  2. Average time to profitability: B2B = 11 months vs B2C = 19 months
+  3. Success rates for first-time founders reaching $1M revenue: B2B = 18% vs B2C = 9%
+  4. Exit multiples: B2B SaaS = 3-5x revenue vs B2C SaaS = 1.5-3x revenue
+  5. B2C is mostly focused on GROWTH for a long timer before generating any profit
+  6. B2C is higher risk and higher reward
+  7. B2C is way more price sensitive
+  8. B2C has higher chore rate. You constantly need to get new users to at least stay on the flow.
+  9. B2C has weaker moat against VC competitors and big companies. It's more "Winner Takes All" game.
+  10. In B2C you need more polished UX/UI. In B2B they'll pay as long as you solve their problem.
 - **LONG($600k/$3M) vs SHORT($160k) term goals**
   My long-term dream is to build and sell businesses, even after I achieved Financial Freedom. And to get there in best and most robust way is to start small but in the right direction. So my current goal is to at least break even every year (≈$160k per year personally), but most importantly guaranteeing that I am doing the most important things - building my business. Otherwise I would have to return to work for someone else, which is absolute waste of my time and life. This is the absolute first and minimal step. After I achieved that I am going to reinvest all the profit into my business until I can scale and exit it, buying Financial Freedom (business is sold for ≈$3M or generates ≈$600k in profit with me working there less than 10 hours per week) and being ready for the next Business Challenge.
 
@@ -74,7 +89,7 @@ In business, like in life there are two kind of things - "Things to be Discovere
 
 **Strategic Roadmap**
 
-1. Pick a market.
+1. Pick a market. (Remember, you are not marrying the market, you are dating it)
 2. Explore the market and select a Minimum Viable Segment (MVS).
 3. MVS Deep Dive + Initial Hypothesis on Problem Worthy of Solving (if none, go to step 1 or 2).
 4. Primary Interactions to Validate the Problem, sufficiently enough to create AND SELL a sufficient Offer.
