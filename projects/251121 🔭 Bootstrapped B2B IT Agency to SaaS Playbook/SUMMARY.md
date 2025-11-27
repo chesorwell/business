@@ -1,0 +1,3 @@
+- OpEx over CapEx
+- Use email and LinkedIn channels (do not bombard, but laser focus with TIMELINE hooks)
+- Absolutely Insure PAID PILOTS with 2x+ ROI in SoW and 60-80% RETAINERS

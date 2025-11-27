@@ -1,5 +1,3 @@
-# GIVEN
-
 ## FACTS
 
 - **BECOMING is the meaning of Business**
@@ -56,6 +54,7 @@
   8. B2C has higher chore rate. You constantly need to get new users to at least stay on the flow.
   9. B2C has weaker moat against VC competitors and big companies. It's more "Winner Takes All" game.
   10. In B2C you need more polished UX/UI. In B2B they'll pay as long as you solve their problem.
+  11. You can solve YOUR "B2C" itches way more efficiently when you keep business and hobbies separate.
 - **LONG($600k/$3M) vs SHORT($160k) term goals**
   My long-term dream is to build and sell businesses, even after I achieved Financial Freedom. And to get there in best and most robust way is to start small but in the right direction. So my current goal is to at least break even every year (≈$160k per year personally), but most importantly guaranteeing that I am doing the most important things - building my business. Otherwise I would have to return to work for someone else, which is absolute waste of my time and life. This is the absolute first and minimal step. After I achieved that I am going to reinvest all the profit into my business until I can scale and exit it, buying Financial Freedom (business is sold for ≈$3M or generates ≈$600k in profit with me working there less than 10 hours per week) and being ready for the next Business Challenge.
 
@@ -89,7 +88,7 @@ In business, like in life there are two kind of things - "Things to be Discovere
 
 **Strategic Roadmap**
 
-1. Pick a market. (Remember, you are not marrying the market, you are dating it)
+1. Pick a market. (Remember, you are DATING the niche, not MARRYING it)
 2. Explore the market and select a Minimum Viable Segment (MVS).
 3. MVS Deep Dive + Initial Hypothesis on Problem Worthy of Solving (if none, go to step 1 or 2).
 4. Primary Interactions to Validate the Problem, sufficiently enough to create AND SELL a sufficient Offer.
@@ -97,6 +96,8 @@ In business, like in life there are two kind of things - "Things to be Discovere
 6. Continue Primary Interactions and Sales until 5 Sales and Exceptional Deliveries.
 7. Start Productizing/Systematizing the process.
 8. Continue Productization/Systematization until the goal ($600k/$3M) is reached.
+
+## Step 1. Pick a Market
 
 ### Market Scope Criteria
 
@@ -117,7 +118,7 @@ To be valid, a market scope must pass **ALL** of the following filters:
    The target must routinely pay significant amounts ($2k–$10k+) to solve business problems. The math of a Solo Founder with limited runway requires **High Margins** to survive. I cannot afford to sell low-ticket items that require high volume.
 
 3. **Liquidity (Do they have cash _now_?)**
-   The target sector must be financially healthy. I must avoid "Desperate Markets" (e.g., struggling restaurants, low-margin retail) where cash flow is a constant emergency. Even if the problem is expensive (Purchasing Power), if they don't have cash in the bank (Liquidity), the deal dies.
+   The target sector must be financially healthy. I must avoid "Desperate Markets" (e.g., struggling restaurants, low-margin retail) where cash flow is a constant emergency. Even if the problem is expensive (Purchasing Power), if they don't have cash in the bank (Liquidity), the deal dies. Remember, the market must pull.
 
 4. **Decision Autonomy (Who signs the check?)**
    The person I contact must have the authority to unilaterally approve the purchase. I must avoid markets where the decision requires a Committee, a Board, or multiple department heads. **One Contact = One Decision.**
@@ -126,10 +127,27 @@ To be valid, a market scope must pass **ALL** of the following filters:
    Even with Autonomy, the industry must be free of structural "Sludge." I must avoid markets with heavy **Compliance**, **Regulation**, or **Legal** bottlenecks (e.g., Government, Hospitals, Public Schools) where a "Yes" takes 3 months to become a "Check."
 
 6. **Problem Awareness (Do they know it?)**
-   The target must already be aware of the pain. I am here to **Capture Demand**, not create it. If I have to spend my limited runway educating the client that the problem exists (Evangelism), the scope is invalid.
+   The target must already be aware of the pain. I am here to **Capture Demand**, not create it. If I have to spend my limited runway educating the client that the problem exists (Evangelism), the scope is invalid. Remember, the market must pull.
 
 7. **Technical Solvability (Digital Soil).**
    The market’s primary bottlenecks must be rooted in Information and Process Inefficiency, not physical or biological constraints, ensuring the problem is solvable purely by manipulating data, logic, and communication channels (Bits vs. Atoms). This allows me to leverage my full "Pro Generalist" stack (AI, Agents, APIs, Web Dev, Architecture) to engineer a solution, rather than hitting a wall where code is powerless against physical reality (e.g., I can fix a "Scheduling Mess" or "Lost Orders" via software, but I cannot fix "Spoiling Food" or a "Leaking Roof").
 
-8. **Market Depth (Is there enough inventory?)**
-   The total addressable prospect list must be large enough (Thousands, not Hundreds) to support a high-volume learning phase. I will burn through 90% of leads while learning; a "small pond" ensures I run out of prospects before I figure out the puzzle.
+8. **Competitive Vacancy (Is the space empty?)**
+   The specific problem must not be currently solved by a dominant platforms or flooded with well-funded competitors ("Red Ocean"). I am looking for "Greenfield" opportunities where the current competitor is **Excel, Email or Google Docs**. If I have to battle a billion-dollar R&D budget or displace a deeply integrated ecosystem (Platform Risk) to get in the door, the scope is invalid.
+
+9. **Market Depth (Is there enough inventory?)**
+   The total addressable prospect list must be large enough (Thousands, not Hundreds) to support a high-volume learning phase. I will burn through 90% of leads while learning; a "small pond" ensures I run out of prospects before I figure out the puzzle. Remember, the market must pull.
+
+### Selecting the Market and Minimal Viable Segment (MVS)
+
+Based on criterion "Technical Solvability" it seems like the best markets are those that deal with information. It also seems that there are three fundamental categories:
+
+1. Info Middlemen (connect supply with demand)
+2. Experts (sell their competence)
+3. Allocators (sell liquidity - insurance, licenses, etc.)
+
+Using multiple AI models with Monte Carlo simulation I executed a "Via Negativa" stress test across three market and here are the results:
+
+1. Info Middlemen - **Pass**, but flagged on the "Red Ocean" risk.
+2. Experts - **Pass**, but flagged on the "Sales Friction" and "Problem Awareness" risk.
+3. Allocators - **Fail** (Accessibility, Decision Autonomy and Transaction Velocity).
