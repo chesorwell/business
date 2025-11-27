@@ -86,20 +86,27 @@ In business, like in life there are two kind of things - "Things to be Discovere
 5. **Delivery** - How do I deliver the sold solution to the customer?
 6. **Numbers** - How do I make the math work? (Revenue, Cost, Profit, etc.)
 
-**Strategic Roadmap**
+### Strategic Roadmap
 
-1. Pick a market. (Remember, you are DATING the niche, not MARRYING it)
-2. Explore the market and select a Minimum Viable Segment (MVS).
-3. MVS Deep Dive + Initial Hypothesis on Problem Worthy of Solving (if none, go to step 1 or 2).
-4. Primary Interactions to Validate the Problem, sufficiently enough to create AND SELL a sufficient Offer.
-5. Deliver Outstanding Result, collect feedback and references.
-6. Continue Primary Interactions and Sales until 5 Sales and Exceptional Deliveries.
-7. Start Productizing/Systematizing the process.
-8. Continue Productization/Systematization until the goal ($600k/$3M) is reached.
+1. Select **Market Scope**. Define Market Scope Criteria to eliminate market segments that are definite losers and physically cannot work for our model. Based on these criteria select a broad Market Scope that passes the test. Note: we are not selecting a specific segment here yet.
 
-## Step 1. Pick a Market
+2. Identify **Problem Scope**. Look for emerging frictions, trends, or regulatory shifts affecting the chosen Market Scope and high-potential opportunity that is likely shared by the majority of actors in this space. Note: this research should help us to increase our chances of selecting the right Minimal Viable Segment.
 
-### Market Scope Criteria
+3. Select **Minimal Viable Segment (MVS)**. Place a calculated bet on the first Minimal Viable Segment. Note: if something doesn't work in the future we will return to this step.
+
+4. **MVS Deep Dive**. Conduct a secondary deep research of the selected segment to gain domain knowledge sufficient enough to form our initial hypothesis only sufficient enough to start primary interactions.
+
+5. Craft **Minimal Viable Profile**. Setup landing page and LinkedIn profile credible enough to start cold outreach. Note: we don't present our offer here, these two assets server only to provide sufficient enough credibility to do the cold outreach and start primary interactions.
+
+6. **Primary Interactions**. Keep conducting Primary Discovery Interviews until you have a sufficient reason to assume that you found a Scalable Opportunity.
+
+7. **Sell & Manual Delivery**. First close and then manually deliver the solution until you can see a recurring pattern.
+
+8. **Systematize or Productize**. When the recurring pattern is found, either a) assume a SaaS hypothesis or b) systematic delivery and start the productization process.
+
+9. **Scale**. Keep building the systems (sales, delivery, etc.) until the goal is reached.
+
+## Step 1. Market Scope
 
 The list of criteria is derived from the following two foundational assumptions:
 
@@ -138,16 +145,7 @@ To be valid, a market scope must pass **ALL** of the following filters:
 9. **Market Depth (Is there enough inventory?)**
    The total addressable prospect list must be large enough (Thousands, not Hundreds) to support a high-volume learning phase. I will burn through 90% of leads while learning; a "small pond" ensures I run out of prospects before I figure out the puzzle. Remember, the market must pull.
 
-### Selecting the Market and Minimal Viable Segment (MVS)
+Based on our criteria our Market Scope is **Knowledge-Intensive Business Services (KIBS)**, that includes the two following sub-categories:
 
-Based on criterion "Technical Solvability" it seems like the best markets are those that deal with information. It also seems that there are three fundamental categories:
-
-1. Info Middlemen (connect supply with demand)
-2. Experts (sell their competence)
-3. Allocators (sell liquidity - insurance, licenses, etc.)
-
-Using multiple AI models with Monte Carlo simulation I executed a "Via Negativa" stress test across three market and here are the results:
-
-1. Info Middlemen - **Pass**, but flagged on the "Red Ocean" risk.
-2. Experts - **Pass**, but flagged on the "Sales Friction" and "Problem Awareness" risk.
-3. Allocators - **Fail** (Accessibility, Decision Autonomy and Transaction Velocity).
+1. Info Middlemen (Connect supply with demand without owning either; e.g., Recruiters/Headhunters matching talent to companies, Freight Brokers matching shippers to trucks, Real Estate/Business Brokers matching buyers to sellers, or Lead Generators selling prospect lists).
+2. Experts (Sell specialized competence to execute or optimize a specific business function; e.g., Marketing Agencies managing growth, Compliance/Legal Consultants navigating regulations, Custom Software Shops building products, or Property Managers handling daily operations).

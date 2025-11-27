@@ -48,4 +48,29 @@ The following table visualizes the "Structural Physics" of each bucket that led 
 - **Info Middlemen survived** because the model is mechanically perfect for a tech stack (High Solvability, High Velocity), but it suffers from **External Saturation** (everyone knows it's a good model).
 - **Experts survived** because they offer **Greenfield Opportunities** (Low Competition), but they suffer from **Internal Friction** (Need for education/sales).
 
-**Next Step:** We proceed to Phase 2 to find specific niches that combine the _Solvability_ of a Middleman with the _Vacancy_ of an Expert.
+## EXAMPLES
+
+Here is the exhaustive categorization based on your definitions.
+
+### 1. Info Middlemen (Connect Supply & Demand)
+
+- **Labor & Talent Matchmakers** (Travel Nurse Staffing, Executive Search/Headhunters, IT Staffing, Domestic Household Staffing, Interim C-Suite Placement)
+- **Asset Transaction Brokers** (SMB Business Brokers, Commercial Real Estate Brokers, Residential Real Estate Agents, Land Acquisition Brokers, Domain Name Brokers)
+- **Logistics & Freight Brokers** (Refrigerated Freight Brokers, Hazardous Waste Brokers, Customs Brokers, Private Jet Charter Brokers, Ship/Vessel Chartering)
+- **Lead & Data Wholesalers** (Solar Lead Gen, Commercial Real Estate Wholesaling, Accredited Investor List Brokers, Intent Data Resellers)
+- **Service & Venue Aggregators** (Corporate Travel Agents, Event Venue Finders, Construction Subcontractor Bidding Platforms, Location Scouts for Film)
+
+### 2. Experts (Sell Competence & Optimization)
+
+- **Marketing & Growth Agencies** (B2B SaaS SEO, Dental Implant Ad Agencies, Cold Outreach Agencies, Crisis PR Firms, Amazon FBA Marketing)
+- **Operational & Asset Management** (Commercial Property Management, HOA/Community Management, Fleet Management, Airbnb Co-hosting/Management, Clinical Trial Management)
+- **Compliance & Regulatory Consultants** (SOC 2/Cybersecurity Compliance, FDA Approval Consultants, ISO 9001 Certification, OSHA Safety Consultants, Environmental Impact Assessors)
+- **Financial & Strategic Advisory** (Fractional CFO Services, Cost Segregation Specialists, Business Valuation Experts, Forensic Accountants, Pricing Strategy Consultants)
+- **Technical & Product Shops** (Custom Software Dev Shops, UX/UI Design Agencies, Notion/Airtable Workspace Architects, Industrial Automation Engineers)
+- **Legal & Transaction Advisory** (M&A Advisors, Patent/IP Attorneys, Franchise Consultants, Tax Attorneys, Employment Law Specialists)
+
+### 3. Allocators (Sell Liquidity & Risk)
+
+- **Risk Transfer (Insurance)** (Cyber Liability Brokers, Medical Malpractice Brokers, Commercial Trucking Insurance, Surety Bond Agents, Crop Insurance)
+- **Capital Liquidity (Lending)** (Invoice Factoring Services, Hard Money/Fix-and-Flip Lenders, Equipment Financing, Litigation Finance, Merchant Cash Advance)
+- **Rights & Access (Permits/Licenses)** (Liquor License Brokers, Building Permit Expediters, Visa/Immigration Expediters, Water Rights Brokers)
