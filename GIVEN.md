@@ -92,19 +92,17 @@ In business, like in life there are two kind of things - "Things to be Discovere
 
 2. Identify **Problem Scope**. Look for emerging frictions, trends, or regulatory shifts affecting the chosen Market Scope and high-potential opportunity that is likely shared by the majority of actors in this space. Note: this research should help us to increase our chances of selecting the right Minimal Viable Segment.
 
-3. Select **Minimal Viable Segment (MVS)**. Place a calculated bet on the first Minimal Viable Segment. Note: if something doesn't work in the future we will return to this step.
+3. Select **Minimal Viable Segment (MVS)**. Place a calculated bet on a **specific MVS with a specific Problem**. The statement should sound like this: "I believe that [MVS] a loosing money because of [PROBLEM] that emerged because of [RECENT_CHANGE]". Note: if something doesn't work in the future we will return to this step.
 
-4. **MVS Deep Dive**. Conduct a secondary deep research of the selected segment to gain domain knowledge sufficient enough to form our initial hypothesis only sufficient enough to start primary interactions.
+4. **Digital (Secondary) Audit**. Conduct a more thorough research on the MVS+Problem to a) Confirm the hypothesis **Sufficient Enough** to move forward and b) Research all possible "Kill Switches" that would kill the hypothesis. Also gain domain knowledge sufficient enough to form our initial hypothesis only sufficient enough to start primary interactions.
 
-5. Craft **Minimal Viable Profile**. Setup landing page and LinkedIn profile credible enough to start cold outreach. Note: we don't present our offer here, these two assets server only to provide sufficient enough credibility to do the cold outreach and start primary interactions.
+5. **Primary Interactions**. Keep conducting Primary Discovery Interviews until you have a sufficient reason to assume that you found a Scalable Opportunity.
 
-6. **Primary Interactions**. Keep conducting Primary Discovery Interviews until you have a sufficient reason to assume that you found a Scalable Opportunity.
+6. **Sell & Manual Delivery**. First close and then manually deliver the solution until you can see a recurring pattern.
 
-7. **Sell & Manual Delivery**. First close and then manually deliver the solution until you can see a recurring pattern.
+7. **Systematize or Productize**. When the recurring pattern is found, either a) assume a SaaS hypothesis or b) systematic delivery and start the productization process.
 
-8. **Systematize or Productize**. When the recurring pattern is found, either a) assume a SaaS hypothesis or b) systematic delivery and start the productization process.
-
-9. **Scale**. Keep building the systems (sales, delivery, etc.) until the goal is reached.
+8. **Scale**. Keep building the systems (sales, delivery, etc.) until the goal is reached.
 
 ## Step 1. Market Scope
 
@@ -156,8 +154,24 @@ After conducting a research of emerging frictions, trends we have identified not
 
 IMPORTANT NOTE: This research was done by running a Web research in different AI agents (Claude, Gemini & Perplexity) in an hour and even though it feels "too good to be true", I decided that it's a good enough reason to proceed to the next step - **MVS Deep Dive** to validate this hypothesis further (I am not committing to this MVS yet, but giving it a chance). Also it seems like it's very hard (if not impossible) to find a **Problem Scope**, because each niche has different problems.
 
+RESULT (HYPOTHESIS): I believe **SMB Freight Brokers** are losing significant OpEx on **Manual Identity Vetting Checks** because of **The Industrialization of Fraud in 2024/2025**, which has rendered traditional database checks useless and forced them to revert to expensive manual phone verification.
+
 See more details about this research in [RESULT](./projects/251128%20KIBS%20Problem%20Worthy%20of%20Solving/03-RESULT.md)
 
-## Step 4. MVS Deep Dive
+## Step 4. Digital (Secondary) Audit
 
-TO BE CONTINUED...
+### The Must-Have Findings
+
+1. Rants. Find sufficient enough evidence of the problem.
+2. Contacts. Identify who are the people experiencing the problem, how many of them and how to reach them.
+
+### The Kill Switches
+
+Conduct a comprehensive research trying to find ANYTHING that would KILL our hypothesis, including, but NOT LIMITED to:
+
+- Market Satisfaction: They love their current tools.
+- Triviality of the Problem: The problem is not significant enough to care about.
+- Small Market Size: There are not enough potential customers.
+- Unreachable Market: Cannot reach the right people.
+- No Purchasing Power: They cannot afford even a cheap solution that WOULD solved their problem.
+- etc.

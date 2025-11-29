@@ -1,3 +1,4 @@
 - NEVER B2C https://www.loom.com/share/6ff25baf5c184c599a02dbe64ea4021d
 - NEVER "Fractional CTO" or "Middlemen" https://www.loom.com/share/d0f8574471bf4808b97101181b96282
 - OpeEx, LinkedIn/Email, Tailored Timeline hooks, 2x+ ROI SoW with 60-80% RETAINERS
+- Lessons from See more details about this research in [RESULT](./projects/251128%20KIBS%20Problem%20Worthy%20of%20Solving/03-RESULT.md)
