@@ -149,3 +149,15 @@ Based on our criteria our Market Scope is **Knowledge-Intensive Business Service
 
 1. Info Middlemen (Connect supply with demand without owning either; e.g., Recruiters/Headhunters matching talent to companies, Freight Brokers matching shippers to trucks, Real Estate/Business Brokers matching buyers to sellers, or Lead Generators selling prospect lists).
 2. Experts (Sell specialized competence to execute or optimize a specific business function; e.g., Marketing Agencies managing growth, Compliance/Legal Consultants navigating regulations, Custom Software Shops building products, or Property Managers handling daily operations).
+
+## Step 2 + 3. Problem Scope + Minimal Viable Segment
+
+After conducting a research of emerging frictions, trends we have identified not only the **Problem Scope**, but also a good candidate for the our **Minimal Viable Segment** - **SMB Freight Brokerage**.
+
+IMPORTANT NOTE: This research was done by running a Web research in different AI agents (Claude, Gemini & Perplexity) in an hour and even though it feels "too good to be true", I decided that it's a good enough reason to proceed to the next step - **MVS Deep Dive** to validate this hypothesis further (I am not committing to this MVS yet, but giving it a chance). Also it seems like it's very hard (if not impossible) to find a **Problem Scope**, because each niche has different problems.
+
+See more details about this research in [RESULT](./projects/251128%20KIBS%20Problem%20Worthy%20of%20Solving/03-RESULT.md)
+
+## Step 4. MVS Deep Dive
+
+TO BE CONTINUED...
