@@ -5,7 +5,7 @@
 - **My Strengths**
   I am a PRO Generalist, not a Specialist (I may not be a super expert in one domain, but I am very good at fast learning and solving problems from the first principles and then figuring out what has to be done to solve the problem). It does not mean that I HAVE TO be a generalist, I understand that it's a disaster on the market, it rather means that I can choose pretty confidently any narrow direction and bet that I'll be successful in it. My particular technical strengths are: AI(Prompt Engineering and Agentic Development), Web Development, Fast Prototyping/MVP Development, Business Automation, Proof of Concept Research, High-Level Architecture Design, Trade-Offs Analysis. I learn and dive into unknown contexts very fast. I can understand how any given business work very fast when I talk to someone who is working in that business.
 - **LEVERAGE but STOP DEVELOPING technical skills**
-  Being a 15+ years Software Engineer, I feel like God here. I have a really huge tech scope, particularly in Web Full Stack Development, API integrations and AI Engineering. I don't mind to LEVERAGE these skills, but I have to absolutely stop DEVELOPING them, because it's a trap - comfortable technician trap. So I deliberately refuse to continue EVER developing my technical skills. Even if I will fail in this venture I will get a lower payable job as a Sales Person, but I will never again be back being a comfortable technician. I shall stop digging the whole of regret.
+  Being a 15+ years Software Engineer, I feel like God here. I have a really huge tech scope, particularly in Web Full Stack Development, API integrations and AI Engineering. I don't mind to LEVERAGE these skills, but I have to absolutely stop DEVELOPING them, because it's a trap - comfortable technician trap. I will only develop ARCHITECTURAL skills to keep up with tech and be able to USE it in my business by making decisions rather than building it with my hands. So I deliberately refuse to continue EVER developing my technical skills. Even if I will fail in this venture I will get a lower payable job as a Sales Person, but I will never again be back being a comfortable technician. I shall stop digging the whole of regret
 - **BUSINESS VIRTUES vs TECHNICAL VICES**
   Being a technical guy, I must pay close attention to the most common technical vices that most technical founders fall into. I shall focus on:
   1. **Problem Discovery** over Solution Hallucination. Find a problem worthy of solving, not a solution worthy of discovery where to apply it.
@@ -24,7 +24,7 @@
   3. **Listening and Empathy**. Specialist think that they "know", interrupt and push their "smart reason" missing out that Listening and Empathy is not only allows you to learn way more things (there is always something to learn), but most importantly it allows you to make people WANT to listen to you.
   4. **Essentialism**. Specialists have hard time using boring tech stack, delivering ugly code or solving something manually if it can be automated "in 5 minutes". I shall focus on Efficiency and Simplicity to get the job done and iterated fast no matter what technology I use, wether it's manual or else. I shall only think about automation, polishing or optimization when and if it's needed. I shall also "Kill my darlings" when I see that it's no longer adding value without any Sunk Costs.
   5. **No to shortcuts**. I shall refuse any projects that don't move me forward my goals even if it's an "easy cash".
-  6. **Under promising**. Most specialists over promise and under deliver. I shall say "I can deliver it in 1 day" even if I think I can do it in 3.
+  6. **Under-promising**. Most specialists over promise and under deliver. I shall say "I can deliver it in 3 day" even if I think I can do it in 1.
   7. **Value Oriented Prices**. I shall ignore the COST when thinking of how much I will charge. Most people think "cost + margin = price". I shall think "value = price". So even if it costs me nothing to deliver, I shall charge as much as I possibly can confidently with cool. And when I say "It'll cost you approximately $20k" and then I shut up, because who ever speaks next will lose.
   8. **Confidence (embracing weaknesses)**. I shall openly accept my mistakes and weaknesses. I shall easily say "I fucked it up", "I am stuck on X, can you help me?", ask "dum" questions when it's needed and give deserved credits to my competitors with cool and confidence.
 
@@ -40,7 +40,7 @@
 - **CASH RUNWAY: 1.5 years**
   I've accumulated $110k cash runway (≈1.5 years to survive without income) and quit my job as a Senior Software Engineer. I have to use these money for both - living and business in a way that I won't need to return back to work for someone else, because in that case I would be loosing the most valuable asset I have - my time, which is my life. I live in New York, but to extend the runways I am going to live in other cities until I can afford the NYC costs. So I have to think how to spend money and where to live not to save money, but to make profit that will allow me to survive (and eventually thrive) in my business in the "Right Way" described above.
 - **NO NETWORK**
-  I don't have any network to leverage for my business. I am originally from Russia and I have connections there, so I could potentially leverage the cheaper labor market and outsource some of the work there. I don't have a co-founder and I personally believe that to invite a co-founder (like any other employee, but even more important) must have a clear reason, clear separation of responsibilities. But most importantly I don't believe in the power of Network (result), but I do believe in the power of Networking (process). Meaning it's not your network that matters, but how fast and efficiency you get build the right network. And to be honest I'm pretty good at it.
+  I don't want to chose a business based on my existing network, because I don't want to be biased by it and I'm pretty good at learning new domains fast and developing new networks when needed.
 
 - **B2B ONLY**
   I consider B2B only simply because chances here are higher than for B2C.
@@ -74,7 +74,7 @@ In business, like in life there are two kind of things - "Things to be Discovere
 
 1. **Axioms** - What are the important and relevant truths about the world(market)?`
 1. **Customer** - Who is the customer?
-1. **Channels** - How to reach them?
+1. **Channels** - How/Where to reach them?
 1. **Problems** - What problem(s) do they have?
 
 **Conceivable Variables:**
@@ -86,25 +86,15 @@ In business, like in life there are two kind of things - "Things to be Discovere
 5. **Delivery** - How do I deliver the sold solution to the customer?
 6. **Numbers** - How do I make the math work? (Revenue, Cost, Profit, etc.)
 
-### Strategic Roadmap
+**General Execution Strategy**
 
-1. Select **Market Scope**. Define Market Scope Criteria to eliminate market segments that are definite losers and physically cannot work for our model. Based on these criteria select a broad Market Scope that passes the test. Note: we are not selecting a specific segment here yet.
+In principles, the game must be executed in the following order:
 
-2. Identify **Problem Scope**. Look for emerging frictions, trends, or regulatory shifts affecting the chosen Market Scope and high-potential opportunity that is likely shared by the majority of actors in this space. Note: this research should help us to increase our chances of selecting the right Minimal Viable Segment.
+- Phase 1 (100% Discovery): Discover the Right Opportunity (Customer + Problem + Channels).
+- Phase 2 (50% Discovery, 50% Innovation): Conceive the Right Solution (Solution + Offer + Sales + Delivery).
+- Phase 3 (0% Discovery, 0% Innovation, 100% Orchestration): Optimize, Systematize and Scale.
 
-3. Select **Minimal Viable Segment (MVS)**. Place a calculated bet on a **specific MVS with a specific Problem**. The statement should sound like this: "I believe that [MVS] a loosing money because of [PROBLEM] that emerged because of [RECENT_CHANGE]". Note: if something doesn't work in the future we will return to this step.
-
-4. **Digital (Secondary) Audit**. Conduct a more thorough research on the MVS+Problem to a) Confirm the hypothesis **Sufficient Enough** to move forward and b) Research all possible "Kill Switches" that would kill the hypothesis. Also gain domain knowledge sufficient enough to form our initial hypothesis only sufficient enough to start primary interactions.
-
-5. **Primary Interactions**. Keep conducting Primary Discovery Interviews until you have a sufficient reason to assume that you found a Scalable Opportunity.
-
-6. **Sell & Manual Delivery**. First close and then manually deliver the solution until you can see a recurring pattern.
-
-7. **Systematize or Productize**. When the recurring pattern is found, either a) assume a SaaS hypothesis or b) systematic delivery and start the productization process.
-
-8. **Scale**. Keep building the systems (sales, delivery, etc.) until the goal is reached.
-
-## Step 1. Market Scope
+## Step 1. Business Opportunity Criteria
 
 The list of criteria is derived from the following two foundational assumptions:
 
@@ -117,61 +107,41 @@ Given **a)** High-Ticket B2B, **b)** Bootstrapped (Finite Runway), **c)** Zero N
 To be valid, a market scope must pass **ALL** of the following filters:
 
 1. **Accessibility (Can I reach them?)**
-   The decision-maker must be directly reachable via public channels (Email, Phone, LinkedIn). If the industry relies on "Old Boys' Networks," hidden gatekeepers, or requires physical presence to get a meeting, it violates the _Outbound Axiom_.
+   The decision-maker must be directly reachable via public channels (Email, LinkedIn, Phone, Google Map, etc.). If the industry relies on "Old Boys' Networks," hidden gatekeepers, or requires physical presence to get a meeting, it violates the _Outbound Axiom_.
 
-2. **Purchasing Power (Is the problem expensive?)**
-   The target must routinely pay significant amounts ($2k–$10k+) to solve business problems. The math of a Solo Founder with limited runway requires **High Margins** to survive. I cannot afford to sell low-ticket items that require high volume.
+2. **Purchasing Power & Liquidity**
+   The target sector must be financially healthy enough to pay for their pain. I must avoid "Desperate Markets" (e.g., struggling restaurants, low-margin retail) where cash flow is a constant emergency. Even if the problem is expensive (Purchasing Power), if they don't have cash in the bank (Liquidity), the deal dies.
 
-3. **Liquidity (Do they have cash _now_?)**
-   The target sector must be financially healthy. I must avoid "Desperate Markets" (e.g., struggling restaurants, low-margin retail) where cash flow is a constant emergency. Even if the problem is expensive (Purchasing Power), if they don't have cash in the bank (Liquidity), the deal dies. Remember, the market must pull.
+3. **Decision Autonomy**
+   The person I contact must have the authority to unilaterally approve the purchase. I must avoid markets where the decision requires a Committee, a Board, or multiple department heads.
 
-4. **Decision Autonomy (Who signs the check?)**
-   The person I contact must have the authority to unilaterally approve the purchase. I must avoid markets where the decision requires a Committee, a Board, or multiple department heads. **One Contact = One Decision.**
+4. **Transaction Velocity**
+   The industry must be free of structural "Sludge." I must avoid markets with heavy **Compliance**, **Regulation**, or **Legal** bottlenecks.
 
-5. **Transaction Velocity (Is the process fast?)**
-   Even with Autonomy, the industry must be free of structural "Sludge." I must avoid markets with heavy **Compliance**, **Regulation**, or **Legal** bottlenecks (e.g., Government, Hospitals, Public Schools) where a "Yes" takes 3 months to become a "Check."
+5. **Market Fragmentation**
+   The market must be sufficiently fragmented to ensure that there are enough potential customers whom I can reach out.
 
-6. **Problem Awareness (Do they know it?)**
-   The target must already be aware of the pain. I am here to **Capture Demand**, not create it. If I have to spend my limited runway educating the client that the problem exists (Evangelism), the scope is invalid. Remember, the market must pull.
+6. **Problem Awareness**
+   The target must already be aware of the pain. I must **Capture Demand**, not create it. I should not educate them that they have a problem. Ideally, they should say "I'll pay you now $XXX if you can solve this".
 
 7. **Technical Solvability (Digital Soil).**
-   The market’s primary bottlenecks must be rooted in Information and Process Inefficiency, not physical or biological constraints, ensuring the problem is solvable purely by manipulating data, logic, and communication channels (Bits vs. Atoms). This allows me to leverage my full "Pro Generalist" stack (AI, Agents, APIs, Web Dev, Architecture) to engineer a solution, rather than hitting a wall where code is powerless against physical reality (e.g., I can fix a "Scheduling Mess" or "Lost Orders" via software, but I cannot fix "Spoiling Food" or a "Leaking Roof").
+   The market’s primary bottlenecks should be rooted in Information and Process Inefficiency, not physical or biological constraints, ensuring the problem is solvable purely by manipulating data, logic, and communication channels (Bits vs. Atoms). This allows me to leverage my full "Pro Generalist" stack (AI, Agents, APIs, Web Dev, Architecture) to engineer a solution.
 
-8. **Competitive Vacancy (Is the space empty?)**
-   The specific problem must not be currently solved by a dominant platforms or flooded with well-funded competitors ("Red Ocean"). I am looking for "Greenfield" opportunities where the current competitor is **Excel, Email or Google Docs**. If I have to battle a billion-dollar R&D budget or displace a deeply integrated ecosystem (Platform Risk) to get in the door, the scope is invalid.
+8. **Emerging Problem**
+   If the problem is too old and well-known, it's a red flag because it's MOST LIKELY(BUT NOT GUARANTEED) either "Nature of the Business", does not make financial sense to solve it or some other fundamental reason why it wasn't solved yet.
 
-9. **Market Depth (Is there enough inventory?)**
-   The total addressable prospect list must be large enough (Thousands, not Hundreds) to support a high-volume learning phase. I will burn through 90% of leads while learning; a "small pond" ensures I run out of prospects before I figure out the puzzle. Remember, the market must pull.
+9. **Competitive Vacancy**
+   Make sure that there no existing VC-backed startups are already fighting for this market. It's even better to find a problem that VC-backed startups wouldn't be interested in solving.
+
+10. **Market Size**
+    The total addressable prospect list must be large enough to support a high-volume learning phase and future scale.
+
+11. **Entry Barrier**
+    The business must be viable for me to succeed, but not too obvious for other to easily copy it. I have to keep in mind both - individual freelancers and VC-backed startups.
+
+## Step 2. Market Direction
 
 Based on our criteria our Market Scope is **Knowledge-Intensive Business Services (KIBS)**, that includes the two following sub-categories:
 
 1. Info Middlemen (Connect supply with demand without owning either; e.g., Recruiters/Headhunters matching talent to companies, Freight Brokers matching shippers to trucks, Real Estate/Business Brokers matching buyers to sellers, or Lead Generators selling prospect lists).
 2. Experts (Sell specialized competence to execute or optimize a specific business function; e.g., Marketing Agencies managing growth, Compliance/Legal Consultants navigating regulations, Custom Software Shops building products, or Property Managers handling daily operations).
-
-## Step 2 + 3. Problem Scope + Minimal Viable Segment
-
-After conducting a research of emerging frictions, trends we have identified not only the **Problem Scope**, but also a good candidate for the our **Minimal Viable Segment** - **SMB Freight Brokerage**.
-
-IMPORTANT NOTE: This research was done by running a Web research in different AI agents (Claude, Gemini & Perplexity) in an hour and even though it feels "too good to be true", I decided that it's a good enough reason to proceed to the next step - **MVS Deep Dive** to validate this hypothesis further (I am not committing to this MVS yet, but giving it a chance). Also it seems like it's very hard (if not impossible) to find a **Problem Scope**, because each niche has different problems.
-
-RESULT (HYPOTHESIS): I believe **SMB Freight Brokers** are losing significant OpEx on **Manual Identity Vetting Checks** because of **The Industrialization of Fraud in 2024/2025**, which has rendered traditional database checks useless and forced them to revert to expensive manual phone verification.
-
-See more details about this research in [RESULT](./projects/251128%20KIBS%20Problem%20Worthy%20of%20Solving/03-RESULT.md)
-
-## Step 4. Digital (Secondary) Audit
-
-### The Must-Have Findings
-
-1. Rants. Find sufficient enough evidence of the problem.
-2. Contacts. Identify who are the people experiencing the problem, how many of them and how to reach them.
-
-### The Kill Switches
-
-Conduct a comprehensive research trying to find ANYTHING that would KILL our hypothesis, including, but NOT LIMITED to:
-
-- Market Satisfaction: They love their current tools.
-- Triviality of the Problem: The problem is not significant enough to care about.
-- Small Market Size: There are not enough potential customers.
-- Unreachable Market: Cannot reach the right people.
-- No Purchasing Power: They cannot afford even a cheap solution that WOULD solved their problem.
-- etc.
