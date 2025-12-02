@@ -22,7 +22,7 @@
   1. **Acceleration vs Speed**. Most smart people are afraid to leave their comfort zone where they are PRO and rarely advanced on the new territories where they SUCK. And instead keep double investing on their existing skills. I am a super fast learner and shall double invest on any skills or domain knowledge which is the RIGHT to learn, even if I currently suck at it.
   2. **Cold Outreach** potential clients. Including interviewing them when you have nothing to sell. Follow up on not responded emails. Ask "Why" even after they reject you. Analyze rejections with curiosity.
   3. **Listening and Empathy**. Specialist think that they "know", interrupt and push their "smart reason" missing out that Listening and Empathy is not only allows you to learn way more things (there is always something to learn), but most importantly it allows you to make people WANT to listen to you.
-  4. **Essentialism**. Specialists have hard time using boring tech stack, delivering ugly code or solving something manually if it can be automated "in 5 minutes". I shall focus on Efficiency and Simplicity to get the job done and iterated fast no matter what technology I use, wether it's manual or else. I shall only think about automation, polishing or optimization when and if it's needed. I shall also "Kill my darlings" when I see that it's no longer adding value without any Sunk Costs.
+  4. **Essentialism**. Specialists have hard time using boring tech stack, delivering ugly code or solving something manually if it can be automated "in 5 minutes". I shall focus on Efficiency and Simplicity to get the job done and iterated fast no matter what technology I use, whether it's manual or else. I shall only think about automation, polishing or optimization when and if it's needed. I shall also "Kill my darlings" when I see that it's no longer adding value without any Sunk Costs.
   5. **No to shortcuts**. I shall refuse any projects that don't move me forward my goals even if it's an "easy cash".
   6. **Under-promising**. Most specialists over promise and under deliver. I shall say "I can deliver it in 3 day" even if I think I can do it in 1.
   7. **Value Oriented Prices**. I shall ignore the COST when thinking of how much I will charge. Most people think "cost + margin = price". I shall think "value = price". So even if it costs me nothing to deliver, I shall charge as much as I possibly can confidently with cool. And when I say "It'll cost you approximately $20k" and then I shut up, because who ever speaks next will lose.
@@ -90,8 +90,8 @@ In business, like in life there are two kind of things - "Things to be Discovere
 
 In principles, the game must be executed in the following order:
 
-- Phase 1 (100% Discovery): Discover the Right Opportunity (Customer + Problem + Channels).
-- Phase 2 (50% Discovery, 50% Innovation): Conceive the Right Solution (Solution + Offer + Sales + Delivery).
+- Phase 1 (100% Discovery): **Discover** the Right Opportunity (Customer + Problem + Channels).
+- Phase 2 (50% Discovery, 50% Innovation): **Conceive** the Right Solution (Solution + Offer + Sales + Delivery).
 - Phase 3 (0% Discovery, 0% Innovation, 100% Orchestration): Optimize, Systematize and Scale.
 
 ## Step 1. Business Opportunity Criteria
@@ -104,40 +104,49 @@ My success must depend **solely** on variables I can control (My Solution, Offer
 **Assumption 2 (The Outbound Axiom):**
 Given **a)** High-Ticket B2B, **b)** Bootstrapped (Finite Runway), **c)** Zero Network, **d)** Zero Brand Name, **e)** Unverified Product-Market Fit, and **f)** the physics of marketing (there are only 4 ways to acquire a customer: Warm, Cold, Content, Ads) — **Business SURVIVAL is a function of Cold Outreach, and nothing else.** Since Warm is impossible (no network), Content is too slow (no brand), and Ads are too risky (unproven offer), Cold Outreach is the only remaining mechanism to guarantee immediate deal flow and problem discovery.
 
-To be valid, a market scope must pass **ALL** of the following filters:
+Based on these assumptions, I derived the following **Business Opportunity Criteria** to evaluate potential markets:
 
-1. **Accessibility (Can I reach them?)**
-   The decision-maker must be directly reachable via public channels (Email, LinkedIn, Phone, Google Map, etc.). If the industry relies on "Old Boys' Networks," hidden gatekeepers, or requires physical presence to get a meeting, it violates the _Outbound Axiom_.
+1. **Accessibility & Receptivity [KILL_SWITCH]**
+   The decision-maker must be directly reachable via public channels (Email, LinkedIn, Phone, Google Map, etc.) and the industry must be receptive enough to cold outreach. If the industry relies on "Old Boys' Networks," hidden gatekeepers, or requires physical presence to get a meeting, it violates the _Outbound Axiom_.
 
-2. **Purchasing Power & Liquidity**
-   The target sector must be financially healthy enough to pay for their pain. I must avoid "Desperate Markets" (e.g., struggling restaurants, low-margin retail) where cash flow is a constant emergency. Even if the problem is expensive (Purchasing Power), if they don't have cash in the bank (Liquidity), the deal dies.
+2. **Referencability [STRONG]**
+   Early customers must be able and willing to refer others if I provided enough value for them. The industry should have professional communities, peer networks, or associations where word-of-mouth can travel. Avoid markets with competitive secrecy or where culture prevents customers from becoming referral sources.
 
-3. **Decision Autonomy**
+3. **Decision Autonomy [KILL_SWITCH]**
    The person I contact must have the authority to unilaterally approve the purchase. I must avoid markets where the decision requires a Committee, a Board, or multiple department heads.
 
-4. **Transaction Velocity**
+4. **Transaction Velocity [KILL_SWITCH]**
    The industry must be free of structural "Sludge." I must avoid markets with heavy **Compliance**, **Regulation**, or **Legal** bottlenecks.
 
-5. **Market Fragmentation**
-   The market must be sufficiently fragmented to ensure that there are enough potential customers whom I can reach out.
+5. **Purchasing Power & Liquidity [KILL_SWITCH]**
+   The target sector must be financially healthy enough to pay for their pain. I must avoid "Desperate Markets" (e.g., struggling restaurants, low-margin retail) where cash flow is a constant emergency. Even if the problem is expensive (Purchasing Power), if they don't have cash in the bank (Liquidity), the deal dies.
 
-6. **Problem Awareness**
-   The target must already be aware of the pain. I must **Capture Demand**, not create it. I should not educate them that they have a problem. Ideally, they should say "I'll pay you now $XXX if you can solve this".
+6. **Market Size [KILL_SWITCH]**
+   The market must have enough total economic value to support a $5M+ business. Wether it's via $10K from 500 customers or $500 from 10,000 customers, the math must work.
 
-7. **Technical Solvability (Digital Soil).**
-   The market’s primary bottlenecks should be rooted in Information and Process Inefficiency, not physical or biological constraints, ensuring the problem is solvable purely by manipulating data, logic, and communication channels (Bits vs. Atoms). This allows me to leverage my full "Pro Generalist" stack (AI, Agents, APIs, Web Dev, Architecture) to engineer a solution.
+7. **Market Fragmentation [KILL_SWITCH]**
+   The market must be structurally fragmented — meaning many independent businesses, not consolidated into a few dominant players.
 
-8. **Emerging Problem**
-   If the problem is too old and well-known, it's a red flag because it's MOST LIKELY(BUT NOT GUARANTEED) either "Nature of the Business", does not make financial sense to solve it or some other fundamental reason why it wasn't solved yet.
+8. **Recent Shift [STRONG]**
+   The opportunity must be connected to a recent change. It should be either Emerging Problem (appeared recently due to environmental change) or a Newly Solvable Problem (An old, known problem that just became tractable due to a shift). If the problem is old and there's no recent shift that makes it newly solvable — that's a red flag.
 
-9. **Competitive Vacancy**
-   Make sure that there no existing VC-backed startups are already fighting for this market. It's even better to find a problem that VC-backed startups wouldn't be interested in solving.
+9. **Problem Awareness & Urgency [KILL_SWITCH]**
+   The target must already be aware of the pain and preferably urgent. I must **Capture Demand**, not create it. I should not educate them that they have a problem. Ideally, they should say "I'll pay you now $XXX if you can solve this".
 
-10. **Market Size**
-    The total addressable prospect list must be large enough to support a high-volume learning phase and future scale.
+10. **Recurrence [KILL_SWITCH]**
+    The problem must be ongoing and operational, not a one-time event. This enables a subscription model where the solution becomes embedded in their workflow. Avoid problems that, once solved, don't recur.
 
-11. **Entry Barrier**
-    The business must be viable for me to succeed, but not too obvious for other to easily copy it. I have to keep in mind both - individual freelancers and VC-backed startups.
+11. **Technical Solvability (Digital Soil) [STRONG]**
+    The market’s primary bottlenecks should be rooted in Information and Process Inefficiency, not physical or biological constraints, ensuring the problem is solvable purely by manipulating data, logic, and communication channels (Bits vs. Atoms). This allows me to leverage my full "Pro Generalist" stack (AI, Agents, APIs, Web Dev, Architecture) to engineer a solution.
+
+12. **Switching Feasibility [STRONG]**
+    The adoption of a new solution should bring 2 times more value than the pain of switching/integration. Light switching friction is fine (and helps retention later), but high barriers kill deals.
+
+13. **Competitive Vacancy ("Shark" moat) [MEDIUM]**
+    Make sure that there no existing VC-backed startups are already fighting for this market. It's even better to find a problem that VC-backed startups wouldn't be interested in solving.
+
+14. **Entry Barrier ("Piranha" moat) [MEDIUM]**
+    The business must be viable for me to succeed, but not too obvious for other to easily copy it. This is a soft gut check "Would a fresh grad recognize this as worth solving and be able to execute?". So the problem should be non-obvious problem (they wouldn't see it) and difficult enough to execute (they couldn't do it even if they saw it).
 
 ## Step 2. Market Direction
 
