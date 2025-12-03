@@ -131,10 +131,10 @@ Based on these assumptions, I derived the following **Business Opportunity Crite
    The opportunity must be connected to a recent change. It should be either Emerging Problem (appeared recently due to environmental change) or a Newly Solvable Problem (An old, known problem that just became tractable due to a shift). If the problem is old and there's no recent shift that makes it newly solvable — that's a red flag.
 
 9. **Problem Awareness & Urgency [KILL_SWITCH]**
-   The target must already be aware of the pain and preferably urgent. I must **Capture Demand**, not create it. I should not educate them that they have a problem. Ideally, they should say "I'll pay you now $XXX if you can solve this".
+   The target must already be aware of the pain and preferably urgent. I must **Capture Demand**, not create it. I should not educate them that they have a problem. Ideally, they should say "I'll pay you now if you can solve this". Also calendar urgent problems are even better, because they provide natural outreach timing ("X is coming...") and creates external pressure that accelerates decisions.
 
-10. **Recurrence [KILL_SWITCH]**
-    The problem must be ongoing and operational, not a one-time event. This enables a subscription model where the solution becomes embedded in their workflow. Avoid problems that, once solved, don't recur.
+10. **Recurrence & OpEx [KILL_SWITCH]**
+    The problem must be ongoing, not a one-time event. This enables a subscription model where the solution becomes embedded in their workflow. Avoid problems that, once solved, don't recur. Also, the problem should be classifiable as an Operational Expense (OpEx) rather than a Capital Expenditure (CapEx) because "operational cost" are easier to sell by showing explicit ROI.
 
 11. **Technical Solvability (Digital Soil) [STRONG]**
     The market’s primary bottlenecks should be rooted in Information and Process Inefficiency, not physical or biological constraints, ensuring the problem is solvable purely by manipulating data, logic, and communication channels (Bits vs. Atoms). This allows me to leverage my full "Pro Generalist" stack (AI, Agents, APIs, Web Dev, Architecture) to engineer a solution.
@@ -147,10 +147,3 @@ Based on these assumptions, I derived the following **Business Opportunity Crite
 
 14. **Entry Barrier ("Piranha" moat) [MEDIUM]**
     The business must be viable for me to succeed, but not too obvious for other to easily copy it. This is a soft gut check "Would a fresh grad recognize this as worth solving and be able to execute?". So the problem should be non-obvious problem (they wouldn't see it) and difficult enough to execute (they couldn't do it even if they saw it).
-
-## Step 2. Market Direction
-
-Based on our criteria our Market Scope is **Knowledge-Intensive Business Services (KIBS)**, that includes the two following sub-categories:
-
-1. Info Middlemen (Connect supply with demand without owning either; e.g., Recruiters/Headhunters matching talent to companies, Freight Brokers matching shippers to trucks, Real Estate/Business Brokers matching buyers to sellers, or Lead Generators selling prospect lists).
-2. Experts (Sell specialized competence to execute or optimize a specific business function; e.g., Marketing Agencies managing growth, Compliance/Legal Consultants navigating regulations, Custom Software Shops building products, or Property Managers handling daily operations).
