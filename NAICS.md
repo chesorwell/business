@@ -188,42 +188,36 @@
   - 441 Motor Vehicle and Parts Dealers
     - 4411 Automobile Dealers
     - 4412 Other Motor Vehicle Dealers
-    - 4413 Automotive Parts, Accessories, and Tire Stores
-  - 442 Furniture and Home Furnishings Stores
-    - 4421 Furniture Stores
-    - 4422 Home Furnishings Stores
-  - 443 Electronics and Appliance Stores
-    - 4431 Electronics and Appliance Stores
+    - 4413 Automotive Parts, Accessories, and Tire Retailers
   - 444 Building Material and Garden Equipment and Supplies Dealers
     - 4441 Building Material and Supplies Dealers
-    - 4442 Lawn and Garden Equipment and Supplies Stores
-  - 445 Food and Beverage Stores
-    - 4451 Grocery Stores
-    - 4452 Specialty Food Stores
-    - 4453 Beer, Wine, and Liquor Stores
-  - 446 Health and Personal Care Stores
-    - 4461 Health and Personal Care Stores
-  - 447 Gasoline Stations
-    - 4471 Gasoline Stations
-  - 448 Clothing and Clothing Accessories Stores
-    - 4481 Clothing Stores
-    - 4482 Shoe Stores
-    - 4483 Jewelry, Luggage, and Leather Goods Stores
-  - 451 Sporting Goods, Hobby, Musical Instrument, and Book Stores
-    - 4511 Sporting Goods, Hobby, and Musical Instrument Stores
-    - 4512 Book Stores and News Dealers
-  - 452 General Merchandise Stores
-    - 4522 Department Stores
-    - 4523 General Merchandise Stores, including Warehouse Clubs and Supercenters
-  - 453 Miscellaneous Store Retailers
-    - 4531 Florists
-    - 4532 Office Supplies, Stationery, and Gift Stores
-    - 4533 Used Merchandise Stores
-    - 4539 Other Miscellaneous Store Retailers
-  - 454 Nonstore Retailers
-    - 4541 Electronic Shopping and Mail-Order Houses
-    - 4542 Vending Machine Operators
-    - 4543 Direct Selling Establishments
+    - 4442 Lawn and Garden Equipment and Supplies Retailers
+  - 445 Food and Beverage Retailers
+    - 4451 Grocery and Convenience Retailers
+    - 4452 Specialty Food Retailers
+    - 4453 Beer, Wine, and Liquor Retailers
+  - 449 Furniture, Home Furnishings, Electronics, and Appliance Retailers
+    - 4491 Furniture and Home Furnishings Retailers
+    - 4492 Electronics and Appliance Retailers
+  - 455 General Merchandise Retailers
+    - 4551 Department Stores
+    - 4552 Warehouse Clubs, Supercenters, and Other General Merchandise Retailers
+  - 456 Health and Personal Care Retailers
+    - 4561 Health and Personal Care Retailers
+  - 457 Gasoline Stations and Fuel Dealers
+    - 4571 Gasoline Stations
+    - 4572 Fuel Dealers
+  - 458 Clothing, Clothing Accessories, Shoe, and Jewelry Retailers
+    - 4581 Clothing and Clothing Accessories Retailers
+    - 4582 Shoe Retailers
+    - 4583 Jewelry, Luggage, and Leather Goods Retailers
+  - 459 Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers
+    - 4591 Sporting Goods, Hobby, and Musical Instrument Retailers
+    - 4592 Book Retailers and News Dealers
+    - 4593 Florists
+    - 4594 Office Supplies, Stationery, and Gift Retailers
+    - 4595 Used Merchandise Retailers
+    - 4599 Other Miscellaneous Retailers
 - 48-49 Transportation and Warehousing
   - 481 Air Transportation
     - 4811 Scheduled Air Transportation
@@ -266,23 +260,23 @@
   - 493 Warehousing and Storage
     - 4931 Warehousing and Storage
 - 51 Information
-  - 511 Publishing Industries (except Internet)
-    - 5111 Newspaper, Periodical, Book, and Directory Publishers
-    - 5112 Software Publishers
   - 512 Motion Picture and Sound Recording Industries
     - 5121 Motion Picture and Video Industries
     - 5122 Sound Recording Industries
-  - 515 Broadcasting (except Internet)
-    - 5151 Radio and Television Broadcasting
-    - 5152 Cable and Other Subscription Programming
+  - 513 Publishing Industries
+    - 5131 Newspaper, Periodical, Book, and Directory Publishers
+    - 5132 Software Publishers
+  - 516 Broadcasting and Content Providers
+    - 5161 Radio and Television Broadcasting Stations
+    - 5162 Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers
   - 517 Telecommunications
-    - 5173 Wired and Wireless Telecommunications Carriers
+    - 5171 Wired and Wireless Telecommunications (except Satellite)
     - 5174 Satellite Telecommunications
-    - 5179 Other Telecommunications
-  - 518 Data Processing, Hosting, and Related Services
-    - 5182 Data Processing, Hosting, and Related Services
-  - 519 Other Information Services
-    - 5191 Other Information Services
+    - 5178 All Other Telecommunications
+  - 518 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
+    - 5182 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
+  - 519 Web Search Portals, Libraries, Archives, and Other Information Services
+    - 5192 Web Search Portals, Libraries, Archives, and Other Information Services
 - 52 Finance and Insurance
   - 521 Monetary Authorities-Central Bank
     - 5211 Monetary Authorities-Central Bank
