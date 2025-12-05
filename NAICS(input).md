@@ -1,0 +1,11 @@
+- 11 Agriculture, Forestry, Fishing and Hunting
+  - 11 Agriculture, Forestry, Fishing and Hunting 367,959
+  - 1111 Oilseed and Grain Farming 58,944
+  - 1112 Vegetable and Melon Farming 4,605
+  - 1113 Fruit and Tree Nut Farming 10,228
+  - ...
+  - 1153 Support Activities for Forestry 5,097
+- 21 Mining
+- 22 Utilities
+- ...
+- 92 Public Administration
