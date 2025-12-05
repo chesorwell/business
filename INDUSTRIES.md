@@ -158,7 +158,7 @@
     - 4248 Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers
     - 4249 Miscellaneous Nondurable Goods Merchant Wholesalers
   - 425 Wholesale Electronic Markets and Agents and Brokers
-    - 4251 Wholesale Electronic Markets and Agents and Brokers
+    - 4251 Wholesale Trade Agents and Brokers
 - 48-49 Transportation and Warehousing
   - 481 Air Transportation
     - 4812 Nonscheduled Air Transportation
@@ -275,7 +275,7 @@
     - 6233 Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
     - 6239 Other Residential Care Facilities
   - 624 Social Assistance
-    - 6244 Child Day Care Services
+    - 6244 Child Care Services
 - 81 Other Services (except Public Administration)
   - 811 Repair and Maintenance
     - 8111 Automotive Repair and Maintenance
