@@ -1,0 +1,1332 @@
+[
+  {
+    "code": "621111",
+    "title": "Offices of Physicians (except Mental Health Specialists)",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6211 Offices of Physicians",
+    "metrics": {
+      "smallEstablishments": 189526,
+      "totalEstablishments": 197739,
+      "totalEmployees": 2582111,
+      "avgPayrollPerEmployee": 102237,
+      "smallBizPayrollShare": 0.51,
+      "avgEmployeesPerEstablishment": 13.1
+    },
+    "sizeBreakdown": "1-4: 102,506 est. (173,454 emp) | 5-9: 38,412 est. (256,807 emp) | 10-19: 29,220 est. (397,201 emp) | 20-49: 19,388 est. (574,716 emp) | 50-99: 4,991 est. (338,192 emp) | 100-249: 2,331 est. (346,937 emp) | 250-499: 594 est. (200,644 emp) | 500-999: 204 est. (138,938 emp) | 1000+: 93 est. (155,222 emp)"
+  },
+  {
+    "code": "531210",
+    "title": "Offices of Real Estate Agents and Brokers",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5312 Offices of Real Estate Agents and Brokers",
+    "metrics": {
+      "smallEstablishments": 164886,
+      "totalEstablishments": 165585,
+      "totalEmployees": 416530,
+      "avgPayrollPerEmployee": 82258,
+      "smallBizPayrollShare": 0.7,
+      "avgEmployeesPerEstablishment": 2.5
+    },
+    "sizeBreakdown": "1-4: 151,806 est. (178,135 emp) | 5-9: 8,675 est. (54,941 emp) | 10-19: 2,970 est. (38,939 emp) | 20-49: 1,435 est. (43,488 emp) | 50-99: 419 est. (28,754 emp) | 100-249: 198 est. (29,758 emp) | 250-499: 50 est. (17,682 emp) | 500-999: 26 est. (17,629 emp) | 1000+: 6 est. (7,204 emp)"
+  },
+  {
+    "code": "541110",
+    "title": "Offices of Lawyers",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5411 Legal Services",
+    "metrics": {
+      "smallEstablishments": 164025,
+      "totalEstablishments": 166972,
+      "totalEmployees": 1078148,
+      "avgPayrollPerEmployee": 121210,
+      "smallBizPayrollShare": 0.53,
+      "avgEmployeesPerEstablishment": 6.5
+    },
+    "sizeBreakdown": "1-4: 120,321 est. (201,092 emp) | 5-9: 25,093 est. (163,259 emp) | 10-19: 12,140 est. (161,345 emp) | 20-49: 6,471 est. (193,093 emp) | 50-99: 1,841 est. (125,535 emp) | 100-249: 863 est. (126,900 emp) | 250-499: 181 est. (59,867 emp) | 500-999: 48 est. (30,492 emp) | 1000+: 14 est. (16,565 emp)"
+  },
+  {
+    "code": "621210",
+    "title": "Offices of Dentists",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6212 Offices of Dentists",
+    "metrics": {
+      "smallEstablishments": 135577,
+      "totalEstablishments": 136140,
+      "totalEmployees": 1031957,
+      "avgPayrollPerEmployee": 57734,
+      "smallBizPayrollShare": 0.94,
+      "avgEmployeesPerEstablishment": 7.6
+    },
+    "sizeBreakdown": "1-4: 51,227 est. (102,490 emp) | 5-9: 48,980 est. (333,851 emp) | 10-19: 29,252 est. (378,399 emp) | 20-49: 6,118 est. (162,959 emp) | 50-99: 449 est. (28,489 emp) | 100-249: 85 est. (12,038 emp) | 250-499: 23 est. (7,457 emp) | 500-999: 5 est. (2,873 emp)"
+  },
+  {
+    "code": "524210",
+    "title": "Insurance Agencies and Brokerages",
+    "sector": "52 Finance and Insurance | 524 Insurance Carriers and Related Activities | 5242 Agencies, Brokerages, and Other Insurance Related Activities",
+    "metrics": {
+      "smallEstablishments": 133257,
+      "totalEstablishments": 135100,
+      "totalEmployees": 807633,
+      "avgPayrollPerEmployee": 84240,
+      "smallBizPayrollShare": 0.55,
+      "avgEmployeesPerEstablishment": 6
+    },
+    "sizeBreakdown": "1-4: 99,079 est. (180,816 emp) | 5-9: 23,040 est. (145,371 emp) | 10-19: 7,526 est. (98,307 emp) | 20-49: 3,612 est. (107,458 emp) | 50-99: 1,028 est. (70,095 emp) | 100-249: 616 est. (88,211 emp) | 250-499: 131 est. (44,439 emp) | 500-999: 47 est. (33,708 emp) | 1000+: 21 est. (39,228 emp)"
+  },
+  {
+    "code": "236118",
+    "title": "Residential Remodelers",
+    "sector": "23 Construction | 236 Construction of Buildings | 2361 Residential Building Construction",
+    "metrics": {
+      "smallEstablishments": 132772,
+      "totalEstablishments": 133345,
+      "totalEmployees": 462690,
+      "avgPayrollPerEmployee": 55047,
+      "smallBizPayrollShare": 0.84,
+      "avgEmployeesPerEstablishment": 3.5
+    },
+    "sizeBreakdown": "1-4: 108,412 est. (151,750 emp) | 5-9: 15,501 est. (99,508 emp) | 10-19: 6,370 est. (83,604 emp) | 20-49: 2,489 est. (71,634 emp) | 50-99: 430 est. (28,760 emp) | 100-249: 127 est. (18,390 emp) | 250-499: 14 est. (5,138 emp)"
+  },
+  {
+    "code": "561730",
+    "title": "Landscaping Services",
+    "sector": "56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5617 Services to Buildings and Dwellings",
+    "metrics": {
+      "smallEstablishments": 114954,
+      "totalEstablishments": 117109,
+      "totalEmployees": 774028,
+      "avgPayrollPerEmployee": 49769,
+      "smallBizPayrollShare": 0.65,
+      "avgEmployeesPerEstablishment": 6.6
+    },
+    "sizeBreakdown": "1-4: 83,049 est. (113,401 emp) | 5-9: 16,972 est. (110,952 emp) | 10-19: 9,413 est. (126,484 emp) | 20-49: 5,520 est. (165,646 emp) | 50-99: 1,409 est. (94,642 emp) | 100-249: 559 est. (81,721 emp) | 250-499: 158 est. (53,504 emp) | 500-999: 22 est. (15,013 emp) | 1000+: 7 est. (12,665 emp)"
+  },
+  {
+    "code": "238220",
+    "title": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2382 Building Equipment Contractors",
+    "metrics": {
+      "smallEstablishments": 105570,
+      "totalEstablishments": 109601,
+      "totalEmployees": 1176759,
+      "avgPayrollPerEmployee": 69883,
+      "smallBizPayrollShare": 0.5,
+      "avgEmployeesPerEstablishment": 10.7
+    },
+    "sizeBreakdown": "1-4: 63,898 est. (109,898 emp) | 5-9: 20,550 est. (135,440 emp) | 10-19: 12,938 est. (174,215 emp) | 20-49: 8,184 est. (246,142 emp) | 50-99: 2,495 est. (172,279 emp) | 100-249: 1,199 est. (173,692 emp) | 250-499: 253 est. (87,694 emp) | 500-999: 57 est. (37,901 emp) | 1000+: 27 est. (39,498 emp)"
+  },
+  {
+    "code": "541611",
+    "title": "Administrative Management and General Management Consulting Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services",
+    "metrics": {
+      "smallEstablishments": 95382,
+      "totalEstablishments": 97678,
+      "totalEmployees": 788736,
+      "avgPayrollPerEmployee": 123013,
+      "smallBizPayrollShare": 0.29,
+      "avgEmployeesPerEstablishment": 8.1
+    },
+    "sizeBreakdown": "1-4: 82,064 est. (94,051 emp) | 5-9: 6,602 est. (42,456 emp) | 10-19: 4,002 est. (53,279 emp) | 20-49: 2,714 est. (82,038 emp) | 50-99: 1,093 est. (75,480 emp) | 100-249: 728 est. (111,976 emp) | 250-499: 287 est. (100,748 emp) | 500-999: 120 est. (84,555 emp) | 1000+: 68 est. (144,153 emp)"
+  },
+  {
+    "code": "811111",
+    "title": "General Automotive Repair",
+    "sector": "81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8111 Automotive Repair and Maintenance",
+    "metrics": {
+      "smallEstablishments": 83824,
+      "totalEstablishments": 84101,
+      "totalEmployees": 385539,
+      "avgPayrollPerEmployee": 49829,
+      "smallBizPayrollShare": 0.9,
+      "avgEmployeesPerEstablishment": 4.6
+    },
+    "sizeBreakdown": "1-4: 56,131 est. (111,018 emp) | 5-9: 20,447 est. (131,320 emp) | 10-19: 5,903 est. (74,547 emp) | 20-49: 1,343 est. (37,219 emp) | 50-99: 194 est. (12,753 emp) | 100-249: 69 est. (10,608 emp) | 250-499: 7 est. (1,844 emp) | 500-999: 5 est. (2,705 emp)"
+  },
+  {
+    "code": "812112",
+    "title": "Beauty Salons",
+    "sector": "81 Other Services (except Public Administration) | 812 Personal and Laundry Services | 8121 Personal Care Services",
+    "metrics": {
+      "smallEstablishments": 82677,
+      "totalEstablishments": 82964,
+      "totalEmployees": 386665,
+      "avgPayrollPerEmployee": 30393,
+      "smallBizPayrollShare": 0.94,
+      "avgEmployeesPerEstablishment": 4.7
+    },
+    "sizeBreakdown": "1-4: 56,517 est. (88,403 emp) | 5-9: 15,925 est. (104,979 emp) | 10-19: 7,650 est. (99,872 emp) | 20-49: 2,585 est. (71,590 emp) | 50-99: 251 est. (16,236 emp) | 100-249: 32 est. (4,230 emp) | 250-499: 4 est. (1,355 emp)"
+  },
+  {
+    "code": "238210",
+    "title": "Electrical Contractors and Other Wiring Installation Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2382 Building Equipment Contractors",
+    "metrics": {
+      "smallEstablishments": 78506,
+      "totalEstablishments": 81842,
+      "totalEmployees": 951773,
+      "avgPayrollPerEmployee": 71880,
+      "smallBizPayrollShare": 0.44,
+      "avgEmployeesPerEstablishment": 11.6
+    },
+    "sizeBreakdown": "1-4: 48,390 est. (83,768 emp) | 5-9: 14,872 est. (98,000 emp) | 10-19: 9,209 est. (124,376 emp) | 20-49: 6,035 est. (180,704 emp) | 50-99: 2,005 est. (138,245 emp) | 100-249: 1,013 est. (152,537 emp) | 250-499: 205 est. (70,060 emp) | 500-999: 83 est. (58,105 emp) | 1000+: 30 est. (45,978 emp)"
+  },
+  {
+    "code": "531110",
+    "title": "Lessors of Residential Buildings and Dwellings",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5311 Lessors of Real Estate",
+    "metrics": {
+      "smallEstablishments": 74300,
+      "totalEstablishments": 74908,
+      "totalEmployees": 345421,
+      "avgPayrollPerEmployee": 53240,
+      "smallBizPayrollShare": 0.73,
+      "avgEmployeesPerEstablishment": 4.6
+    },
+    "sizeBreakdown": "1-4: 56,091 est. (92,909 emp) | 5-9: 12,330 est. (78,460 emp) | 10-19: 4,312 est. (55,180 emp) | 20-49: 1,567 est. (46,019 emp) | 50-99: 411 est. (28,077 emp) | 100-249: 148 est. (21,925 emp) | 250-499: 37 est. (12,803 emp) | 500-999: 9 est. (6,181 emp) | 1000+: 3 est. (3,867 emp)"
+  },
+  {
+    "code": "541511",
+    "title": "Custom Computer Programming Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5415 Computer Systems Design and Related Services",
+    "metrics": {
+      "smallEstablishments": 64476,
+      "totalEstablishments": 68038,
+      "totalEmployees": 1044544,
+      "avgPayrollPerEmployee": 127071,
+      "smallBizPayrollShare": 0.25,
+      "avgEmployeesPerEstablishment": 15.4
+    },
+    "sizeBreakdown": "1-4: 48,558 est. (66,349 emp) | 5-9: 7,002 est. (46,519 emp) | 10-19: 4,869 est. (66,649 emp) | 20-49: 4,047 est. (124,659 emp) | 50-99: 1,699 est. (118,888 emp) | 100-249: 1,204 est. (184,075 emp) | 250-499: 406 est. (139,340 emp) | 500-999: 165 est. (113,593 emp) | 1000+: 88 est. (184,472 emp)"
+  },
+  {
+    "code": "484121",
+    "title": "General Freight Trucking, Long-Distance, Truckload",
+    "sector": "48-49 Transportation and Warehousing | 484 Truck Transportation | 4841 General Freight Trucking",
+    "metrics": {
+      "smallEstablishments": 61191,
+      "totalEstablishments": 63315,
+      "totalEmployees": 592167,
+      "avgPayrollPerEmployee": 59499,
+      "smallBizPayrollShare": 0.38,
+      "avgEmployeesPerEstablishment": 9.4
+    },
+    "sizeBreakdown": "1-4: 49,856 est. (61,934 emp) | 5-9: 4,945 est. (32,405 emp) | 10-19: 3,431 est. (47,372 emp) | 20-49: 2,959 est. (90,889 emp) | 50-99: 1,119 est. (77,175 emp) | 100-249: 713 est. (110,483 emp) | 250-499: 193 est. (65,569 emp) | 500-999: 68 est. (43,338 emp) | 1000+: 31 est. (63,002 emp)"
+  },
+  {
+    "code": "236115",
+    "title": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "sector": "23 Construction | 236 Construction of Buildings | 2361 Residential Building Construction",
+    "metrics": {
+      "smallEstablishments": 59216,
+      "totalEstablishments": 59568,
+      "totalEmployees": 238333,
+      "avgPayrollPerEmployee": 63522,
+      "smallBizPayrollShare": 0.78,
+      "avgEmployeesPerEstablishment": 4
+    },
+    "sizeBreakdown": "1-4: 46,250 est. (72,046 emp) | 5-9: 8,611 est. (55,252 emp) | 10-19: 3,204 est. (41,746 emp) | 20-49: 1,151 est. (32,847 emp) | 50-99: 246 est. (16,326 emp) | 100-249: 92 est. (12,976 emp) | 250-499: 9 est. (3,185 emp) | 500-999: 4 est. (2,747 emp)"
+  },
+  {
+    "code": "541330",
+    "title": "Engineering Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5413 Architectural, Engineering, and Related Services",
+    "metrics": {
+      "smallEstablishments": 57945,
+      "totalEstablishments": 62590,
+      "totalEmployees": 1199635,
+      "avgPayrollPerEmployee": 105799,
+      "smallBizPayrollShare": 0.34,
+      "avgEmployeesPerEstablishment": 19.2
+    },
+    "sizeBreakdown": "1-4: 33,505 est. (51,347 emp) | 5-9: 9,381 est. (62,997 emp) | 10-19: 8,128 est. (111,624 emp) | 20-49: 6,931 est. (212,959 emp) | 50-99: 2,614 est. (180,089 emp) | 100-249: 1,467 est. (218,420 emp) | 250-499: 369 est. (125,298 emp) | 500-999: 134 est. (89,176 emp) | 1000+: 61 est. (147,725 emp)"
+  },
+  {
+    "code": "531311",
+    "title": "Residential Property Managers",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate",
+    "metrics": {
+      "smallEstablishments": 55901,
+      "totalEstablishments": 57435,
+      "totalEmployees": 507375,
+      "avgPayrollPerEmployee": 58002,
+      "smallBizPayrollShare": 0.54,
+      "avgEmployeesPerEstablishment": 8.8
+    },
+    "sizeBreakdown": "1-4: 37,284 est. (64,284 emp) | 5-9: 11,192 est. (72,165 emp) | 10-19: 4,950 est. (65,272 emp) | 20-49: 2,475 est. (73,676 emp) | 50-99: 866 est. (60,088 emp) | 100-249: 477 est. (72,219 emp) | 250-499: 138 est. (46,923 emp) | 500-999: 43 est. (29,966 emp) | 1000+: 10 est. (22,782 emp)"
+  },
+  {
+    "code": "541512",
+    "title": "Computer Systems Design Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5415 Computer Systems Design and Related Services",
+    "metrics": {
+      "smallEstablishments": 55623,
+      "totalEstablishments": 58312,
+      "totalEmployees": 815846,
+      "avgPayrollPerEmployee": 120371,
+      "smallBizPayrollShare": 0.24,
+      "avgEmployeesPerEstablishment": 14
+    },
+    "sizeBreakdown": "1-4: 43,147 est. (56,954 emp) | 5-9: 5,745 est. (38,089 emp) | 10-19: 3,733 est. (50,923 emp) | 20-49: 2,998 est. (92,942 emp) | 50-99: 1,326 est. (93,324 emp) | 100-249: 870 est. (136,277 emp) | 250-499: 306 est. (105,090 emp) | 500-999: 117 est. (81,054 emp) | 1000+: 70 est. (161,193 emp)"
+  },
+  {
+    "code": "541211",
+    "title": "Offices of Certified Public Accountants",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5412 Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+    "metrics": {
+      "smallEstablishments": 54129,
+      "totalEstablishments": 55642,
+      "totalEmployees": 572944,
+      "avgPayrollPerEmployee": 97895,
+      "smallBizPayrollShare": 0.34,
+      "avgEmployeesPerEstablishment": 10.3
+    },
+    "sizeBreakdown": "1-4: 36,263 est. (61,474 emp) | 5-9: 10,412 est. (68,864 emp) | 10-19: 5,106 est. (67,671 emp) | 20-49: 2,348 est. (70,092 emp) | 50-99: 796 est. (55,147 emp) | 100-249: 463 est. (70,099 emp) | 250-499: 146 est. (50,524 emp) | 500-999: 64 est. (44,786 emp) | 1000+: 44 est. (84,287 emp)"
+  },
+  {
+    "code": "621340",
+    "title": "Offices of Physical, Occupational and Speech Therapists, and Audiologists",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners",
+    "metrics": {
+      "smallEstablishments": 49941,
+      "totalEstablishments": 50883,
+      "totalEmployees": 464527,
+      "avgPayrollPerEmployee": 47078,
+      "smallBizPayrollShare": 0.65,
+      "avgEmployeesPerEstablishment": 9.1
+    },
+    "sizeBreakdown": "1-4: 28,233 est. (48,891 emp) | 5-9: 11,576 est. (77,692 emp) | 10-19: 7,200 est. (96,218 emp) | 20-49: 2,932 est. (83,063 emp) | 50-99: 510 est. (35,090 emp) | 100-249: 294 est. (44,742 emp) | 250-499: 91 est. (31,064 emp) | 500-999: 31 est. (20,234 emp) | 1000+: 16 est. (27,533 emp)"
+  },
+  {
+    "code": "541613",
+    "title": "Marketing Consulting Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services",
+    "metrics": {
+      "smallEstablishments": 49241,
+      "totalEstablishments": 50025,
+      "totalEmployees": 281865,
+      "avgPayrollPerEmployee": 82170,
+      "smallBizPayrollShare": 0.47,
+      "avgEmployeesPerEstablishment": 5.6
+    },
+    "sizeBreakdown": "1-4: 42,129 est. (49,175 emp) | 5-9: 3,669 est. (24,057 emp) | 10-19: 2,047 est. (27,744 emp) | 20-49: 1,396 est. (41,971 emp) | 50-99: 465 est. (31,977 emp) | 100-249: 209 est. (31,462 emp) | 250-499: 59 est. (20,174 emp) | 500-999: 35 est. (22,843 emp) | 1000+: 16 est. (32,462 emp)"
+  },
+  {
+    "code": "541219",
+    "title": "Other Accounting Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5412 Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+    "metrics": {
+      "smallEstablishments": 45897,
+      "totalEstablishments": 46452,
+      "totalEmployees": 247793,
+      "avgPayrollPerEmployee": 55181,
+      "smallBizPayrollShare": 0.57,
+      "avgEmployeesPerEstablishment": 5.3
+    },
+    "sizeBreakdown": "1-4: 36,457 est. (55,002 emp) | 5-9: 6,087 est. (39,136 emp) | 10-19: 2,267 est. (29,630 emp) | 20-49: 1,086 est. (32,372 emp) | 50-99: 319 est. (22,156 emp) | 100-249: 167 est. (25,518 emp) | 250-499: 41 est. (13,537 emp) | 500-999: 17 est. (10,962 emp) | 1000+: 11 est. (19,480 emp)"
+  },
+  {
+    "code": "484110",
+    "title": "General Freight Trucking, Local",
+    "sector": "48-49 Transportation and Warehousing | 484 Truck Transportation | 4841 General Freight Trucking",
+    "metrics": {
+      "smallEstablishments": 44227,
+      "totalEstablishments": 45436,
+      "totalEmployees": 317257,
+      "avgPayrollPerEmployee": 48760,
+      "smallBizPayrollShare": 0.6,
+      "avgEmployeesPerEstablishment": 7
+    },
+    "sizeBreakdown": "1-4: 34,994 est. (44,465 emp) | 5-9: 4,114 est. (26,867 emp) | 10-19: 2,814 est. (38,586 emp) | 20-49: 2,305 est. (69,940 emp) | 50-99: 834 est. (57,835 emp) | 100-249: 323 est. (44,693 emp) | 250-499: 36 est. (11,310 emp) | 500-999: 5 est. (3,494 emp) | 1000+: 11 est. (20,067 emp)"
+  },
+  {
+    "code": "621330",
+    "title": "Offices of Mental Health Practitioners (except Physicians)",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners",
+    "metrics": {
+      "smallEstablishments": 40279,
+      "totalEstablishments": 40885,
+      "totalEmployees": 218860,
+      "avgPayrollPerEmployee": 43315,
+      "smallBizPayrollShare": 0.72,
+      "avgEmployeesPerEstablishment": 5.4
+    },
+    "sizeBreakdown": "1-4: 32,351 est. (40,083 emp) | 5-9: 3,557 est. (23,422 emp) | 10-19: 2,605 est. (35,208 emp) | 20-49: 1,766 est. (51,692 emp) | 50-99: 412 est. (27,684 emp) | 100-249: 159 est. (23,132 emp) | 250-499: 25 est. (7,682 emp) | 500-999: 6 est. (3,815 emp) | 1000+: 4 est. (6,142 emp)"
+  },
+  {
+    "code": "621310",
+    "title": "Offices of Chiropractors",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners",
+    "metrics": {
+      "smallEstablishments": 40144,
+      "totalEstablishments": 40179,
+      "totalEmployees": 149574,
+      "avgPayrollPerEmployee": 39094,
+      "smallBizPayrollShare": 0.97,
+      "avgEmployeesPerEstablishment": 3.7
+    },
+    "sizeBreakdown": "1-4: 29,217 est. (57,711 emp) | 5-9: 8,457 est. (53,579 emp) | 10-19: 2,173 est. (27,217 emp) | 20-49: 297 est. (7,849 emp) | 50-99: 27 est. (1,789 emp) | 100-249: 7 est. (907 emp)"
+  },
+  {
+    "code": "238990",
+    "title": "All Other Specialty Trade Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2389 Other Specialty Trade Contractors",
+    "metrics": {
+      "smallEstablishments": 39580,
+      "totalEstablishments": 40302,
+      "totalEmployees": 295252,
+      "avgPayrollPerEmployee": 66445,
+      "smallBizPayrollShare": 0.67,
+      "avgEmployeesPerEstablishment": 7.3
+    },
+    "sizeBreakdown": "1-4: 26,916 est. (38,740 emp) | 5-9: 6,557 est. (43,170 emp) | 10-19: 3,851 est. (51,426 emp) | 20-49: 2,256 est. (67,349 emp) | 50-99: 512 est. (34,153 emp) | 100-249: 165 est. (23,517 emp) | 250-499: 20 est. (7,148 emp) | 500-999: 17 est. (12,740 emp) | 1000+: 8 est. (17,009 emp)"
+  },
+  {
+    "code": "238910",
+    "title": "Site Preparation Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2389 Other Specialty Trade Contractors",
+    "metrics": {
+      "smallEstablishments": 38033,
+      "totalEstablishments": 39686,
+      "totalEmployees": 435837,
+      "avgPayrollPerEmployee": 72365,
+      "smallBizPayrollShare": 0.51,
+      "avgEmployeesPerEstablishment": 11
+    },
+    "sizeBreakdown": "1-4: 23,713 est. (37,692 emp) | 5-9: 6,550 est. (43,241 emp) | 10-19: 4,485 est. (60,335 emp) | 20-49: 3,285 est. (99,684 emp) | 50-99: 1,042 est. (71,087 emp) | 100-249: 488 est. (71,041 emp) | 250-499: 92 est. (30,216 emp) | 500-999: 26 est. (16,664 emp) | 1000+: 5 est. (5,877 emp)"
+  },
+  {
+    "code": "238320",
+    "title": "Painting and Wall Covering Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors",
+    "metrics": {
+      "smallEstablishments": 37534,
+      "totalEstablishments": 37963,
+      "totalEmployees": 197707,
+      "avgPayrollPerEmployee": 52873,
+      "smallBizPayrollShare": 0.72,
+      "avgEmployeesPerEstablishment": 5.2
+    },
+    "sizeBreakdown": "1-4: 28,292 est. (44,117 emp) | 5-9: 5,375 est. (34,521 emp) | 10-19: 2,551 est. (33,812 emp) | 20-49: 1,316 est. (38,581 emp) | 50-99: 307 est. (20,695 emp) | 100-249: 90 est. (13,282 emp) | 250-499: 30 est. (8,632 emp)"
+  },
+  {
+    "code": "236220",
+    "title": "Commercial and Institutional Building Construction",
+    "sector": "23 Construction | 236 Construction of Buildings | 2362 Nonresidential Building Construction",
+    "metrics": {
+      "smallEstablishments": 36648,
+      "totalEstablishments": 39005,
+      "totalEmployees": 618523,
+      "avgPayrollPerEmployee": 92192,
+      "smallBizPayrollShare": 0.42,
+      "avgEmployeesPerEstablishment": 15.9
+    },
+    "sizeBreakdown": "1-4: 18,807 est. (31,819 emp) | 5-9: 7,340 est. (49,008 emp) | 10-19: 5,812 est. (78,959 emp) | 20-49: 4,689 est. (142,084 emp) | 50-99: 1,459 est. (99,418 emp) | 100-249: 670 est. (100,005 emp) | 250-499: 162 est. (56,191 emp) | 500-999: 54 est. (36,798 emp) | 1000+: 12 est. (24,241 emp)"
+  },
+  {
+    "code": "561110",
+    "title": "Office Administrative Services",
+    "sector": "56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5611 Office Administrative Services",
+    "metrics": {
+      "smallEstablishments": 35205,
+      "totalEstablishments": 37269,
+      "totalEmployees": 564521,
+      "avgPayrollPerEmployee": 83309,
+      "smallBizPayrollShare": 0.4,
+      "avgEmployeesPerEstablishment": 15.1
+    },
+    "sizeBreakdown": "1-4: 23,241 est. (34,089 emp) | 5-9: 5,146 est. (33,865 emp) | 10-19: 3,906 est. (52,987 emp) | 20-49: 2,912 est. (88,595 emp) | 50-99: 1,141 est. (79,171 emp) | 100-249: 627 est. (94,748 emp) | 250-499: 180 est. (61,572 emp) | 500-999: 78 est. (52,941 emp) | 1000+: 38 est. (66,553 emp)"
+  },
+  {
+    "code": "425120",
+    "title": "Wholesale Trade Agents and Brokers",
+    "sector": "42 Wholesale Trade | 425 Wholesale Electronic Markets and Agents and Brokers | 4251 Wholesale Trade Agents and Brokers",
+    "metrics": {
+      "smallEstablishments": 35186,
+      "totalEstablishments": 35819,
+      "totalEmployees": 244886,
+      "avgPayrollPerEmployee": 70160,
+      "smallBizPayrollShare": 0.65,
+      "avgEmployeesPerEstablishment": 6.8
+    },
+    "sizeBreakdown": "1-4: 27,891 est. (40,150 emp) | 5-9: 3,960 est. (25,883 emp) | 10-19: 2,087 est. (28,288 emp) | 20-49: 1,248 est. (37,329 emp) | 50-99: 361 est. (24,700 emp) | 100-249: 175 est. (27,245 emp) | 250-499: 62 est. (20,860 emp) | 500-999: 19 est. (14,144 emp) | 1000+: 16 est. (26,287 emp)"
+  },
+  {
+    "code": "811121",
+    "title": "Automotive Body, Paint, and Interior Repair and Maintenance",
+    "sector": "81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8111 Automotive Repair and Maintenance",
+    "metrics": {
+      "smallEstablishments": 34450,
+      "totalEstablishments": 34665,
+      "totalEmployees": 239251,
+      "avgPayrollPerEmployee": 56981,
+      "smallBizPayrollShare": 0.92,
+      "avgEmployeesPerEstablishment": 6.9
+    },
+    "sizeBreakdown": "1-4: 18,610 est. (33,642 emp) | 5-9: 7,889 est. (53,143 emp) | 10-19: 5,899 est. (78,875 emp) | 20-49: 2,052 est. (55,251 emp) | 50-99: 180 est. (11,194 emp) | 100-249: 27 est. (3,454 emp) | 250-499: 7 est. (2,614 emp)"
+  },
+  {
+    "code": "623210",
+    "title": "Residential Intellectual and Developmental Disability Facilities",
+    "sector": "62 Health Care and Social Assistance | 623 Nursing and Residential Care Facilities | 6232 Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",
+    "metrics": {
+      "smallEstablishments": 34250,
+      "totalEstablishments": 35807,
+      "totalEmployees": 530422,
+      "avgPayrollPerEmployee": 37271,
+      "smallBizPayrollShare": 0.57,
+      "avgEmployeesPerEstablishment": 14.8
+    },
+    "sizeBreakdown": "1-4: 9,326 est. (22,476 emp) | 5-9: 13,510 est. (92,940 emp) | 10-19: 8,680 est. (111,658 emp) | 20-49: 2,734 est. (79,781 emp) | 50-99: 833 est. (57,012 emp) | 100-249: 530 est. (80,191 emp) | 250-499: 152 est. (50,760 emp) | 500-999: 32 est. (22,248 emp) | 1000+: 10 est. (13,356 emp)"
+  },
+  {
+    "code": "531120",
+    "title": "Lessors of Nonresidential Buildings (except Miniwarehouses)",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5311 Lessors of Real Estate",
+    "metrics": {
+      "smallEstablishments": 34195,
+      "totalEstablishments": 34567,
+      "totalEmployees": 172451,
+      "avgPayrollPerEmployee": 81154,
+      "smallBizPayrollShare": 0.58,
+      "avgEmployeesPerEstablishment": 5
+    },
+    "sizeBreakdown": "1-4: 27,220 est. (42,084 emp) | 5-9: 4,202 est. (26,912 emp) | 10-19: 1,852 est. (24,395 emp) | 20-49: 921 est. (26,904 emp) | 50-99: 223 est. (15,071 emp) | 100-249: 110 est. (16,379 emp) | 250-499: 28 est. (9,931 emp) | 500-999: 9 est. (6,721 emp)"
+  },
+  {
+    "code": "621399",
+    "title": "Offices of All Other Miscellaneous Health Practitioners",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners",
+    "metrics": {
+      "smallEstablishments": 33485,
+      "totalEstablishments": 33658,
+      "totalEmployees": 125565,
+      "avgPayrollPerEmployee": 54451,
+      "smallBizPayrollShare": 0.82,
+      "avgEmployeesPerEstablishment": 3.7
+    },
+    "sizeBreakdown": "1-4: 27,048 est. (37,993 emp) | 5-9: 3,979 est. (25,749 emp) | 10-19: 1,737 est. (22,710 emp) | 20-49: 721 est. (20,216 emp) | 50-99: 110 est. (7,412 emp) | 100-249: 55 est. (8,224 emp) | 250-499: 6 est. (1,988 emp)"
+  },
+  {
+    "code": "541940",
+    "title": "Veterinary Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5419 Other Professional, Scientific, and Technical Services",
+    "metrics": {
+      "smallEstablishments": 33105,
+      "totalEstablishments": 34000,
+      "totalEmployees": 468624,
+      "avgPayrollPerEmployee": 48496,
+      "smallBizPayrollShare": 0.77,
+      "avgEmployeesPerEstablishment": 13.8
+    },
+    "sizeBreakdown": "1-4: 9,557 est. (16,910 emp) | 5-9: 7,608 est. (52,727 emp) | 10-19: 10,172 est. (143,410 emp) | 20-49: 5,768 est. (164,943 emp) | 50-99: 668 est. (44,835 emp) | 100-249: 199 est. (28,809 emp) | 250-499: 22 est. (7,492 emp) | 500-999: 3 est. (1,774 emp) | 1000+: 3 est. (7,724 emp)"
+  },
+  {
+    "code": "484220",
+    "title": "Specialized Freight (except Used Goods) Trucking, Local",
+    "sector": "48-49 Transportation and Warehousing | 484 Truck Transportation | 4842 Specialized Freight Trucking",
+    "metrics": {
+      "smallEstablishments": 32131,
+      "totalEstablishments": 32829,
+      "totalEmployees": 227981,
+      "avgPayrollPerEmployee": 62552,
+      "smallBizPayrollShare": 0.67,
+      "avgEmployeesPerEstablishment": 6.9
+    },
+    "sizeBreakdown": "1-4: 22,959 est. (32,919 emp) | 5-9: 4,356 est. (28,566 emp) | 10-19: 2,903 est. (39,471 emp) | 20-49: 1,913 est. (56,961 emp) | 50-99: 488 est. (32,736 emp) | 100-249: 185 est. (26,168 emp) | 250-499: 19 est. (6,376 emp) | 500-999: 5 est. (2,981 emp)"
+  },
+  {
+    "code": "621610",
+    "title": "Home Health Care Services",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6216 Home Health Care Services",
+    "metrics": {
+      "smallEstablishments": 32005,
+      "totalEstablishments": 39117,
+      "totalEmployees": 1567910,
+      "avgPayrollPerEmployee": 35785,
+      "smallBizPayrollShare": 0.3,
+      "avgEmployeesPerEstablishment": 40.1
+    },
+    "sizeBreakdown": "1-4: 13,184 est. (19,233 emp) | 5-9: 4,605 est. (31,218 emp) | 10-19: 5,979 est. (84,993 emp) | 20-49: 8,237 est. (259,602 emp) | 50-99: 3,880 est. (269,633 emp) | 100-249: 2,311 est. (347,661 emp) | 250-499: 588 est. (198,862 emp) | 500-999: 238 est. (160,761 emp) | 1000+: 95 est. (195,947 emp)"
+  },
+  {
+    "code": "238350",
+    "title": "Finish Carpentry Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors",
+    "metrics": {
+      "smallEstablishments": 31808,
+      "totalEstablishments": 32169,
+      "totalEmployees": 168430,
+      "avgPayrollPerEmployee": 57576,
+      "smallBizPayrollShare": 0.73,
+      "avgEmployeesPerEstablishment": 5.2
+    },
+    "sizeBreakdown": "1-4: 23,759 est. (36,967 emp) | 5-9: 4,597 est. (29,777 emp) | 10-19: 2,306 est. (31,054 emp) | 20-49: 1,146 est. (33,589 emp) | 50-99: 250 est. (16,901 emp) | 100-249: 95 est. (13,804 emp) | 250-499: 12 est. (3,786 emp) | 500-999: 4 est. (2,552 emp)"
+  },
+  {
+    "code": "541690",
+    "title": "Other Scientific and Technical Consulting Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services",
+    "metrics": {
+      "smallEstablishments": 26675,
+      "totalEstablishments": 27214,
+      "totalEmployees": 160934,
+      "avgPayrollPerEmployee": 99366,
+      "smallBizPayrollShare": 0.48,
+      "avgEmployeesPerEstablishment": 5.9
+    },
+    "sizeBreakdown": "1-4: 22,446 est. (26,485 emp) | 5-9: 2,192 est. (14,166 emp) | 10-19: 1,231 est. (16,810 emp) | 20-49: 806 est. (24,626 emp) | 50-99: 292 est. (20,006 emp) | 100-249: 183 est. (28,276 emp) | 250-499: 47 est. (16,075 emp) | 500-999: 13 est. (8,748 emp) | 1000+: 4 est. (5,742 emp)"
+  },
+  {
+    "code": "423830",
+    "title": "Industrial Machinery and Equipment Merchant Wholesalers",
+    "sector": "42 Wholesale Trade | 423 Merchant Wholesalers, Durable Goods | 4238 Machinery, Equipment, and Supplies Merchant Wholesalers",
+    "metrics": {
+      "smallEstablishments": 25269,
+      "totalEstablishments": 26655,
+      "totalEmployees": 367665,
+      "avgPayrollPerEmployee": 88006,
+      "smallBizPayrollShare": 0.53,
+      "avgEmployeesPerEstablishment": 13.8
+    },
+    "sizeBreakdown": "1-4: 12,282 est. (23,675 emp) | 5-9: 5,779 est. (38,638 emp) | 10-19: 4,227 est. (57,142 emp) | 20-49: 2,981 est. (90,343 emp) | 50-99: 900 est. (62,317 emp) | 100-249: 404 est. (59,327 emp) | 250-499: 65 est. (22,518 emp) | 500-999: 14 est. (9,317 emp) | 1000+: 3 est. (4,388 emp)"
+  },
+  {
+    "code": "238160",
+    "title": "Roofing Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors",
+    "metrics": {
+      "smallEstablishments": 23832,
+      "totalEstablishments": 24532,
+      "totalEmployees": 204998,
+      "avgPayrollPerEmployee": 64884,
+      "smallBizPayrollShare": 0.61,
+      "avgEmployeesPerEstablishment": 8.4
+    },
+    "sizeBreakdown": "1-4: 15,808 est. (23,806 emp) | 5-9: 3,883 est. (25,522 emp) | 10-19: 2,490 est. (33,681 emp) | 20-49: 1,651 est. (50,146 emp) | 50-99: 504 est. (33,924 emp) | 100-249: 170 est. (24,176 emp) | 250-499: 18 est. (6,081 emp) | 500-999: 7 est. (4,567 emp)"
+  },
+  {
+    "code": "621320",
+    "title": "Offices of Optometrists",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners",
+    "metrics": {
+      "smallEstablishments": 22682,
+      "totalEstablishments": 22781,
+      "totalEmployees": 148762,
+      "avgPayrollPerEmployee": 46533,
+      "smallBizPayrollShare": 0.93,
+      "avgEmployeesPerEstablishment": 6.5
+    },
+    "sizeBreakdown": "1-4: 11,037 est. (22,925 emp) | 5-9: 7,316 est. (48,740 emp) | 10-19: 3,477 est. (44,855 emp) | 20-49: 852 est. (22,488 emp) | 50-99: 77 est. (5,188 emp) | 100-249: 19 est. (2,923 emp)"
+  },
+  {
+    "code": "541990",
+    "title": "All Other Professional, Scientific, and Technical Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5419 Other Professional, Scientific, and Technical Services",
+    "metrics": {
+      "smallEstablishments": 22503,
+      "totalEstablishments": 22903,
+      "totalEmployees": 136053,
+      "avgPayrollPerEmployee": 85140,
+      "smallBizPayrollShare": 0.5,
+      "avgEmployeesPerEstablishment": 5.9
+    },
+    "sizeBreakdown": "1-4: 18,693 est. (22,542 emp) | 5-9: 2,030 est. (13,039 emp) | 10-19: 1,054 est. (14,182 emp) | 20-49: 726 est. (21,640 emp) | 50-99: 234 est. (16,045 emp) | 100-249: 104 est. (15,982 emp) | 250-499: 42 est. (14,360 emp) | 500-999: 12 est. (8,015 emp) | 1000+: 8 est. (10,248 emp)"
+  },
+  {
+    "code": "812990",
+    "title": "All Other Personal Services",
+    "sector": "81 Other Services (except Public Administration) | 812 Personal and Laundry Services | 8129 Other Personal Services",
+    "metrics": {
+      "smallEstablishments": 22484,
+      "totalEstablishments": 22597,
+      "totalEmployees": 77308,
+      "avgPayrollPerEmployee": 40915,
+      "smallBizPayrollShare": 0.73,
+      "avgEmployeesPerEstablishment": 3.4
+    },
+    "sizeBreakdown": "1-4: 18,712 est. (22,925 emp) | 5-9: 2,339 est. (15,237 emp) | 10-19: 1,073 est. (14,085 emp) | 20-49: 360 est. (10,259 emp) | 50-99: 72 est. (4,793 emp) | 100-249: 28 est. (4,133 emp) | 250-499: 10 est. (3,710 emp) | 500-999: 3 est. (2,166 emp)"
+  },
+  {
+    "code": "541310",
+    "title": "Architectural Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5413 Architectural, Engineering, and Related Services",
+    "metrics": {
+      "smallEstablishments": 22041,
+      "totalEstablishments": 22619,
+      "totalEmployees": 182082,
+      "avgPayrollPerEmployee": 96154,
+      "smallBizPayrollShare": 0.61,
+      "avgEmployeesPerEstablishment": 8
+    },
+    "sizeBreakdown": "1-4: 14,353 est. (23,720 emp) | 5-9: 4,049 est. (26,783 emp) | 10-19: 2,307 est. (30,954 emp) | 20-49: 1,332 est. (40,000 emp) | 50-99: 388 est. (26,586 emp) | 100-249: 162 est. (23,423 emp) | 250-499: 24 est. (7,896 emp) | 500-999: 4 est. (2,720 emp)"
+  },
+  {
+    "code": "811310",
+    "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",
+    "sector": "81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8113 Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",
+    "metrics": {
+      "smallEstablishments": 21887,
+      "totalEstablishments": 22433,
+      "totalEmployees": 209190,
+      "avgPayrollPerEmployee": 69722,
+      "smallBizPayrollShare": 0.57,
+      "avgEmployeesPerEstablishment": 9.3
+    },
+    "sizeBreakdown": "1-4: 13,697 est. (23,674 emp) | 5-9: 4,107 est. (27,085 emp) | 10-19: 2,572 est. (34,556 emp) | 20-49: 1,511 est. (44,714 emp) | 50-99: 350 est. (23,928 emp) | 100-249: 147 est. (20,871 emp) | 250-499: 28 est. (9,265 emp) | 500-999: 12 est. (7,878 emp) | 1000+: 9 est. (17,219 emp)"
+  },
+  {
+    "code": "238110",
+    "title": "Poured Concrete Foundation and Structure Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors",
+    "metrics": {
+      "smallEstablishments": 21782,
+      "totalEstablishments": 22699,
+      "totalEmployees": 255010,
+      "avgPayrollPerEmployee": 68000,
+      "smallBizPayrollShare": 0.5,
+      "avgEmployeesPerEstablishment": 11.2
+    },
+    "sizeBreakdown": "1-4: 13,161 est. (20,738 emp) | 5-9: 4,269 est. (28,073 emp) | 10-19: 2,641 est. (35,868 emp) | 20-49: 1,711 est. (51,903 emp) | 50-99: 563 est. (38,808 emp) | 100-249: 260 est. (38,345 emp) | 250-499: 68 est. (22,069 emp) | 500-999: 22 est. (13,853 emp) | 1000+: 4 est. (5,353 emp)"
+  },
+  {
+    "code": "531390",
+    "title": "Other Activities Related to Real Estate",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate",
+    "metrics": {
+      "smallEstablishments": 21694,
+      "totalEstablishments": 21881,
+      "totalEmployees": 75174,
+      "avgPayrollPerEmployee": 102784,
+      "smallBizPayrollShare": 0.67,
+      "avgEmployeesPerEstablishment": 3.4
+    },
+    "sizeBreakdown": "1-4: 18,882 est. (22,143 emp) | 5-9: 1,694 est. (10,964 emp) | 10-19: 744 est. (9,807 emp) | 20-49: 374 est. (11,033 emp) | 50-99: 134 est. (9,025 emp) | 100-249: 40 est. (6,374 emp) | 250-499: 9 est. (3,003 emp) | 500-999: 4 est. (2,825 emp)"
+  },
+  {
+    "code": "488510",
+    "title": "Freight Transportation Arrangement",
+    "sector": "48-49 Transportation and Warehousing | 488 Support Activities for Transportation | 4885 Freight Transportation Arrangement",
+    "metrics": {
+      "smallEstablishments": 21058,
+      "totalEstablishments": 22383,
+      "totalEmployees": 323348,
+      "avgPayrollPerEmployee": 75057,
+      "smallBizPayrollShare": 0.44,
+      "avgEmployeesPerEstablishment": 14.4
+    },
+    "sizeBreakdown": "1-4: 12,562 est. (22,097 emp) | 5-9: 3,793 est. (25,206 emp) | 10-19: 2,760 est. (37,499 emp) | 20-49: 1,943 est. (58,207 emp) | 50-99: 743 est. (51,058 emp) | 100-249: 452 est. (67,389 emp) | 250-499: 91 est. (31,528 emp) | 500-999: 33 est. (22,870 emp) | 1000+: 6 est. (7,494 emp)"
+  },
+  {
+    "code": "238310",
+    "title": "Drywall and Insulation Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors",
+    "metrics": {
+      "smallEstablishments": 19133,
+      "totalEstablishments": 20162,
+      "totalEmployees": 257294,
+      "avgPayrollPerEmployee": 61995,
+      "smallBizPayrollShare": 0.42,
+      "avgEmployeesPerEstablishment": 12.8
+    },
+    "sizeBreakdown": "1-4: 12,185 est. (19,908 emp) | 5-9: 3,186 est. (20,992 emp) | 10-19: 2,110 est. (28,601 emp) | 20-49: 1,652 est. (49,523 emp) | 50-99: 596 est. (41,079 emp) | 100-249: 342 est. (51,041 emp) | 250-499: 70 est. (23,258 emp) | 500-999: 17 est. (11,449 emp) | 1000+: 4 est. (11,443 emp)"
+  },
+  {
+    "code": "621498",
+    "title": "All Other Outpatient Care Centers",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6214 Outpatient Care Centers",
+    "metrics": {
+      "smallEstablishments": 18963,
+      "totalEstablishments": 20990,
+      "totalEmployees": 480567,
+      "avgPayrollPerEmployee": 73754,
+      "smallBizPayrollShare": 0.35,
+      "avgEmployeesPerEstablishment": 22.9
+    },
+    "sizeBreakdown": "1-4: 8,036 est. (14,925 emp) | 5-9: 4,219 est. (28,546 emp) | 10-19: 3,677 est. (49,974 emp) | 20-49: 3,031 est. (91,679 emp) | 50-99: 1,160 est. (80,106 emp) | 100-249: 662 est. (100,419 emp) | 250-499: 149 est. (51,438 emp) | 500-999: 34 est. (23,477 emp) | 1000+: 22 est. (40,003 emp)"
+  },
+  {
+    "code": "623312",
+    "title": "Assisted Living Facilities for the Elderly",
+    "sector": "62 Health Care and Social Assistance | 623 Nursing and Residential Care Facilities | 6233 Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly",
+    "metrics": {
+      "smallEstablishments": 18304,
+      "totalEstablishments": 21352,
+      "totalEmployees": 496802,
+      "avgPayrollPerEmployee": 32997,
+      "smallBizPayrollShare": 0.48,
+      "avgEmployeesPerEstablishment": 23.3
+    },
+    "sizeBreakdown": "1-4: 6,867 est. (12,691 emp) | 5-9: 3,236 est. (21,754 emp) | 10-19: 3,129 est. (43,972 emp) | 20-49: 5,072 est. (161,097 emp) | 50-99: 2,454 est. (165,734 emp) | 100-249: 544 est. (73,464 emp) | 250-499: 44 est. (14,522 emp) | 500-999: 6 est. (3,568 emp)"
+  },
+  {
+    "code": "531130",
+    "title": "Lessors of Miniwarehouses and Self-Storage Units",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5311 Lessors of Real Estate",
+    "metrics": {
+      "smallEstablishments": 18259,
+      "totalEstablishments": 18286,
+      "totalEmployees": 47056,
+      "avgPayrollPerEmployee": 40863,
+      "smallBizPayrollShare": 0.9,
+      "avgEmployeesPerEstablishment": 2.6
+    },
+    "sizeBreakdown": "1-4: 16,709 est. (30,565 emp) | 5-9: 1,173 est. (7,120 emp) | 10-19: 290 est. (3,616 emp) | 20-49: 87 est. (2,355 emp) | 50-99: 16 est. (1,042 emp) | 100-249: 9 est. (1,300 emp)"
+  },
+  {
+    "code": "813990",
+    "title": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",
+    "sector": "81 Other Services (except Public Administration) | 813 Religious, Grantmaking, Civic, Professional, and Similar Organizations | 8139 Business, Professional, Labor, Political, and Similar Organizations",
+    "metrics": {
+      "smallEstablishments": 18113,
+      "totalEstablishments": 18431,
+      "totalEmployees": 133757,
+      "avgPayrollPerEmployee": 54729,
+      "smallBizPayrollShare": 0.61,
+      "avgEmployeesPerEstablishment": 7.3
+    },
+    "sizeBreakdown": "1-4: 12,145 est. (20,513 emp) | 5-9: 3,054 est. (20,615 emp) | 10-19: 2,002 est. (26,317 emp) | 20-49: 912 est. (26,178 emp) | 50-99: 191 est. (12,811 emp) | 100-249: 102 est. (14,862 emp) | 250-499: 18 est. (6,138 emp) | 500-999: 6 est. (4,680 emp)"
+  },
+  {
+    "code": "238140",
+    "title": "Masonry Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors",
+    "metrics": {
+      "smallEstablishments": 18064,
+      "totalEstablishments": 18481,
+      "totalEmployees": 137177,
+      "avgPayrollPerEmployee": 59296,
+      "smallBizPayrollShare": 0.61,
+      "avgEmployeesPerEstablishment": 7.4
+    },
+    "sizeBreakdown": "1-4: 12,800 est. (19,418 emp) | 5-9: 2,794 est. (18,154 emp) | 10-19: 1,465 est. (19,716 emp) | 20-49: 1,005 est. (30,463 emp) | 50-99: 264 est. (18,168 emp) | 100-249: 119 est. (17,384 emp) | 250-499: 27 est. (9,545 emp) | 500-999: 7 est. (4,329 emp)"
+  },
+  {
+    "code": "238330",
+    "title": "Flooring Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors",
+    "metrics": {
+      "smallEstablishments": 17902,
+      "totalEstablishments": 18069,
+      "totalEmployees": 85815,
+      "avgPayrollPerEmployee": 57235,
+      "smallBizPayrollShare": 0.76,
+      "avgEmployeesPerEstablishment": 4.7
+    },
+    "sizeBreakdown": "1-4: 13,865 est. (21,772 emp) | 5-9: 2,321 est. (14,957 emp) | 10-19: 1,138 est. (15,151 emp) | 20-49: 578 est. (17,008 emp) | 50-99: 111 est. (7,535 emp) | 100-249: 48 est. (6,934 emp) | 250-499: 8 est. (2,458 emp)"
+  },
+  {
+    "code": "531312",
+    "title": "Nonresidential Property Managers",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate",
+    "metrics": {
+      "smallEstablishments": 17733,
+      "totalEstablishments": 18260,
+      "totalEmployees": 163972,
+      "avgPayrollPerEmployee": 88723,
+      "smallBizPayrollShare": 0.53,
+      "avgEmployeesPerEstablishment": 9
+    },
+    "sizeBreakdown": "1-4: 12,056 est. (20,079 emp) | 5-9: 2,981 est. (19,417 emp) | 10-19: 1,669 est. (22,314 emp) | 20-49: 1,027 est. (30,354 emp) | 50-99: 314 est. (21,226 emp) | 100-249: 156 est. (23,527 emp) | 250-499: 43 est. (14,023 emp) | 500-999: 11 est. (7,577 emp) | 1000+: 3 est. (5,455 emp)"
+  },
+  {
+    "code": "522292",
+    "title": "Real Estate Credit",
+    "sector": "52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5222 Nondepository Credit Intermediation",
+    "metrics": {
+      "smallEstablishments": 17699,
+      "totalEstablishments": 18589,
+      "totalEmployees": 352890,
+      "avgPayrollPerEmployee": 106012,
+      "smallBizPayrollShare": 0.37,
+      "avgEmployeesPerEstablishment": 19
+    },
+    "sizeBreakdown": "1-4: 10,436 est. (15,948 emp) | 5-9: 3,755 est. (24,823 emp) | 10-19: 2,210 est. (29,076 emp) | 20-49: 1,298 est. (38,432 emp) | 50-99: 374 est. (26,058 emp) | 100-249: 290 est. (43,883 emp) | 250-499: 113 est. (40,041 emp) | 500-999: 69 est. (46,274 emp) | 1000+: 44 est. (88,355 emp)"
+  },
+  {
+    "code": "561790",
+    "title": "Other Services to Buildings and Dwellings",
+    "sector": "56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5617 Services to Buildings and Dwellings",
+    "metrics": {
+      "smallEstablishments": 17413,
+      "totalEstablishments": 17574,
+      "totalEmployees": 87422,
+      "avgPayrollPerEmployee": 46560,
+      "smallBizPayrollShare": 0.82,
+      "avgEmployeesPerEstablishment": 5
+    },
+    "sizeBreakdown": "1-4: 12,919 est. (19,207 emp) | 5-9: 2,580 est. (16,814 emp) | 10-19: 1,304 est. (17,295 emp) | 20-49: 610 est. (17,420 emp) | 50-99: 116 est. (7,728 emp) | 100-249: 38 est. (5,503 emp) | 250-499: 5 est. (1,690 emp)"
+  },
+  {
+    "code": "512110",
+    "title": "Motion Picture and Video Production",
+    "sector": "51 Information | 512 Motion Picture and Sound Recording Industries | 5121 Motion Picture and Video Industries",
+    "metrics": {
+      "smallEstablishments": 17380,
+      "totalEstablishments": 17683,
+      "totalEmployees": 139965,
+      "avgPayrollPerEmployee": 97576,
+      "smallBizPayrollShare": 0.38,
+      "avgEmployeesPerEstablishment": 7.9
+    },
+    "sizeBreakdown": "1-4: 15,086 est. (16,382 emp) | 5-9: 1,305 est. (8,436 emp) | 10-19: 612 est. (8,004 emp) | 20-49: 377 est. (11,580 emp) | 50-99: 134 est. (9,729 emp) | 100-249: 101 est. (14,826 emp) | 250-499: 39 est. (13,747 emp) | 500-999: 13 est. (8,130 emp) | 1000+: 16 est. (49,131 emp)"
+  },
+  {
+    "code": "332710",
+    "title": "Machine Shops",
+    "sector": "31-33 Manufacturing | 332 Fabricated Metal Product Manufacturing | 3327 Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",
+    "metrics": {
+      "smallEstablishments": 16588,
+      "totalEstablishments": 17433,
+      "totalEmployees": 218350,
+      "avgPayrollPerEmployee": 61594,
+      "smallBizPayrollShare": 0.6,
+      "avgEmployeesPerEstablishment": 12.5
+    },
+    "sizeBreakdown": "1-4: 8,188 est. (15,662 emp) | 5-9: 3,602 est. (24,058 emp) | 10-19: 2,829 est. (38,398 emp) | 20-49: 1,969 est. (59,688 emp) | 50-99: 597 est. (40,884 emp) | 100-249: 230 est. (33,273 emp) | 250-499: 16 est. (5,306 emp)"
+  },
+  {
+    "code": "541410",
+    "title": "Interior Design Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5414 Specialized Design Services",
+    "metrics": {
+      "smallEstablishments": 16276,
+      "totalEstablishments": 16333,
+      "totalEmployees": 53565,
+      "avgPayrollPerEmployee": 64949,
+      "smallBizPayrollShare": 0.87,
+      "avgEmployeesPerEstablishment": 3.3
+    },
+    "sizeBreakdown": "1-4: 13,346 est. (19,333 emp) | 5-9: 1,980 est. (12,706 emp) | 10-19: 699 est. (9,119 emp) | 20-49: 251 est. (7,186 emp) | 50-99: 43 est. (2,785 emp) | 100-249: 13 est. (2,195 emp)"
+  },
+  {
+    "code": "541430",
+    "title": "Graphic Design Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5414 Specialized Design Services",
+    "metrics": {
+      "smallEstablishments": 15849,
+      "totalEstablishments": 15932,
+      "totalEmployees": 51426,
+      "avgPayrollPerEmployee": 65925,
+      "smallBizPayrollShare": 0.82,
+      "avgEmployeesPerEstablishment": 3.2
+    },
+    "sizeBreakdown": "1-4: 13,455 est. (18,074 emp) | 5-9: 1,436 est. (9,288 emp) | 10-19: 685 est. (8,944 emp) | 20-49: 273 est. (7,881 emp) | 50-99: 66 est. (4,207 emp) | 100-249: 13 est. (1,855 emp) | 250-499: 4 est. (1,177 emp)"
+  },
+  {
+    "code": "561710",
+    "title": "Exterminating and Pest Control Services",
+    "sector": "56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5617 Services to Buildings and Dwellings",
+    "metrics": {
+      "smallEstablishments": 15745,
+      "totalEstablishments": 16080,
+      "totalEmployees": 139917,
+      "avgPayrollPerEmployee": 50313,
+      "smallBizPayrollShare": 0.77,
+      "avgEmployeesPerEstablishment": 8.7
+    },
+    "sizeBreakdown": "1-4: 9,117 est. (16,009 emp) | 5-9: 2,845 est. (19,037 emp) | 10-19: 2,188 est. (29,883 emp) | 20-49: 1,595 est. (45,223 emp) | 50-99: 261 est. (17,176 emp) | 100-249: 64 est. (8,533 emp) | 250-499: 7 est. (2,076 emp) | 500-999: 3 est. (1,980 emp)"
+  },
+  {
+    "code": "812210",
+    "title": "Funeral Homes and Funeral Services",
+    "sector": "81 Other Services (except Public Administration) | 812 Personal and Laundry Services | 8122 Death Care Services",
+    "metrics": {
+      "smallEstablishments": 15275,
+      "totalEstablishments": 15375,
+      "totalEmployees": 110512,
+      "avgPayrollPerEmployee": 41785,
+      "smallBizPayrollShare": 0.91,
+      "avgEmployeesPerEstablishment": 7.2
+    },
+    "sizeBreakdown": "1-4: 7,466 est. (16,094 emp) | 5-9: 4,450 est. (29,789 emp) | 10-19: 2,545 est. (33,872 emp) | 20-49: 814 est. (22,689 emp) | 50-99: 85 est. (5,641 emp) | 100-249: 14 est. (2,108 emp)"
+  },
+  {
+    "code": "813910",
+    "title": "Business Associations",
+    "sector": "81 Other Services (except Public Administration) | 813 Religious, Grantmaking, Civic, Professional, and Similar Organizations | 8139 Business, Professional, Labor, Political, and Similar Organizations",
+    "metrics": {
+      "smallEstablishments": 14749,
+      "totalEstablishments": 15043,
+      "totalEmployees": 104462,
+      "avgPayrollPerEmployee": 96937,
+      "smallBizPayrollShare": 0.58,
+      "avgEmployeesPerEstablishment": 6.9
+    },
+    "sizeBreakdown": "1-4: 10,728 est. (20,535 emp) | 5-9: 2,308 est. (14,834 emp) | 10-19: 1,059 est. (14,299 emp) | 20-49: 654 est. (19,611 emp) | 50-99: 195 est. (13,219 emp) | 100-249: 78 est. (11,107 emp) | 250-499: 13 est. (4,497 emp) | 500-999: 7 est. (4,860 emp)"
+  },
+  {
+    "code": "621420",
+    "title": "Outpatient Mental Health and Substance Abuse Centers",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6214 Outpatient Care Centers",
+    "metrics": {
+      "smallEstablishments": 14526,
+      "totalEstablishments": 15901,
+      "totalEmployees": 307864,
+      "avgPayrollPerEmployee": 50991,
+      "smallBizPayrollShare": 0.47,
+      "avgEmployeesPerEstablishment": 19.4
+    },
+    "sizeBreakdown": "1-4: 6,198 est. (10,158 emp) | 5-9: 2,781 est. (18,712 emp) | 10-19: 2,843 est. (39,031 emp) | 20-49: 2,704 est. (82,107 emp) | 50-99: 884 est. (61,206 emp) | 100-249: 432 est. (63,440 emp) | 250-499: 46 est. (14,982 emp) | 500-999: 11 est. (7,302 emp)"
+  },
+  {
+    "code": "541810",
+    "title": "Advertising Agencies",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5418 Advertising, Public Relations, and Related Services",
+    "metrics": {
+      "smallEstablishments": 14220,
+      "totalEstablishments": 14962,
+      "totalEmployees": 195282,
+      "avgPayrollPerEmployee": 105123,
+      "smallBizPayrollShare": 0.32,
+      "avgEmployeesPerEstablishment": 13.1
+    },
+    "sizeBreakdown": "1-4: 10,056 est. (14,291 emp) | 5-9: 1,868 est. (12,419 emp) | 10-19: 1,295 est. (17,469 emp) | 20-49: 1,001 est. (30,643 emp) | 50-99: 363 est. (25,299 emp) | 100-249: 253 est. (39,167 emp) | 250-499: 95 est. (31,940 emp) | 500-999: 26 est. (17,397 emp) | 1000+: 5 est. (6,657 emp)"
+  },
+  {
+    "code": "323111",
+    "title": "Commercial Printing (except Screen and Books)",
+    "sector": "31-33 Manufacturing | 323 Printing and Related Support Activities | 3231 Printing and Related Support Activities",
+    "metrics": {
+      "smallEstablishments": 14198,
+      "totalEstablishments": 15430,
+      "totalEmployees": 282135,
+      "avgPayrollPerEmployee": 59258,
+      "smallBizPayrollShare": 0.32,
+      "avgEmployeesPerEstablishment": 18.3
+    },
+    "sizeBreakdown": "1-4: 7,934 est. (15,450 emp) | 5-9: 2,950 est. (19,548 emp) | 10-19: 1,815 est. (24,628 emp) | 20-49: 1,499 est. (46,432 emp) | 50-99: 665 est. (47,038 emp) | 100-249: 424 est. (63,006 emp) | 250-499: 107 est. (38,055 emp) | 500-999: 31 est. (22,271 emp) | 1000+: 5 est. (5,707 emp)"
+  },
+  {
+    "code": "522291",
+    "title": "Consumer Lending",
+    "sector": "52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5222 Nondepository Credit Intermediation",
+    "metrics": {
+      "smallEstablishments": 13692,
+      "totalEstablishments": 13845,
+      "totalEmployees": 85685,
+      "avgPayrollPerEmployee": 85058,
+      "smallBizPayrollShare": 0.4,
+      "avgEmployeesPerEstablishment": 6.2
+    },
+    "sizeBreakdown": "1-4: 11,145 est. (27,537 emp) | 5-9: 2,117 est. (13,281 emp) | 10-19: 257 est. (3,255 emp) | 20-49: 173 est. (5,300 emp) | 50-99: 63 est. (4,592 emp) | 100-249: 52 est. (8,212 emp) | 250-499: 19 est. (6,752 emp) | 500-999: 12 est. (8,113 emp) | 1000+: 7 est. (8,643 emp)"
+  },
+  {
+    "code": "424490",
+    "title": "Other Grocery and Related Products Merchant Wholesalers",
+    "sector": "42 Wholesale Trade | 424 Merchant Wholesalers, Nondurable Goods | 4244 Grocery and Related Product Merchant Wholesalers",
+    "metrics": {
+      "smallEstablishments": 13447,
+      "totalEstablishments": 14813,
+      "totalEmployees": 328949,
+      "avgPayrollPerEmployee": 64639,
+      "smallBizPayrollShare": 0.3,
+      "avgEmployeesPerEstablishment": 22.2
+    },
+    "sizeBreakdown": "1-4: 7,756 est. (12,913 emp) | 5-9: 2,164 est. (14,463 emp) | 10-19: 1,750 est. (24,415 emp) | 20-49: 1,777 est. (57,100 emp) | 50-99: 708 est. (49,630 emp) | 100-249: 457 est. (69,805 emp) | 250-499: 148 est. (50,209 emp) | 500-999: 46 est. (29,360 emp) | 1000+: 7 est. (21,054 emp)"
+  },
+  {
+    "code": "531320",
+    "title": "Offices of Real Estate Appraisers",
+    "sector": "53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate",
+    "metrics": {
+      "smallEstablishments": 13321,
+      "totalEstablishments": 13373,
+      "totalEmployees": 37676,
+      "avgPayrollPerEmployee": 67277,
+      "smallBizPayrollShare": 0.74,
+      "avgEmployeesPerEstablishment": 2.8
+    },
+    "sizeBreakdown": "1-4: 12,008 est. (17,130 emp) | 5-9: 877 est. (5,525 emp) | 10-19: 334 est. (4,348 emp) | 20-49: 102 est. (2,760 emp) | 50-99: 32 est. (2,378 emp) | 100-249: 12 est. (1,629 emp) | 250-499: 5 est. (1,875 emp) | 500-999: 3 est. (2,031 emp)"
+  },
+  {
+    "code": "541618",
+    "title": "Other Management Consulting Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services",
+    "metrics": {
+      "smallEstablishments": 12921,
+      "totalEstablishments": 13022,
+      "totalEmployees": 45828,
+      "avgPayrollPerEmployee": 113195,
+      "smallBizPayrollShare": 0.44,
+      "avgEmployeesPerEstablishment": 3.5
+    },
+    "sizeBreakdown": "1-4: 11,721 est. (12,840 emp) | 5-9: 714 est. (4,560 emp) | 10-19: 304 est. (4,051 emp) | 20-49: 182 est. (5,357 emp) | 50-99: 58 est. (4,295 emp) | 100-249: 27 est. (3,689 emp) | 250-499: 11 est. (3,634 emp) | 1000+: 3 est. (6,137 emp)"
+  },
+  {
+    "code": "621112",
+    "title": "Offices of Physicians, Mental Health Specialists",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6211 Offices of Physicians",
+    "metrics": {
+      "smallEstablishments": 12864,
+      "totalEstablishments": 13017,
+      "totalEmployees": 61476,
+      "avgPayrollPerEmployee": 73601,
+      "smallBizPayrollShare": 0.73,
+      "avgEmployeesPerEstablishment": 4.7
+    },
+    "sizeBreakdown": "1-4: 10,426 est. (14,679 emp) | 5-9: 1,364 est. (8,766 emp) | 10-19: 717 est. (9,569 emp) | 20-49: 357 est. (10,596 emp) | 50-99: 101 est. (6,784 emp) | 100-249: 41 est. (6,076 emp) | 250-499: 7 est. (2,459 emp) | 500-999: 4 est. (2,547 emp)"
+  },
+  {
+    "code": "423610",
+    "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",
+    "sector": "42 Wholesale Trade | 423 Merchant Wholesalers, Durable Goods | 4236 Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+    "metrics": {
+      "smallEstablishments": 12723,
+      "totalEstablishments": 13462,
+      "totalEmployees": 216108,
+      "avgPayrollPerEmployee": 91178,
+      "smallBizPayrollShare": 0.52,
+      "avgEmployeesPerEstablishment": 16.1
+    },
+    "sizeBreakdown": "1-4: 5,469 est. (11,035 emp) | 5-9: 3,302 est. (22,735 emp) | 10-19: 2,331 est. (32,149 emp) | 20-49: 1,621 est. (49,266 emp) | 50-99: 449 est. (30,573 emp) | 100-249: 213 est. (31,724 emp) | 250-499: 53 est. (17,513 emp) | 500-999: 19 est. (12,411 emp) | 1000+: 5 est. (8,702 emp)"
+  },
+  {
+    "code": "813930",
+    "title": "Labor Unions and Similar Labor Organizations",
+    "sector": "81 Other Services (except Public Administration) | 813 Religious, Grantmaking, Civic, Professional, and Similar Organizations | 8139 Business, Professional, Labor, Political, and Similar Organizations",
+    "metrics": {
+      "smallEstablishments": 12419,
+      "totalEstablishments": 12763,
+      "totalEmployees": 131583,
+      "avgPayrollPerEmployee": 49906,
+      "smallBizPayrollShare": 0.56,
+      "avgEmployeesPerEstablishment": 10.3
+    },
+    "sizeBreakdown": "1-4: 5,966 est. (11,624 emp) | 5-9: 3,337 est. (22,248 emp) | 10-19: 2,159 est. (28,562 emp) | 20-49: 957 est. (28,066 emp) | 50-99: 218 est. (14,947 emp) | 100-249: 100 est. (15,444 emp) | 250-499: 23 est. (8,565 emp) | 500-999: 3 est. (2,127 emp)"
+  },
+  {
+    "code": "238130",
+    "title": "Framing Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors",
+    "metrics": {
+      "smallEstablishments": 12275,
+      "totalEstablishments": 12524,
+      "totalEmployees": 88851,
+      "avgPayrollPerEmployee": 53145,
+      "smallBizPayrollShare": 0.58,
+      "avgEmployeesPerEstablishment": 7.1
+    },
+    "sizeBreakdown": "1-4: 8,916 est. (14,646 emp) | 5-9: 2,023 est. (12,968 emp) | 10-19: 873 est. (11,674 emp) | 20-49: 463 est. (13,902 emp) | 50-99: 141 est. (9,762 emp) | 100-249: 85 est. (13,397 emp) | 250-499: 14 est. (4,673 emp) | 500-999: 6 est. (3,601 emp) | 1000+: 3 est. (4,228 emp)"
+  },
+  {
+    "code": "621511",
+    "title": "Medical Laboratories",
+    "sector": "62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6215 Medical and Diagnostic Laboratories",
+    "metrics": {
+      "smallEstablishments": 12089,
+      "totalEstablishments": 12906,
+      "totalEmployees": 238815,
+      "avgPayrollPerEmployee": 70935,
+      "smallBizPayrollShare": 0.27,
+      "avgEmployeesPerEstablishment": 18.5
+    },
+    "sizeBreakdown": "1-4: 7,919 est. (13,937 emp) | 5-9: 2,076 est. (13,263 emp) | 10-19: 1,229 est. (16,260 emp) | 20-49: 865 est. (26,757 emp) | 50-99: 375 est. (25,916 emp) | 100-249: 286 est. (43,230 emp) | 250-499: 86 est. (30,328 emp) | 500-999: 47 est. (33,031 emp) | 1000+: 23 est. (36,093 emp)"
+  },
+  {
+    "code": "236117",
+    "title": "New Housing For-Sale Builders",
+    "sector": "23 Construction | 236 Construction of Buildings | 2361 Residential Building Construction",
+    "metrics": {
+      "smallEstablishments": 12024,
+      "totalEstablishments": 12612,
+      "totalEmployees": 130923,
+      "avgPayrollPerEmployee": 112892,
+      "smallBizPayrollShare": 0.37,
+      "avgEmployeesPerEstablishment": 10.4
+    },
+    "sizeBreakdown": "1-4: 8,472 est. (13,464 emp) | 5-9: 1,725 est. (11,283 emp) | 10-19: 1,059 est. (14,129 emp) | 20-49: 768 est. (23,832 emp) | 50-99: 369 est. (24,990 emp) | 100-249: 181 est. (25,979 emp) | 250-499: 31 est. (10,365 emp) | 500-999: 5 est. (3,329 emp)"
+  },
+  {
+    "code": "522390",
+    "title": "Other Activities Related to Credit Intermediation",
+    "sector": "52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5223 Activities Related to Credit Intermediation",
+    "metrics": {
+      "smallEstablishments": 11983,
+      "totalEstablishments": 12116,
+      "totalEmployees": 77430,
+      "avgPayrollPerEmployee": 77042,
+      "smallBizPayrollShare": 0.33,
+      "avgEmployeesPerEstablishment": 6.4
+    },
+    "sizeBreakdown": "1-4: 9,982 est. (17,230 emp) | 5-9: 1,361 est. (8,488 emp) | 10-19: 487 est. (6,587 emp) | 20-49: 153 est. (4,606 emp) | 50-99: 58 est. (3,925 emp) | 100-249: 37 est. (5,540 emp) | 250-499: 17 est. (5,506 emp) | 500-999: 8 est. (5,943 emp) | 1000+: 13 est. (19,605 emp)"
+  },
+  {
+    "code": "561990",
+    "title": "All Other Support Services",
+    "sector": "56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5619 Other Support Services",
+    "metrics": {
+      "smallEstablishments": 11951,
+      "totalEstablishments": 12668,
+      "totalEmployees": 176554,
+      "avgPayrollPerEmployee": 54535,
+      "smallBizPayrollShare": 0.44,
+      "avgEmployeesPerEstablishment": 13.9
+    },
+    "sizeBreakdown": "1-4: 7,409 est. (12,448 emp) | 5-9: 2,094 est. (13,888 emp) | 10-19: 1,391 est. (18,800 emp) | 20-49: 1,057 est. (33,228 emp) | 50-99: 434 est. (31,349 emp) | 100-249: 223 est. (33,437 emp) | 250-499: 30 est. (10,229 emp) | 500-999: 24 est. (15,993 emp) | 1000+: 6 est. (7,182 emp)"
+  },
+  {
+    "code": "423120",
+    "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+    "sector": "42 Wholesale Trade | 423 Merchant Wholesalers, Durable Goods | 4231 Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",
+    "metrics": {
+      "smallEstablishments": 11564,
+      "totalEstablishments": 12377,
+      "totalEmployees": 222885,
+      "avgPayrollPerEmployee": 63580,
+      "smallBizPayrollShare": 0.41,
+      "avgEmployeesPerEstablishment": 18
+    },
+    "sizeBreakdown": "1-4: 5,002 est. (10,032 emp) | 5-9: 2,948 est. (20,482 emp) | 10-19: 2,135 est. (29,140 emp) | 20-49: 1,479 est. (45,324 emp) | 50-99: 497 est. (34,453 emp) | 100-249: 236 est. (35,533 emp) | 250-499: 52 est. (18,108 emp) | 500-999: 18 est. (11,876 emp) | 1000+: 10 est. (17,937 emp)"
+  },
+  {
+    "code": "541519",
+    "title": "Other Computer Related Services",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5415 Computer Systems Design and Related Services",
+    "metrics": {
+      "smallEstablishments": 11465,
+      "totalEstablishments": 11989,
+      "totalEmployees": 150617,
+      "avgPayrollPerEmployee": 129719,
+      "smallBizPayrollShare": 0.24,
+      "avgEmployeesPerEstablishment": 12.6
+    },
+    "sizeBreakdown": "1-4: 9,221 est. (11,445 emp) | 5-9: 1,043 est. (6,816 emp) | 10-19: 702 est. (9,614 emp) | 20-49: 499 est. (15,555 emp) | 50-99: 241 est. (16,905 emp) | 100-249: 187 est. (28,912 emp) | 250-499: 57 est. (19,609 emp) | 500-999: 26 est. (18,025 emp) | 1000+: 13 est. (23,736 emp)"
+  },
+  {
+    "code": "523910",
+    "title": "Miscellaneous Intermediation",
+    "sector": "52 Finance and Insurance | 523 Securities, Commodity Contracts, and Other Financial Investments and Related Activities | 5239 Other Financial Investment Activities",
+    "metrics": {
+      "smallEstablishments": 11426,
+      "totalEstablishments": 11596,
+      "totalEmployees": 58566,
+      "avgPayrollPerEmployee": 234612,
+      "smallBizPayrollShare": 0.56,
+      "avgEmployeesPerEstablishment": 5.1
+    },
+    "sizeBreakdown": "1-4: 9,433 est. (12,400 emp) | 5-9: 1,069 est. (6,982 emp) | 10-19: 587 est. (7,868 emp) | 20-49: 337 est. (10,134 emp) | 50-99: 107 est. (7,518 emp) | 100-249: 49 est. (7,644 emp) | 250-499: 11 est. (3,514 emp)"
+  },
+  {
+    "code": "484230",
+    "title": "Specialized Freight (except Used Goods) Trucking, Long-Distance",
+    "sector": "48-49 Transportation and Warehousing | 484 Truck Transportation | 4842 Specialized Freight Trucking",
+    "metrics": {
+      "smallEstablishments": 11303,
+      "totalEstablishments": 11976,
+      "totalEmployees": 173625,
+      "avgPayrollPerEmployee": 63637,
+      "smallBizPayrollShare": 0.39,
+      "avgEmployeesPerEstablishment": 14.5
+    },
+    "sizeBreakdown": "1-4: 7,840 est. (11,540 emp) | 5-9: 1,357 est. (8,987 emp) | 10-19: 1,047 est. (14,503 emp) | 20-49: 1,059 est. (32,085 emp) | 50-99: 407 est. (27,743 emp) | 100-249: 199 est. (29,047 emp) | 250-499: 45 est. (13,795 emp) | 500-999: 13 est. (8,403 emp) | 1000+: 9 est. (27,522 emp)"
+  },
+  {
+    "code": "541921",
+    "title": "Photography Studios, Portrait",
+    "sector": "54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5419 Other Professional, Scientific, and Technical Services",
+    "metrics": {
+      "smallEstablishments": 11048,
+      "totalEstablishments": 11115,
+      "totalEmployees": 36521,
+      "avgPayrollPerEmployee": 33982,
+      "smallBizPayrollShare": 0.73,
+      "avgEmployeesPerEstablishment": 3.3
+    },
+    "sizeBreakdown": "1-4: 9,715 est. (12,932 emp) | 5-9: 868 est. (5,649 emp) | 10-19: 304 est. (4,031 emp) | 20-49: 161 est. (4,918 emp) | 50-99: 35 est. (2,551 emp) | 100-249: 26 est. (3,715 emp) | 250-499: 3 est. (976 emp) | 500-999: 3 est. (1,749 emp)"
+  },
+  {
+    "code": "611710",
+    "title": "Educational Support Services",
+    "sector": "61 Educational Services | 611 Educational Services | 6117 Educational Support Services",
+    "metrics": {
+      "smallEstablishments": 11011,
+      "totalEstablishments": 11389,
+      "totalEmployees": 127699,
+      "avgPayrollPerEmployee": 60811,
+      "smallBizPayrollShare": 0.37,
+      "avgEmployeesPerEstablishment": 11.2
+    },
+    "sizeBreakdown": "1-4: 7,712 est. (10,823 emp) | 5-9: 1,576 est. (10,294 emp) | 10-19: 1,067 est. (14,307 emp) | 20-49: 656 est. (19,130 emp) | 50-99: 208 est. (14,537 emp) | 100-249: 110 est. (16,690 emp) | 250-499: 36 est. (13,007 emp) | 500-999: 13 est. (9,202 emp) | 1000+: 11 est. (19,709 emp)"
+  },
+  {
+    "code": "811490",
+    "title": "Other Personal and Household Goods Repair and Maintenance",
+    "sector": "81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8114 Personal and Household Goods Repair and Maintenance",
+    "metrics": {
+      "smallEstablishments": 10975,
+      "totalEstablishments": 11007,
+      "totalEmployees": 39536,
+      "avgPayrollPerEmployee": 42909,
+      "smallBizPayrollShare": 0.86,
+      "avgEmployeesPerEstablishment": 3.6
+    },
+    "sizeBreakdown": "1-4: 8,777 est. (13,603 emp) | 5-9: 1,603 est. (10,204 emp) | 10-19: 437 est. (5,619 emp) | 20-49: 158 est. (4,618 emp) | 50-99: 22 est. (1,412 emp) | 100-249: 8 est. (1,260 emp)"
+  },
+  {
+    "code": "522310",
+    "title": "Mortgage and Nonmortgage Loan Brokers",
+    "sector": "52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5223 Activities Related to Credit Intermediation",
+    "metrics": {
+      "smallEstablishments": 10757,
+      "totalEstablishments": 10957,
+      "totalEmployees": 76003,
+      "avgPayrollPerEmployee": 91842,
+      "smallBizPayrollShare": 0.51,
+      "avgEmployeesPerEstablishment": 6.9
+    },
+    "sizeBreakdown": "1-4: 8,259 est. (12,437 emp) | 5-9: 1,457 est. (9,460 emp) | 10-19: 672 est. (8,903 emp) | 20-49: 369 est. (10,896 emp) | 50-99: 118 est. (7,956 emp) | 100-249: 54 est. (8,044 emp) | 250-499: 13 est. (4,115 emp) | 500-999: 10 est. (6,461 emp) | 1000+: 5 est. (7,731 emp)"
+  },
+  {
+    "code": "238340",
+    "title": "Tile and Terrazzo Contractors",
+    "sector": "23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors",
+    "metrics": {
+      "smallEstablishments": 10573,
+      "totalEstablishments": 10710,
+      "totalEmployees": 59006,
+      "avgPayrollPerEmployee": 55643,
+      "smallBizPayrollShare": 0.75,
+      "avgEmployeesPerEstablishment": 5.5
+    },
+    "sizeBreakdown": "1-4: 7,705 est. (11,878 emp) | 5-9: 1,496 est. (9,872 emp) | 10-19: 933 est. (12,645 emp) | 20-49: 439 est. (12,769 emp) | 50-99: 108 est. (7,188 emp) | 100-249: 28 est. (4,381 emp)"
+  },
+  {
+    "code": "488410",
+    "title": "Motor Vehicle Towing",
+    "sector": "48-49 Transportation and Warehousing | 488 Support Activities for Transportation | 4884 Support Activities for Road Transportation",
+    "metrics": {
+      "smallEstablishments": 10432,
+      "totalEstablishments": 10554,
+      "totalEmployees": 69825,
+      "avgPayrollPerEmployee": 49441,
+      "smallBizPayrollShare": 0.83,
+      "avgEmployeesPerEstablishment": 6.6
+    },
+    "sizeBreakdown": "1-4: 6,540 est. (10,504 emp) | 5-9: 1,974 est. (12,930 emp) | 10-19: 1,275 est. (17,222 emp) | 20-49: 643 est. (18,578 emp) | 50-99: 99 est. (6,257 emp) | 100-249: 17 est. (2,111 emp) | 250-499: 5 est. (1,752 emp)"
+  },
+  {
+    "code": "424990",
+    "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers",
+    "sector": "42 Wholesale Trade | 424 Merchant Wholesalers, Nondurable Goods | 4249 Miscellaneous Nondurable Goods Merchant Wholesalers",
+    "metrics": {
+      "smallEstablishments": 10397,
+      "totalEstablishments": 10634,
+      "totalEmployees": 77207,
+      "avgPayrollPerEmployee": 63612,
+      "smallBizPayrollShare": 0.59,
+      "avgEmployeesPerEstablishment": 7.3
+    },
+    "sizeBreakdown": "1-4: 7,372 est. (11,773 emp) | 5-9: 1,605 est. (10,489 emp) | 10-19: 908 est. (11,952 emp) | 20-49: 512 est. (15,219 emp) | 50-99: 150 est. (10,458 emp) | 100-249: 65 est. (9,824 emp) | 250-499: 21 est. (6,814 emp)"
+  },
+  {
+    "code": "237110",
+    "title": "Water and Sewer Line and Related Structures Construction",
+    "sector": "23 Construction | 237 Heavy and Civil Engineering Construction | 2371 Utility System Construction",
+    "metrics": {
+      "smallEstablishments": 10146,
+      "totalEstablishments": 10818,
+      "totalEmployees": 164091,
+      "avgPayrollPerEmployee": 77314,
+      "smallBizPayrollShare": 0.46,
+      "avgEmployeesPerEstablishment": 15.2
+    },
+    "sizeBreakdown": "1-4: 5,135 est. (9,482 emp) | 5-9: 2,206 est. (14,483 emp) | 10-19: 1,572 est. (21,252 emp) | 20-49: 1,233 est. (37,010 emp) | 50-99: 413 est. (28,128 emp) | 100-249: 209 est. (31,828 emp) | 250-499: 40 est. (13,236 emp) | 500-999: 8 est. (5,405 emp)"
+  }
+]

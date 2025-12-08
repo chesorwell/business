@@ -1,0 +1,759 @@
+1. 621111 - Offices of Physicians (except Mental Health Specialists)
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6211 Offices of Physicians
+   Small Establishments: 189,526
+   Avg Payroll/Employee: $102,237
+   Small Biz Payroll Share: 51%
+   Avg Employees/Establishment: 13.1
+   Size Breakdown: 1-4: 102,506 est. (173,454 emp) | 5-9: 38,412 est. (256,807 emp) | 10-19: 29,220 est. (397,201 emp) | 20-49: 19,388 est. (574,716 emp) | 50-99: 4,991 est. (338,192 emp) | 100-249: 2,331 est. (346,937 emp) | 250-499: 594 est. (200,644 emp) | 500-999: 204 est. (138,938 emp) | 1000+: 93 est. (155,222 emp)
+
+2. 531210 - Offices of Real Estate Agents and Brokers
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5312 Offices of Real Estate Agents and Brokers
+   Small Establishments: 164,886
+   Avg Payroll/Employee: $82,258
+   Small Biz Payroll Share: 70%
+   Avg Employees/Establishment: 2.5
+   Size Breakdown: 1-4: 151,806 est. (178,135 emp) | 5-9: 8,675 est. (54,941 emp) | 10-19: 2,970 est. (38,939 emp) | 20-49: 1,435 est. (43,488 emp) | 50-99: 419 est. (28,754 emp) | 100-249: 198 est. (29,758 emp) | 250-499: 50 est. (17,682 emp) | 500-999: 26 est. (17,629 emp) | 1000+: 6 est. (7,204 emp)
+
+3. 541110 - Offices of Lawyers
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5411 Legal Services
+   Small Establishments: 164,025
+   Avg Payroll/Employee: $121,210
+   Small Biz Payroll Share: 53%
+   Avg Employees/Establishment: 6.5
+   Size Breakdown: 1-4: 120,321 est. (201,092 emp) | 5-9: 25,093 est. (163,259 emp) | 10-19: 12,140 est. (161,345 emp) | 20-49: 6,471 est. (193,093 emp) | 50-99: 1,841 est. (125,535 emp) | 100-249: 863 est. (126,900 emp) | 250-499: 181 est. (59,867 emp) | 500-999: 48 est. (30,492 emp) | 1000+: 14 est. (16,565 emp)
+
+4. 621210 - Offices of Dentists
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6212 Offices of Dentists
+   Small Establishments: 135,577
+   Avg Payroll/Employee: $57,734
+   Small Biz Payroll Share: 94%
+   Avg Employees/Establishment: 7.6
+   Size Breakdown: 1-4: 51,227 est. (102,490 emp) | 5-9: 48,980 est. (333,851 emp) | 10-19: 29,252 est. (378,399 emp) | 20-49: 6,118 est. (162,959 emp) | 50-99: 449 est. (28,489 emp) | 100-249: 85 est. (12,038 emp) | 250-499: 23 est. (7,457 emp) | 500-999: 5 est. (2,873 emp)
+
+5. 524210 - Insurance Agencies and Brokerages
+   Sector: 52 Finance and Insurance | 524 Insurance Carriers and Related Activities | 5242 Agencies, Brokerages, and Other Insurance Related Activities
+   Small Establishments: 133,257
+   Avg Payroll/Employee: $84,240
+   Small Biz Payroll Share: 55%
+   Avg Employees/Establishment: 6
+   Size Breakdown: 1-4: 99,079 est. (180,816 emp) | 5-9: 23,040 est. (145,371 emp) | 10-19: 7,526 est. (98,307 emp) | 20-49: 3,612 est. (107,458 emp) | 50-99: 1,028 est. (70,095 emp) | 100-249: 616 est. (88,211 emp) | 250-499: 131 est. (44,439 emp) | 500-999: 47 est. (33,708 emp) | 1000+: 21 est. (39,228 emp)
+
+6. 236118 - Residential Remodelers
+   Sector: 23 Construction | 236 Construction of Buildings | 2361 Residential Building Construction
+   Small Establishments: 132,772
+   Avg Payroll/Employee: $55,047
+   Small Biz Payroll Share: 84%
+   Avg Employees/Establishment: 3.5
+   Size Breakdown: 1-4: 108,412 est. (151,750 emp) | 5-9: 15,501 est. (99,508 emp) | 10-19: 6,370 est. (83,604 emp) | 20-49: 2,489 est. (71,634 emp) | 50-99: 430 est. (28,760 emp) | 100-249: 127 est. (18,390 emp) | 250-499: 14 est. (5,138 emp)
+
+7. 561730 - Landscaping Services
+   Sector: 56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5617 Services to Buildings and Dwellings
+   Small Establishments: 114,954
+   Avg Payroll/Employee: $49,769
+   Small Biz Payroll Share: 65%
+   Avg Employees/Establishment: 6.6
+   Size Breakdown: 1-4: 83,049 est. (113,401 emp) | 5-9: 16,972 est. (110,952 emp) | 10-19: 9,413 est. (126,484 emp) | 20-49: 5,520 est. (165,646 emp) | 50-99: 1,409 est. (94,642 emp) | 100-249: 559 est. (81,721 emp) | 250-499: 158 est. (53,504 emp) | 500-999: 22 est. (15,013 emp) | 1000+: 7 est. (12,665 emp)
+
+8. 238220 - Plumbing, Heating, and Air-Conditioning Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2382 Building Equipment Contractors
+   Small Establishments: 105,570
+   Avg Payroll/Employee: $69,883
+   Small Biz Payroll Share: 50%
+   Avg Employees/Establishment: 10.7
+   Size Breakdown: 1-4: 63,898 est. (109,898 emp) | 5-9: 20,550 est. (135,440 emp) | 10-19: 12,938 est. (174,215 emp) | 20-49: 8,184 est. (246,142 emp) | 50-99: 2,495 est. (172,279 emp) | 100-249: 1,199 est. (173,692 emp) | 250-499: 253 est. (87,694 emp) | 500-999: 57 est. (37,901 emp) | 1000+: 27 est. (39,498 emp)
+
+9. 541611 - Administrative Management and General Management Consulting Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services
+   Small Establishments: 95,382
+   Avg Payroll/Employee: $123,013
+   Small Biz Payroll Share: 29%
+   Avg Employees/Establishment: 8.1
+   Size Breakdown: 1-4: 82,064 est. (94,051 emp) | 5-9: 6,602 est. (42,456 emp) | 10-19: 4,002 est. (53,279 emp) | 20-49: 2,714 est. (82,038 emp) | 50-99: 1,093 est. (75,480 emp) | 100-249: 728 est. (111,976 emp) | 250-499: 287 est. (100,748 emp) | 500-999: 120 est. (84,555 emp) | 1000+: 68 est. (144,153 emp)
+
+10. 811111 - General Automotive Repair
+   Sector: 81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8111 Automotive Repair and Maintenance
+   Small Establishments: 83,824
+   Avg Payroll/Employee: $49,829
+   Small Biz Payroll Share: 90%
+   Avg Employees/Establishment: 4.6
+   Size Breakdown: 1-4: 56,131 est. (111,018 emp) | 5-9: 20,447 est. (131,320 emp) | 10-19: 5,903 est. (74,547 emp) | 20-49: 1,343 est. (37,219 emp) | 50-99: 194 est. (12,753 emp) | 100-249: 69 est. (10,608 emp) | 250-499: 7 est. (1,844 emp) | 500-999: 5 est. (2,705 emp)
+
+11. 812112 - Beauty Salons
+   Sector: 81 Other Services (except Public Administration) | 812 Personal and Laundry Services | 8121 Personal Care Services
+   Small Establishments: 82,677
+   Avg Payroll/Employee: $30,393
+   Small Biz Payroll Share: 94%
+   Avg Employees/Establishment: 4.7
+   Size Breakdown: 1-4: 56,517 est. (88,403 emp) | 5-9: 15,925 est. (104,979 emp) | 10-19: 7,650 est. (99,872 emp) | 20-49: 2,585 est. (71,590 emp) | 50-99: 251 est. (16,236 emp) | 100-249: 32 est. (4,230 emp) | 250-499: 4 est. (1,355 emp)
+
+12. 238210 - Electrical Contractors and Other Wiring Installation Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2382 Building Equipment Contractors
+   Small Establishments: 78,506
+   Avg Payroll/Employee: $71,880
+   Small Biz Payroll Share: 44%
+   Avg Employees/Establishment: 11.6
+   Size Breakdown: 1-4: 48,390 est. (83,768 emp) | 5-9: 14,872 est. (98,000 emp) | 10-19: 9,209 est. (124,376 emp) | 20-49: 6,035 est. (180,704 emp) | 50-99: 2,005 est. (138,245 emp) | 100-249: 1,013 est. (152,537 emp) | 250-499: 205 est. (70,060 emp) | 500-999: 83 est. (58,105 emp) | 1000+: 30 est. (45,978 emp)
+
+13. 531110 - Lessors of Residential Buildings and Dwellings
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5311 Lessors of Real Estate
+   Small Establishments: 74,300
+   Avg Payroll/Employee: $53,240
+   Small Biz Payroll Share: 73%
+   Avg Employees/Establishment: 4.6
+   Size Breakdown: 1-4: 56,091 est. (92,909 emp) | 5-9: 12,330 est. (78,460 emp) | 10-19: 4,312 est. (55,180 emp) | 20-49: 1,567 est. (46,019 emp) | 50-99: 411 est. (28,077 emp) | 100-249: 148 est. (21,925 emp) | 250-499: 37 est. (12,803 emp) | 500-999: 9 est. (6,181 emp) | 1000+: 3 est. (3,867 emp)
+
+14. 541511 - Custom Computer Programming Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5415 Computer Systems Design and Related Services
+   Small Establishments: 64,476
+   Avg Payroll/Employee: $127,071
+   Small Biz Payroll Share: 25%
+   Avg Employees/Establishment: 15.4
+   Size Breakdown: 1-4: 48,558 est. (66,349 emp) | 5-9: 7,002 est. (46,519 emp) | 10-19: 4,869 est. (66,649 emp) | 20-49: 4,047 est. (124,659 emp) | 50-99: 1,699 est. (118,888 emp) | 100-249: 1,204 est. (184,075 emp) | 250-499: 406 est. (139,340 emp) | 500-999: 165 est. (113,593 emp) | 1000+: 88 est. (184,472 emp)
+
+15. 484121 - General Freight Trucking, Long-Distance, Truckload
+   Sector: 48-49 Transportation and Warehousing | 484 Truck Transportation | 4841 General Freight Trucking
+   Small Establishments: 61,191
+   Avg Payroll/Employee: $59,499
+   Small Biz Payroll Share: 38%
+   Avg Employees/Establishment: 9.4
+   Size Breakdown: 1-4: 49,856 est. (61,934 emp) | 5-9: 4,945 est. (32,405 emp) | 10-19: 3,431 est. (47,372 emp) | 20-49: 2,959 est. (90,889 emp) | 50-99: 1,119 est. (77,175 emp) | 100-249: 713 est. (110,483 emp) | 250-499: 193 est. (65,569 emp) | 500-999: 68 est. (43,338 emp) | 1000+: 31 est. (63,002 emp)
+
+16. 236115 - New Single-Family Housing Construction (except For-Sale Builders)
+   Sector: 23 Construction | 236 Construction of Buildings | 2361 Residential Building Construction
+   Small Establishments: 59,216
+   Avg Payroll/Employee: $63,522
+   Small Biz Payroll Share: 78%
+   Avg Employees/Establishment: 4
+   Size Breakdown: 1-4: 46,250 est. (72,046 emp) | 5-9: 8,611 est. (55,252 emp) | 10-19: 3,204 est. (41,746 emp) | 20-49: 1,151 est. (32,847 emp) | 50-99: 246 est. (16,326 emp) | 100-249: 92 est. (12,976 emp) | 250-499: 9 est. (3,185 emp) | 500-999: 4 est. (2,747 emp)
+
+17. 541330 - Engineering Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5413 Architectural, Engineering, and Related Services
+   Small Establishments: 57,945
+   Avg Payroll/Employee: $105,799
+   Small Biz Payroll Share: 34%
+   Avg Employees/Establishment: 19.2
+   Size Breakdown: 1-4: 33,505 est. (51,347 emp) | 5-9: 9,381 est. (62,997 emp) | 10-19: 8,128 est. (111,624 emp) | 20-49: 6,931 est. (212,959 emp) | 50-99: 2,614 est. (180,089 emp) | 100-249: 1,467 est. (218,420 emp) | 250-499: 369 est. (125,298 emp) | 500-999: 134 est. (89,176 emp) | 1000+: 61 est. (147,725 emp)
+
+18. 531311 - Residential Property Managers
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate
+   Small Establishments: 55,901
+   Avg Payroll/Employee: $58,002
+   Small Biz Payroll Share: 54%
+   Avg Employees/Establishment: 8.8
+   Size Breakdown: 1-4: 37,284 est. (64,284 emp) | 5-9: 11,192 est. (72,165 emp) | 10-19: 4,950 est. (65,272 emp) | 20-49: 2,475 est. (73,676 emp) | 50-99: 866 est. (60,088 emp) | 100-249: 477 est. (72,219 emp) | 250-499: 138 est. (46,923 emp) | 500-999: 43 est. (29,966 emp) | 1000+: 10 est. (22,782 emp)
+
+19. 541512 - Computer Systems Design Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5415 Computer Systems Design and Related Services
+   Small Establishments: 55,623
+   Avg Payroll/Employee: $120,371
+   Small Biz Payroll Share: 24%
+   Avg Employees/Establishment: 14
+   Size Breakdown: 1-4: 43,147 est. (56,954 emp) | 5-9: 5,745 est. (38,089 emp) | 10-19: 3,733 est. (50,923 emp) | 20-49: 2,998 est. (92,942 emp) | 50-99: 1,326 est. (93,324 emp) | 100-249: 870 est. (136,277 emp) | 250-499: 306 est. (105,090 emp) | 500-999: 117 est. (81,054 emp) | 1000+: 70 est. (161,193 emp)
+
+20. 541211 - Offices of Certified Public Accountants
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5412 Accounting, Tax Preparation, Bookkeeping, and Payroll Services
+   Small Establishments: 54,129
+   Avg Payroll/Employee: $97,895
+   Small Biz Payroll Share: 34%
+   Avg Employees/Establishment: 10.3
+   Size Breakdown: 1-4: 36,263 est. (61,474 emp) | 5-9: 10,412 est. (68,864 emp) | 10-19: 5,106 est. (67,671 emp) | 20-49: 2,348 est. (70,092 emp) | 50-99: 796 est. (55,147 emp) | 100-249: 463 est. (70,099 emp) | 250-499: 146 est. (50,524 emp) | 500-999: 64 est. (44,786 emp) | 1000+: 44 est. (84,287 emp)
+
+21. 621340 - Offices of Physical, Occupational and Speech Therapists, and Audiologists
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners
+   Small Establishments: 49,941
+   Avg Payroll/Employee: $47,078
+   Small Biz Payroll Share: 65%
+   Avg Employees/Establishment: 9.1
+   Size Breakdown: 1-4: 28,233 est. (48,891 emp) | 5-9: 11,576 est. (77,692 emp) | 10-19: 7,200 est. (96,218 emp) | 20-49: 2,932 est. (83,063 emp) | 50-99: 510 est. (35,090 emp) | 100-249: 294 est. (44,742 emp) | 250-499: 91 est. (31,064 emp) | 500-999: 31 est. (20,234 emp) | 1000+: 16 est. (27,533 emp)
+
+22. 541613 - Marketing Consulting Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services
+   Small Establishments: 49,241
+   Avg Payroll/Employee: $82,170
+   Small Biz Payroll Share: 47%
+   Avg Employees/Establishment: 5.6
+   Size Breakdown: 1-4: 42,129 est. (49,175 emp) | 5-9: 3,669 est. (24,057 emp) | 10-19: 2,047 est. (27,744 emp) | 20-49: 1,396 est. (41,971 emp) | 50-99: 465 est. (31,977 emp) | 100-249: 209 est. (31,462 emp) | 250-499: 59 est. (20,174 emp) | 500-999: 35 est. (22,843 emp) | 1000+: 16 est. (32,462 emp)
+
+23. 541219 - Other Accounting Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5412 Accounting, Tax Preparation, Bookkeeping, and Payroll Services
+   Small Establishments: 45,897
+   Avg Payroll/Employee: $55,181
+   Small Biz Payroll Share: 57%
+   Avg Employees/Establishment: 5.3
+   Size Breakdown: 1-4: 36,457 est. (55,002 emp) | 5-9: 6,087 est. (39,136 emp) | 10-19: 2,267 est. (29,630 emp) | 20-49: 1,086 est. (32,372 emp) | 50-99: 319 est. (22,156 emp) | 100-249: 167 est. (25,518 emp) | 250-499: 41 est. (13,537 emp) | 500-999: 17 est. (10,962 emp) | 1000+: 11 est. (19,480 emp)
+
+24. 484110 - General Freight Trucking, Local
+   Sector: 48-49 Transportation and Warehousing | 484 Truck Transportation | 4841 General Freight Trucking
+   Small Establishments: 44,227
+   Avg Payroll/Employee: $48,760
+   Small Biz Payroll Share: 60%
+   Avg Employees/Establishment: 7
+   Size Breakdown: 1-4: 34,994 est. (44,465 emp) | 5-9: 4,114 est. (26,867 emp) | 10-19: 2,814 est. (38,586 emp) | 20-49: 2,305 est. (69,940 emp) | 50-99: 834 est. (57,835 emp) | 100-249: 323 est. (44,693 emp) | 250-499: 36 est. (11,310 emp) | 500-999: 5 est. (3,494 emp) | 1000+: 11 est. (20,067 emp)
+
+25. 621330 - Offices of Mental Health Practitioners (except Physicians)
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners
+   Small Establishments: 40,279
+   Avg Payroll/Employee: $43,315
+   Small Biz Payroll Share: 72%
+   Avg Employees/Establishment: 5.4
+   Size Breakdown: 1-4: 32,351 est. (40,083 emp) | 5-9: 3,557 est. (23,422 emp) | 10-19: 2,605 est. (35,208 emp) | 20-49: 1,766 est. (51,692 emp) | 50-99: 412 est. (27,684 emp) | 100-249: 159 est. (23,132 emp) | 250-499: 25 est. (7,682 emp) | 500-999: 6 est. (3,815 emp) | 1000+: 4 est. (6,142 emp)
+
+26. 621310 - Offices of Chiropractors
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners
+   Small Establishments: 40,144
+   Avg Payroll/Employee: $39,094
+   Small Biz Payroll Share: 97%
+   Avg Employees/Establishment: 3.7
+   Size Breakdown: 1-4: 29,217 est. (57,711 emp) | 5-9: 8,457 est. (53,579 emp) | 10-19: 2,173 est. (27,217 emp) | 20-49: 297 est. (7,849 emp) | 50-99: 27 est. (1,789 emp) | 100-249: 7 est. (907 emp)
+
+27. 238990 - All Other Specialty Trade Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2389 Other Specialty Trade Contractors
+   Small Establishments: 39,580
+   Avg Payroll/Employee: $66,445
+   Small Biz Payroll Share: 67%
+   Avg Employees/Establishment: 7.3
+   Size Breakdown: 1-4: 26,916 est. (38,740 emp) | 5-9: 6,557 est. (43,170 emp) | 10-19: 3,851 est. (51,426 emp) | 20-49: 2,256 est. (67,349 emp) | 50-99: 512 est. (34,153 emp) | 100-249: 165 est. (23,517 emp) | 250-499: 20 est. (7,148 emp) | 500-999: 17 est. (12,740 emp) | 1000+: 8 est. (17,009 emp)
+
+28. 238910 - Site Preparation Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2389 Other Specialty Trade Contractors
+   Small Establishments: 38,033
+   Avg Payroll/Employee: $72,365
+   Small Biz Payroll Share: 51%
+   Avg Employees/Establishment: 11
+   Size Breakdown: 1-4: 23,713 est. (37,692 emp) | 5-9: 6,550 est. (43,241 emp) | 10-19: 4,485 est. (60,335 emp) | 20-49: 3,285 est. (99,684 emp) | 50-99: 1,042 est. (71,087 emp) | 100-249: 488 est. (71,041 emp) | 250-499: 92 est. (30,216 emp) | 500-999: 26 est. (16,664 emp) | 1000+: 5 est. (5,877 emp)
+
+29. 238320 - Painting and Wall Covering Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors
+   Small Establishments: 37,534
+   Avg Payroll/Employee: $52,873
+   Small Biz Payroll Share: 72%
+   Avg Employees/Establishment: 5.2
+   Size Breakdown: 1-4: 28,292 est. (44,117 emp) | 5-9: 5,375 est. (34,521 emp) | 10-19: 2,551 est. (33,812 emp) | 20-49: 1,316 est. (38,581 emp) | 50-99: 307 est. (20,695 emp) | 100-249: 90 est. (13,282 emp) | 250-499: 30 est. (8,632 emp)
+
+30. 236220 - Commercial and Institutional Building Construction
+   Sector: 23 Construction | 236 Construction of Buildings | 2362 Nonresidential Building Construction
+   Small Establishments: 36,648
+   Avg Payroll/Employee: $92,192
+   Small Biz Payroll Share: 42%
+   Avg Employees/Establishment: 15.9
+   Size Breakdown: 1-4: 18,807 est. (31,819 emp) | 5-9: 7,340 est. (49,008 emp) | 10-19: 5,812 est. (78,959 emp) | 20-49: 4,689 est. (142,084 emp) | 50-99: 1,459 est. (99,418 emp) | 100-249: 670 est. (100,005 emp) | 250-499: 162 est. (56,191 emp) | 500-999: 54 est. (36,798 emp) | 1000+: 12 est. (24,241 emp)
+
+31. 561110 - Office Administrative Services
+   Sector: 56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5611 Office Administrative Services
+   Small Establishments: 35,205
+   Avg Payroll/Employee: $83,309
+   Small Biz Payroll Share: 40%
+   Avg Employees/Establishment: 15.1
+   Size Breakdown: 1-4: 23,241 est. (34,089 emp) | 5-9: 5,146 est. (33,865 emp) | 10-19: 3,906 est. (52,987 emp) | 20-49: 2,912 est. (88,595 emp) | 50-99: 1,141 est. (79,171 emp) | 100-249: 627 est. (94,748 emp) | 250-499: 180 est. (61,572 emp) | 500-999: 78 est. (52,941 emp) | 1000+: 38 est. (66,553 emp)
+
+32. 425120 - Wholesale Trade Agents and Brokers
+   Sector: 42 Wholesale Trade | 425 Wholesale Electronic Markets and Agents and Brokers | 4251 Wholesale Trade Agents and Brokers
+   Small Establishments: 35,186
+   Avg Payroll/Employee: $70,160
+   Small Biz Payroll Share: 65%
+   Avg Employees/Establishment: 6.8
+   Size Breakdown: 1-4: 27,891 est. (40,150 emp) | 5-9: 3,960 est. (25,883 emp) | 10-19: 2,087 est. (28,288 emp) | 20-49: 1,248 est. (37,329 emp) | 50-99: 361 est. (24,700 emp) | 100-249: 175 est. (27,245 emp) | 250-499: 62 est. (20,860 emp) | 500-999: 19 est. (14,144 emp) | 1000+: 16 est. (26,287 emp)
+
+33. 811121 - Automotive Body, Paint, and Interior Repair and Maintenance
+   Sector: 81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8111 Automotive Repair and Maintenance
+   Small Establishments: 34,450
+   Avg Payroll/Employee: $56,981
+   Small Biz Payroll Share: 92%
+   Avg Employees/Establishment: 6.9
+   Size Breakdown: 1-4: 18,610 est. (33,642 emp) | 5-9: 7,889 est. (53,143 emp) | 10-19: 5,899 est. (78,875 emp) | 20-49: 2,052 est. (55,251 emp) | 50-99: 180 est. (11,194 emp) | 100-249: 27 est. (3,454 emp) | 250-499: 7 est. (2,614 emp)
+
+34. 623210 - Residential Intellectual and Developmental Disability Facilities
+   Sector: 62 Health Care and Social Assistance | 623 Nursing and Residential Care Facilities | 6232 Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities
+   Small Establishments: 34,250
+   Avg Payroll/Employee: $37,271
+   Small Biz Payroll Share: 57%
+   Avg Employees/Establishment: 14.8
+   Size Breakdown: 1-4: 9,326 est. (22,476 emp) | 5-9: 13,510 est. (92,940 emp) | 10-19: 8,680 est. (111,658 emp) | 20-49: 2,734 est. (79,781 emp) | 50-99: 833 est. (57,012 emp) | 100-249: 530 est. (80,191 emp) | 250-499: 152 est. (50,760 emp) | 500-999: 32 est. (22,248 emp) | 1000+: 10 est. (13,356 emp)
+
+35. 531120 - Lessors of Nonresidential Buildings (except Miniwarehouses)
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5311 Lessors of Real Estate
+   Small Establishments: 34,195
+   Avg Payroll/Employee: $81,154
+   Small Biz Payroll Share: 58%
+   Avg Employees/Establishment: 5
+   Size Breakdown: 1-4: 27,220 est. (42,084 emp) | 5-9: 4,202 est. (26,912 emp) | 10-19: 1,852 est. (24,395 emp) | 20-49: 921 est. (26,904 emp) | 50-99: 223 est. (15,071 emp) | 100-249: 110 est. (16,379 emp) | 250-499: 28 est. (9,931 emp) | 500-999: 9 est. (6,721 emp)
+
+36. 621399 - Offices of All Other Miscellaneous Health Practitioners
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners
+   Small Establishments: 33,485
+   Avg Payroll/Employee: $54,451
+   Small Biz Payroll Share: 82%
+   Avg Employees/Establishment: 3.7
+   Size Breakdown: 1-4: 27,048 est. (37,993 emp) | 5-9: 3,979 est. (25,749 emp) | 10-19: 1,737 est. (22,710 emp) | 20-49: 721 est. (20,216 emp) | 50-99: 110 est. (7,412 emp) | 100-249: 55 est. (8,224 emp) | 250-499: 6 est. (1,988 emp)
+
+37. 541940 - Veterinary Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5419 Other Professional, Scientific, and Technical Services
+   Small Establishments: 33,105
+   Avg Payroll/Employee: $48,496
+   Small Biz Payroll Share: 77%
+   Avg Employees/Establishment: 13.8
+   Size Breakdown: 1-4: 9,557 est. (16,910 emp) | 5-9: 7,608 est. (52,727 emp) | 10-19: 10,172 est. (143,410 emp) | 20-49: 5,768 est. (164,943 emp) | 50-99: 668 est. (44,835 emp) | 100-249: 199 est. (28,809 emp) | 250-499: 22 est. (7,492 emp) | 500-999: 3 est. (1,774 emp) | 1000+: 3 est. (7,724 emp)
+
+38. 484220 - Specialized Freight (except Used Goods) Trucking, Local
+   Sector: 48-49 Transportation and Warehousing | 484 Truck Transportation | 4842 Specialized Freight Trucking
+   Small Establishments: 32,131
+   Avg Payroll/Employee: $62,552
+   Small Biz Payroll Share: 67%
+   Avg Employees/Establishment: 6.9
+   Size Breakdown: 1-4: 22,959 est. (32,919 emp) | 5-9: 4,356 est. (28,566 emp) | 10-19: 2,903 est. (39,471 emp) | 20-49: 1,913 est. (56,961 emp) | 50-99: 488 est. (32,736 emp) | 100-249: 185 est. (26,168 emp) | 250-499: 19 est. (6,376 emp) | 500-999: 5 est. (2,981 emp)
+
+39. 621610 - Home Health Care Services
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6216 Home Health Care Services
+   Small Establishments: 32,005
+   Avg Payroll/Employee: $35,785
+   Small Biz Payroll Share: 30%
+   Avg Employees/Establishment: 40.1
+   Size Breakdown: 1-4: 13,184 est. (19,233 emp) | 5-9: 4,605 est. (31,218 emp) | 10-19: 5,979 est. (84,993 emp) | 20-49: 8,237 est. (259,602 emp) | 50-99: 3,880 est. (269,633 emp) | 100-249: 2,311 est. (347,661 emp) | 250-499: 588 est. (198,862 emp) | 500-999: 238 est. (160,761 emp) | 1000+: 95 est. (195,947 emp)
+
+40. 238350 - Finish Carpentry Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors
+   Small Establishments: 31,808
+   Avg Payroll/Employee: $57,576
+   Small Biz Payroll Share: 73%
+   Avg Employees/Establishment: 5.2
+   Size Breakdown: 1-4: 23,759 est. (36,967 emp) | 5-9: 4,597 est. (29,777 emp) | 10-19: 2,306 est. (31,054 emp) | 20-49: 1,146 est. (33,589 emp) | 50-99: 250 est. (16,901 emp) | 100-249: 95 est. (13,804 emp) | 250-499: 12 est. (3,786 emp) | 500-999: 4 est. (2,552 emp)
+
+41. 541690 - Other Scientific and Technical Consulting Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services
+   Small Establishments: 26,675
+   Avg Payroll/Employee: $99,366
+   Small Biz Payroll Share: 48%
+   Avg Employees/Establishment: 5.9
+   Size Breakdown: 1-4: 22,446 est. (26,485 emp) | 5-9: 2,192 est. (14,166 emp) | 10-19: 1,231 est. (16,810 emp) | 20-49: 806 est. (24,626 emp) | 50-99: 292 est. (20,006 emp) | 100-249: 183 est. (28,276 emp) | 250-499: 47 est. (16,075 emp) | 500-999: 13 est. (8,748 emp) | 1000+: 4 est. (5,742 emp)
+
+42. 423830 - Industrial Machinery and Equipment Merchant Wholesalers
+   Sector: 42 Wholesale Trade | 423 Merchant Wholesalers, Durable Goods | 4238 Machinery, Equipment, and Supplies Merchant Wholesalers
+   Small Establishments: 25,269
+   Avg Payroll/Employee: $88,006
+   Small Biz Payroll Share: 53%
+   Avg Employees/Establishment: 13.8
+   Size Breakdown: 1-4: 12,282 est. (23,675 emp) | 5-9: 5,779 est. (38,638 emp) | 10-19: 4,227 est. (57,142 emp) | 20-49: 2,981 est. (90,343 emp) | 50-99: 900 est. (62,317 emp) | 100-249: 404 est. (59,327 emp) | 250-499: 65 est. (22,518 emp) | 500-999: 14 est. (9,317 emp) | 1000+: 3 est. (4,388 emp)
+
+43. 238160 - Roofing Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors
+   Small Establishments: 23,832
+   Avg Payroll/Employee: $64,884
+   Small Biz Payroll Share: 61%
+   Avg Employees/Establishment: 8.4
+   Size Breakdown: 1-4: 15,808 est. (23,806 emp) | 5-9: 3,883 est. (25,522 emp) | 10-19: 2,490 est. (33,681 emp) | 20-49: 1,651 est. (50,146 emp) | 50-99: 504 est. (33,924 emp) | 100-249: 170 est. (24,176 emp) | 250-499: 18 est. (6,081 emp) | 500-999: 7 est. (4,567 emp)
+
+44. 621320 - Offices of Optometrists
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6213 Offices of Other Health Practitioners
+   Small Establishments: 22,682
+   Avg Payroll/Employee: $46,533
+   Small Biz Payroll Share: 93%
+   Avg Employees/Establishment: 6.5
+   Size Breakdown: 1-4: 11,037 est. (22,925 emp) | 5-9: 7,316 est. (48,740 emp) | 10-19: 3,477 est. (44,855 emp) | 20-49: 852 est. (22,488 emp) | 50-99: 77 est. (5,188 emp) | 100-249: 19 est. (2,923 emp)
+
+45. 541990 - All Other Professional, Scientific, and Technical Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5419 Other Professional, Scientific, and Technical Services
+   Small Establishments: 22,503
+   Avg Payroll/Employee: $85,140
+   Small Biz Payroll Share: 50%
+   Avg Employees/Establishment: 5.9
+   Size Breakdown: 1-4: 18,693 est. (22,542 emp) | 5-9: 2,030 est. (13,039 emp) | 10-19: 1,054 est. (14,182 emp) | 20-49: 726 est. (21,640 emp) | 50-99: 234 est. (16,045 emp) | 100-249: 104 est. (15,982 emp) | 250-499: 42 est. (14,360 emp) | 500-999: 12 est. (8,015 emp) | 1000+: 8 est. (10,248 emp)
+
+46. 812990 - All Other Personal Services
+   Sector: 81 Other Services (except Public Administration) | 812 Personal and Laundry Services | 8129 Other Personal Services
+   Small Establishments: 22,484
+   Avg Payroll/Employee: $40,915
+   Small Biz Payroll Share: 73%
+   Avg Employees/Establishment: 3.4
+   Size Breakdown: 1-4: 18,712 est. (22,925 emp) | 5-9: 2,339 est. (15,237 emp) | 10-19: 1,073 est. (14,085 emp) | 20-49: 360 est. (10,259 emp) | 50-99: 72 est. (4,793 emp) | 100-249: 28 est. (4,133 emp) | 250-499: 10 est. (3,710 emp) | 500-999: 3 est. (2,166 emp)
+
+47. 541310 - Architectural Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5413 Architectural, Engineering, and Related Services
+   Small Establishments: 22,041
+   Avg Payroll/Employee: $96,154
+   Small Biz Payroll Share: 61%
+   Avg Employees/Establishment: 8
+   Size Breakdown: 1-4: 14,353 est. (23,720 emp) | 5-9: 4,049 est. (26,783 emp) | 10-19: 2,307 est. (30,954 emp) | 20-49: 1,332 est. (40,000 emp) | 50-99: 388 est. (26,586 emp) | 100-249: 162 est. (23,423 emp) | 250-499: 24 est. (7,896 emp) | 500-999: 4 est. (2,720 emp)
+
+48. 811310 - Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+   Sector: 81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8113 Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+   Small Establishments: 21,887
+   Avg Payroll/Employee: $69,722
+   Small Biz Payroll Share: 57%
+   Avg Employees/Establishment: 9.3
+   Size Breakdown: 1-4: 13,697 est. (23,674 emp) | 5-9: 4,107 est. (27,085 emp) | 10-19: 2,572 est. (34,556 emp) | 20-49: 1,511 est. (44,714 emp) | 50-99: 350 est. (23,928 emp) | 100-249: 147 est. (20,871 emp) | 250-499: 28 est. (9,265 emp) | 500-999: 12 est. (7,878 emp) | 1000+: 9 est. (17,219 emp)
+
+49. 238110 - Poured Concrete Foundation and Structure Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors
+   Small Establishments: 21,782
+   Avg Payroll/Employee: $68,000
+   Small Biz Payroll Share: 50%
+   Avg Employees/Establishment: 11.2
+   Size Breakdown: 1-4: 13,161 est. (20,738 emp) | 5-9: 4,269 est. (28,073 emp) | 10-19: 2,641 est. (35,868 emp) | 20-49: 1,711 est. (51,903 emp) | 50-99: 563 est. (38,808 emp) | 100-249: 260 est. (38,345 emp) | 250-499: 68 est. (22,069 emp) | 500-999: 22 est. (13,853 emp) | 1000+: 4 est. (5,353 emp)
+
+50. 531390 - Other Activities Related to Real Estate
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate
+   Small Establishments: 21,694
+   Avg Payroll/Employee: $102,784
+   Small Biz Payroll Share: 67%
+   Avg Employees/Establishment: 3.4
+   Size Breakdown: 1-4: 18,882 est. (22,143 emp) | 5-9: 1,694 est. (10,964 emp) | 10-19: 744 est. (9,807 emp) | 20-49: 374 est. (11,033 emp) | 50-99: 134 est. (9,025 emp) | 100-249: 40 est. (6,374 emp) | 250-499: 9 est. (3,003 emp) | 500-999: 4 est. (2,825 emp)
+
+51. 488510 - Freight Transportation Arrangement
+   Sector: 48-49 Transportation and Warehousing | 488 Support Activities for Transportation | 4885 Freight Transportation Arrangement
+   Small Establishments: 21,058
+   Avg Payroll/Employee: $75,057
+   Small Biz Payroll Share: 44%
+   Avg Employees/Establishment: 14.4
+   Size Breakdown: 1-4: 12,562 est. (22,097 emp) | 5-9: 3,793 est. (25,206 emp) | 10-19: 2,760 est. (37,499 emp) | 20-49: 1,943 est. (58,207 emp) | 50-99: 743 est. (51,058 emp) | 100-249: 452 est. (67,389 emp) | 250-499: 91 est. (31,528 emp) | 500-999: 33 est. (22,870 emp) | 1000+: 6 est. (7,494 emp)
+
+52. 238310 - Drywall and Insulation Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors
+   Small Establishments: 19,133
+   Avg Payroll/Employee: $61,995
+   Small Biz Payroll Share: 42%
+   Avg Employees/Establishment: 12.8
+   Size Breakdown: 1-4: 12,185 est. (19,908 emp) | 5-9: 3,186 est. (20,992 emp) | 10-19: 2,110 est. (28,601 emp) | 20-49: 1,652 est. (49,523 emp) | 50-99: 596 est. (41,079 emp) | 100-249: 342 est. (51,041 emp) | 250-499: 70 est. (23,258 emp) | 500-999: 17 est. (11,449 emp) | 1000+: 4 est. (11,443 emp)
+
+53. 621498 - All Other Outpatient Care Centers
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6214 Outpatient Care Centers
+   Small Establishments: 18,963
+   Avg Payroll/Employee: $73,754
+   Small Biz Payroll Share: 35%
+   Avg Employees/Establishment: 22.9
+   Size Breakdown: 1-4: 8,036 est. (14,925 emp) | 5-9: 4,219 est. (28,546 emp) | 10-19: 3,677 est. (49,974 emp) | 20-49: 3,031 est. (91,679 emp) | 50-99: 1,160 est. (80,106 emp) | 100-249: 662 est. (100,419 emp) | 250-499: 149 est. (51,438 emp) | 500-999: 34 est. (23,477 emp) | 1000+: 22 est. (40,003 emp)
+
+54. 623312 - Assisted Living Facilities for the Elderly
+   Sector: 62 Health Care and Social Assistance | 623 Nursing and Residential Care Facilities | 6233 Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
+   Small Establishments: 18,304
+   Avg Payroll/Employee: $32,997
+   Small Biz Payroll Share: 48%
+   Avg Employees/Establishment: 23.3
+   Size Breakdown: 1-4: 6,867 est. (12,691 emp) | 5-9: 3,236 est. (21,754 emp) | 10-19: 3,129 est. (43,972 emp) | 20-49: 5,072 est. (161,097 emp) | 50-99: 2,454 est. (165,734 emp) | 100-249: 544 est. (73,464 emp) | 250-499: 44 est. (14,522 emp) | 500-999: 6 est. (3,568 emp)
+
+55. 531130 - Lessors of Miniwarehouses and Self-Storage Units
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5311 Lessors of Real Estate
+   Small Establishments: 18,259
+   Avg Payroll/Employee: $40,863
+   Small Biz Payroll Share: 90%
+   Avg Employees/Establishment: 2.6
+   Size Breakdown: 1-4: 16,709 est. (30,565 emp) | 5-9: 1,173 est. (7,120 emp) | 10-19: 290 est. (3,616 emp) | 20-49: 87 est. (2,355 emp) | 50-99: 16 est. (1,042 emp) | 100-249: 9 est. (1,300 emp)
+
+56. 813990 - Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)
+   Sector: 81 Other Services (except Public Administration) | 813 Religious, Grantmaking, Civic, Professional, and Similar Organizations | 8139 Business, Professional, Labor, Political, and Similar Organizations
+   Small Establishments: 18,113
+   Avg Payroll/Employee: $54,729
+   Small Biz Payroll Share: 61%
+   Avg Employees/Establishment: 7.3
+   Size Breakdown: 1-4: 12,145 est. (20,513 emp) | 5-9: 3,054 est. (20,615 emp) | 10-19: 2,002 est. (26,317 emp) | 20-49: 912 est. (26,178 emp) | 50-99: 191 est. (12,811 emp) | 100-249: 102 est. (14,862 emp) | 250-499: 18 est. (6,138 emp) | 500-999: 6 est. (4,680 emp)
+
+57. 238140 - Masonry Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors
+   Small Establishments: 18,064
+   Avg Payroll/Employee: $59,296
+   Small Biz Payroll Share: 61%
+   Avg Employees/Establishment: 7.4
+   Size Breakdown: 1-4: 12,800 est. (19,418 emp) | 5-9: 2,794 est. (18,154 emp) | 10-19: 1,465 est. (19,716 emp) | 20-49: 1,005 est. (30,463 emp) | 50-99: 264 est. (18,168 emp) | 100-249: 119 est. (17,384 emp) | 250-499: 27 est. (9,545 emp) | 500-999: 7 est. (4,329 emp)
+
+58. 238330 - Flooring Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors
+   Small Establishments: 17,902
+   Avg Payroll/Employee: $57,235
+   Small Biz Payroll Share: 76%
+   Avg Employees/Establishment: 4.7
+   Size Breakdown: 1-4: 13,865 est. (21,772 emp) | 5-9: 2,321 est. (14,957 emp) | 10-19: 1,138 est. (15,151 emp) | 20-49: 578 est. (17,008 emp) | 50-99: 111 est. (7,535 emp) | 100-249: 48 est. (6,934 emp) | 250-499: 8 est. (2,458 emp)
+
+59. 531312 - Nonresidential Property Managers
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate
+   Small Establishments: 17,733
+   Avg Payroll/Employee: $88,723
+   Small Biz Payroll Share: 53%
+   Avg Employees/Establishment: 9
+   Size Breakdown: 1-4: 12,056 est. (20,079 emp) | 5-9: 2,981 est. (19,417 emp) | 10-19: 1,669 est. (22,314 emp) | 20-49: 1,027 est. (30,354 emp) | 50-99: 314 est. (21,226 emp) | 100-249: 156 est. (23,527 emp) | 250-499: 43 est. (14,023 emp) | 500-999: 11 est. (7,577 emp) | 1000+: 3 est. (5,455 emp)
+
+60. 522292 - Real Estate Credit
+   Sector: 52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5222 Nondepository Credit Intermediation
+   Small Establishments: 17,699
+   Avg Payroll/Employee: $106,012
+   Small Biz Payroll Share: 37%
+   Avg Employees/Establishment: 19
+   Size Breakdown: 1-4: 10,436 est. (15,948 emp) | 5-9: 3,755 est. (24,823 emp) | 10-19: 2,210 est. (29,076 emp) | 20-49: 1,298 est. (38,432 emp) | 50-99: 374 est. (26,058 emp) | 100-249: 290 est. (43,883 emp) | 250-499: 113 est. (40,041 emp) | 500-999: 69 est. (46,274 emp) | 1000+: 44 est. (88,355 emp)
+
+61. 561790 - Other Services to Buildings and Dwellings
+   Sector: 56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5617 Services to Buildings and Dwellings
+   Small Establishments: 17,413
+   Avg Payroll/Employee: $46,560
+   Small Biz Payroll Share: 82%
+   Avg Employees/Establishment: 5
+   Size Breakdown: 1-4: 12,919 est. (19,207 emp) | 5-9: 2,580 est. (16,814 emp) | 10-19: 1,304 est. (17,295 emp) | 20-49: 610 est. (17,420 emp) | 50-99: 116 est. (7,728 emp) | 100-249: 38 est. (5,503 emp) | 250-499: 5 est. (1,690 emp)
+
+62. 512110 - Motion Picture and Video Production
+   Sector: 51 Information | 512 Motion Picture and Sound Recording Industries | 5121 Motion Picture and Video Industries
+   Small Establishments: 17,380
+   Avg Payroll/Employee: $97,576
+   Small Biz Payroll Share: 38%
+   Avg Employees/Establishment: 7.9
+   Size Breakdown: 1-4: 15,086 est. (16,382 emp) | 5-9: 1,305 est. (8,436 emp) | 10-19: 612 est. (8,004 emp) | 20-49: 377 est. (11,580 emp) | 50-99: 134 est. (9,729 emp) | 100-249: 101 est. (14,826 emp) | 250-499: 39 est. (13,747 emp) | 500-999: 13 est. (8,130 emp) | 1000+: 16 est. (49,131 emp)
+
+63. 332710 - Machine Shops
+   Sector: 31-33 Manufacturing | 332 Fabricated Metal Product Manufacturing | 3327 Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing
+   Small Establishments: 16,588
+   Avg Payroll/Employee: $61,594
+   Small Biz Payroll Share: 60%
+   Avg Employees/Establishment: 12.5
+   Size Breakdown: 1-4: 8,188 est. (15,662 emp) | 5-9: 3,602 est. (24,058 emp) | 10-19: 2,829 est. (38,398 emp) | 20-49: 1,969 est. (59,688 emp) | 50-99: 597 est. (40,884 emp) | 100-249: 230 est. (33,273 emp) | 250-499: 16 est. (5,306 emp)
+
+64. 541410 - Interior Design Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5414 Specialized Design Services
+   Small Establishments: 16,276
+   Avg Payroll/Employee: $64,949
+   Small Biz Payroll Share: 87%
+   Avg Employees/Establishment: 3.3
+   Size Breakdown: 1-4: 13,346 est. (19,333 emp) | 5-9: 1,980 est. (12,706 emp) | 10-19: 699 est. (9,119 emp) | 20-49: 251 est. (7,186 emp) | 50-99: 43 est. (2,785 emp) | 100-249: 13 est. (2,195 emp)
+
+65. 541430 - Graphic Design Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5414 Specialized Design Services
+   Small Establishments: 15,849
+   Avg Payroll/Employee: $65,925
+   Small Biz Payroll Share: 82%
+   Avg Employees/Establishment: 3.2
+   Size Breakdown: 1-4: 13,455 est. (18,074 emp) | 5-9: 1,436 est. (9,288 emp) | 10-19: 685 est. (8,944 emp) | 20-49: 273 est. (7,881 emp) | 50-99: 66 est. (4,207 emp) | 100-249: 13 est. (1,855 emp) | 250-499: 4 est. (1,177 emp)
+
+66. 561710 - Exterminating and Pest Control Services
+   Sector: 56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5617 Services to Buildings and Dwellings
+   Small Establishments: 15,745
+   Avg Payroll/Employee: $50,313
+   Small Biz Payroll Share: 77%
+   Avg Employees/Establishment: 8.7
+   Size Breakdown: 1-4: 9,117 est. (16,009 emp) | 5-9: 2,845 est. (19,037 emp) | 10-19: 2,188 est. (29,883 emp) | 20-49: 1,595 est. (45,223 emp) | 50-99: 261 est. (17,176 emp) | 100-249: 64 est. (8,533 emp) | 250-499: 7 est. (2,076 emp) | 500-999: 3 est. (1,980 emp)
+
+67. 812210 - Funeral Homes and Funeral Services
+   Sector: 81 Other Services (except Public Administration) | 812 Personal and Laundry Services | 8122 Death Care Services
+   Small Establishments: 15,275
+   Avg Payroll/Employee: $41,785
+   Small Biz Payroll Share: 91%
+   Avg Employees/Establishment: 7.2
+   Size Breakdown: 1-4: 7,466 est. (16,094 emp) | 5-9: 4,450 est. (29,789 emp) | 10-19: 2,545 est. (33,872 emp) | 20-49: 814 est. (22,689 emp) | 50-99: 85 est. (5,641 emp) | 100-249: 14 est. (2,108 emp)
+
+68. 813910 - Business Associations
+   Sector: 81 Other Services (except Public Administration) | 813 Religious, Grantmaking, Civic, Professional, and Similar Organizations | 8139 Business, Professional, Labor, Political, and Similar Organizations
+   Small Establishments: 14,749
+   Avg Payroll/Employee: $96,937
+   Small Biz Payroll Share: 58%
+   Avg Employees/Establishment: 6.9
+   Size Breakdown: 1-4: 10,728 est. (20,535 emp) | 5-9: 2,308 est. (14,834 emp) | 10-19: 1,059 est. (14,299 emp) | 20-49: 654 est. (19,611 emp) | 50-99: 195 est. (13,219 emp) | 100-249: 78 est. (11,107 emp) | 250-499: 13 est. (4,497 emp) | 500-999: 7 est. (4,860 emp)
+
+69. 621420 - Outpatient Mental Health and Substance Abuse Centers
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6214 Outpatient Care Centers
+   Small Establishments: 14,526
+   Avg Payroll/Employee: $50,991
+   Small Biz Payroll Share: 47%
+   Avg Employees/Establishment: 19.4
+   Size Breakdown: 1-4: 6,198 est. (10,158 emp) | 5-9: 2,781 est. (18,712 emp) | 10-19: 2,843 est. (39,031 emp) | 20-49: 2,704 est. (82,107 emp) | 50-99: 884 est. (61,206 emp) | 100-249: 432 est. (63,440 emp) | 250-499: 46 est. (14,982 emp) | 500-999: 11 est. (7,302 emp)
+
+70. 541810 - Advertising Agencies
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5418 Advertising, Public Relations, and Related Services
+   Small Establishments: 14,220
+   Avg Payroll/Employee: $105,123
+   Small Biz Payroll Share: 32%
+   Avg Employees/Establishment: 13.1
+   Size Breakdown: 1-4: 10,056 est. (14,291 emp) | 5-9: 1,868 est. (12,419 emp) | 10-19: 1,295 est. (17,469 emp) | 20-49: 1,001 est. (30,643 emp) | 50-99: 363 est. (25,299 emp) | 100-249: 253 est. (39,167 emp) | 250-499: 95 est. (31,940 emp) | 500-999: 26 est. (17,397 emp) | 1000+: 5 est. (6,657 emp)
+
+71. 323111 - Commercial Printing (except Screen and Books)
+   Sector: 31-33 Manufacturing | 323 Printing and Related Support Activities | 3231 Printing and Related Support Activities
+   Small Establishments: 14,198
+   Avg Payroll/Employee: $59,258
+   Small Biz Payroll Share: 32%
+   Avg Employees/Establishment: 18.3
+   Size Breakdown: 1-4: 7,934 est. (15,450 emp) | 5-9: 2,950 est. (19,548 emp) | 10-19: 1,815 est. (24,628 emp) | 20-49: 1,499 est. (46,432 emp) | 50-99: 665 est. (47,038 emp) | 100-249: 424 est. (63,006 emp) | 250-499: 107 est. (38,055 emp) | 500-999: 31 est. (22,271 emp) | 1000+: 5 est. (5,707 emp)
+
+72. 522291 - Consumer Lending
+   Sector: 52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5222 Nondepository Credit Intermediation
+   Small Establishments: 13,692
+   Avg Payroll/Employee: $85,058
+   Small Biz Payroll Share: 40%
+   Avg Employees/Establishment: 6.2
+   Size Breakdown: 1-4: 11,145 est. (27,537 emp) | 5-9: 2,117 est. (13,281 emp) | 10-19: 257 est. (3,255 emp) | 20-49: 173 est. (5,300 emp) | 50-99: 63 est. (4,592 emp) | 100-249: 52 est. (8,212 emp) | 250-499: 19 est. (6,752 emp) | 500-999: 12 est. (8,113 emp) | 1000+: 7 est. (8,643 emp)
+
+73. 424490 - Other Grocery and Related Products Merchant Wholesalers
+   Sector: 42 Wholesale Trade | 424 Merchant Wholesalers, Nondurable Goods | 4244 Grocery and Related Product Merchant Wholesalers
+   Small Establishments: 13,447
+   Avg Payroll/Employee: $64,639
+   Small Biz Payroll Share: 30%
+   Avg Employees/Establishment: 22.2
+   Size Breakdown: 1-4: 7,756 est. (12,913 emp) | 5-9: 2,164 est. (14,463 emp) | 10-19: 1,750 est. (24,415 emp) | 20-49: 1,777 est. (57,100 emp) | 50-99: 708 est. (49,630 emp) | 100-249: 457 est. (69,805 emp) | 250-499: 148 est. (50,209 emp) | 500-999: 46 est. (29,360 emp) | 1000+: 7 est. (21,054 emp)
+
+74. 531320 - Offices of Real Estate Appraisers
+   Sector: 53 Real Estate and Rental and Leasing | 531 Real Estate | 5313 Activities Related to Real Estate
+   Small Establishments: 13,321
+   Avg Payroll/Employee: $67,277
+   Small Biz Payroll Share: 74%
+   Avg Employees/Establishment: 2.8
+   Size Breakdown: 1-4: 12,008 est. (17,130 emp) | 5-9: 877 est. (5,525 emp) | 10-19: 334 est. (4,348 emp) | 20-49: 102 est. (2,760 emp) | 50-99: 32 est. (2,378 emp) | 100-249: 12 est. (1,629 emp) | 250-499: 5 est. (1,875 emp) | 500-999: 3 est. (2,031 emp)
+
+75. 541618 - Other Management Consulting Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5416 Management, Scientific, and Technical Consulting Services
+   Small Establishments: 12,921
+   Avg Payroll/Employee: $113,195
+   Small Biz Payroll Share: 44%
+   Avg Employees/Establishment: 3.5
+   Size Breakdown: 1-4: 11,721 est. (12,840 emp) | 5-9: 714 est. (4,560 emp) | 10-19: 304 est. (4,051 emp) | 20-49: 182 est. (5,357 emp) | 50-99: 58 est. (4,295 emp) | 100-249: 27 est. (3,689 emp) | 250-499: 11 est. (3,634 emp) | 1000+: 3 est. (6,137 emp)
+
+76. 621112 - Offices of Physicians, Mental Health Specialists
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6211 Offices of Physicians
+   Small Establishments: 12,864
+   Avg Payroll/Employee: $73,601
+   Small Biz Payroll Share: 73%
+   Avg Employees/Establishment: 4.7
+   Size Breakdown: 1-4: 10,426 est. (14,679 emp) | 5-9: 1,364 est. (8,766 emp) | 10-19: 717 est. (9,569 emp) | 20-49: 357 est. (10,596 emp) | 50-99: 101 est. (6,784 emp) | 100-249: 41 est. (6,076 emp) | 250-499: 7 est. (2,459 emp) | 500-999: 4 est. (2,547 emp)
+
+77. 423610 - Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers
+   Sector: 42 Wholesale Trade | 423 Merchant Wholesalers, Durable Goods | 4236 Household Appliances and Electrical and Electronic Goods Merchant Wholesalers
+   Small Establishments: 12,723
+   Avg Payroll/Employee: $91,178
+   Small Biz Payroll Share: 52%
+   Avg Employees/Establishment: 16.1
+   Size Breakdown: 1-4: 5,469 est. (11,035 emp) | 5-9: 3,302 est. (22,735 emp) | 10-19: 2,331 est. (32,149 emp) | 20-49: 1,621 est. (49,266 emp) | 50-99: 449 est. (30,573 emp) | 100-249: 213 est. (31,724 emp) | 250-499: 53 est. (17,513 emp) | 500-999: 19 est. (12,411 emp) | 1000+: 5 est. (8,702 emp)
+
+78. 813930 - Labor Unions and Similar Labor Organizations
+   Sector: 81 Other Services (except Public Administration) | 813 Religious, Grantmaking, Civic, Professional, and Similar Organizations | 8139 Business, Professional, Labor, Political, and Similar Organizations
+   Small Establishments: 12,419
+   Avg Payroll/Employee: $49,906
+   Small Biz Payroll Share: 56%
+   Avg Employees/Establishment: 10.3
+   Size Breakdown: 1-4: 5,966 est. (11,624 emp) | 5-9: 3,337 est. (22,248 emp) | 10-19: 2,159 est. (28,562 emp) | 20-49: 957 est. (28,066 emp) | 50-99: 218 est. (14,947 emp) | 100-249: 100 est. (15,444 emp) | 250-499: 23 est. (8,565 emp) | 500-999: 3 est. (2,127 emp)
+
+79. 238130 - Framing Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2381 Foundation, Structure, and Building Exterior Contractors
+   Small Establishments: 12,275
+   Avg Payroll/Employee: $53,145
+   Small Biz Payroll Share: 58%
+   Avg Employees/Establishment: 7.1
+   Size Breakdown: 1-4: 8,916 est. (14,646 emp) | 5-9: 2,023 est. (12,968 emp) | 10-19: 873 est. (11,674 emp) | 20-49: 463 est. (13,902 emp) | 50-99: 141 est. (9,762 emp) | 100-249: 85 est. (13,397 emp) | 250-499: 14 est. (4,673 emp) | 500-999: 6 est. (3,601 emp) | 1000+: 3 est. (4,228 emp)
+
+80. 621511 - Medical Laboratories
+   Sector: 62 Health Care and Social Assistance | 621 Ambulatory Health Care Services | 6215 Medical and Diagnostic Laboratories
+   Small Establishments: 12,089
+   Avg Payroll/Employee: $70,935
+   Small Biz Payroll Share: 27%
+   Avg Employees/Establishment: 18.5
+   Size Breakdown: 1-4: 7,919 est. (13,937 emp) | 5-9: 2,076 est. (13,263 emp) | 10-19: 1,229 est. (16,260 emp) | 20-49: 865 est. (26,757 emp) | 50-99: 375 est. (25,916 emp) | 100-249: 286 est. (43,230 emp) | 250-499: 86 est. (30,328 emp) | 500-999: 47 est. (33,031 emp) | 1000+: 23 est. (36,093 emp)
+
+81. 236117 - New Housing For-Sale Builders
+   Sector: 23 Construction | 236 Construction of Buildings | 2361 Residential Building Construction
+   Small Establishments: 12,024
+   Avg Payroll/Employee: $112,892
+   Small Biz Payroll Share: 37%
+   Avg Employees/Establishment: 10.4
+   Size Breakdown: 1-4: 8,472 est. (13,464 emp) | 5-9: 1,725 est. (11,283 emp) | 10-19: 1,059 est. (14,129 emp) | 20-49: 768 est. (23,832 emp) | 50-99: 369 est. (24,990 emp) | 100-249: 181 est. (25,979 emp) | 250-499: 31 est. (10,365 emp) | 500-999: 5 est. (3,329 emp)
+
+82. 522390 - Other Activities Related to Credit Intermediation
+   Sector: 52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5223 Activities Related to Credit Intermediation
+   Small Establishments: 11,983
+   Avg Payroll/Employee: $77,042
+   Small Biz Payroll Share: 33%
+   Avg Employees/Establishment: 6.4
+   Size Breakdown: 1-4: 9,982 est. (17,230 emp) | 5-9: 1,361 est. (8,488 emp) | 10-19: 487 est. (6,587 emp) | 20-49: 153 est. (4,606 emp) | 50-99: 58 est. (3,925 emp) | 100-249: 37 est. (5,540 emp) | 250-499: 17 est. (5,506 emp) | 500-999: 8 est. (5,943 emp) | 1000+: 13 est. (19,605 emp)
+
+83. 561990 - All Other Support Services
+   Sector: 56 Administrative and Support and Waste Management and Remediation Services | 561 Administrative and Support Services | 5619 Other Support Services
+   Small Establishments: 11,951
+   Avg Payroll/Employee: $54,535
+   Small Biz Payroll Share: 44%
+   Avg Employees/Establishment: 13.9
+   Size Breakdown: 1-4: 7,409 est. (12,448 emp) | 5-9: 2,094 est. (13,888 emp) | 10-19: 1,391 est. (18,800 emp) | 20-49: 1,057 est. (33,228 emp) | 50-99: 434 est. (31,349 emp) | 100-249: 223 est. (33,437 emp) | 250-499: 30 est. (10,229 emp) | 500-999: 24 est. (15,993 emp) | 1000+: 6 est. (7,182 emp)
+
+84. 423120 - Motor Vehicle Supplies and New Parts Merchant Wholesalers
+   Sector: 42 Wholesale Trade | 423 Merchant Wholesalers, Durable Goods | 4231 Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers
+   Small Establishments: 11,564
+   Avg Payroll/Employee: $63,580
+   Small Biz Payroll Share: 41%
+   Avg Employees/Establishment: 18
+   Size Breakdown: 1-4: 5,002 est. (10,032 emp) | 5-9: 2,948 est. (20,482 emp) | 10-19: 2,135 est. (29,140 emp) | 20-49: 1,479 est. (45,324 emp) | 50-99: 497 est. (34,453 emp) | 100-249: 236 est. (35,533 emp) | 250-499: 52 est. (18,108 emp) | 500-999: 18 est. (11,876 emp) | 1000+: 10 est. (17,937 emp)
+
+85. 541519 - Other Computer Related Services
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5415 Computer Systems Design and Related Services
+   Small Establishments: 11,465
+   Avg Payroll/Employee: $129,719
+   Small Biz Payroll Share: 24%
+   Avg Employees/Establishment: 12.6
+   Size Breakdown: 1-4: 9,221 est. (11,445 emp) | 5-9: 1,043 est. (6,816 emp) | 10-19: 702 est. (9,614 emp) | 20-49: 499 est. (15,555 emp) | 50-99: 241 est. (16,905 emp) | 100-249: 187 est. (28,912 emp) | 250-499: 57 est. (19,609 emp) | 500-999: 26 est. (18,025 emp) | 1000+: 13 est. (23,736 emp)
+
+86. 523910 - Miscellaneous Intermediation
+   Sector: 52 Finance and Insurance | 523 Securities, Commodity Contracts, and Other Financial Investments and Related Activities | 5239 Other Financial Investment Activities
+   Small Establishments: 11,426
+   Avg Payroll/Employee: $234,612
+   Small Biz Payroll Share: 56%
+   Avg Employees/Establishment: 5.1
+   Size Breakdown: 1-4: 9,433 est. (12,400 emp) | 5-9: 1,069 est. (6,982 emp) | 10-19: 587 est. (7,868 emp) | 20-49: 337 est. (10,134 emp) | 50-99: 107 est. (7,518 emp) | 100-249: 49 est. (7,644 emp) | 250-499: 11 est. (3,514 emp)
+
+87. 484230 - Specialized Freight (except Used Goods) Trucking, Long-Distance
+   Sector: 48-49 Transportation and Warehousing | 484 Truck Transportation | 4842 Specialized Freight Trucking
+   Small Establishments: 11,303
+   Avg Payroll/Employee: $63,637
+   Small Biz Payroll Share: 39%
+   Avg Employees/Establishment: 14.5
+   Size Breakdown: 1-4: 7,840 est. (11,540 emp) | 5-9: 1,357 est. (8,987 emp) | 10-19: 1,047 est. (14,503 emp) | 20-49: 1,059 est. (32,085 emp) | 50-99: 407 est. (27,743 emp) | 100-249: 199 est. (29,047 emp) | 250-499: 45 est. (13,795 emp) | 500-999: 13 est. (8,403 emp) | 1000+: 9 est. (27,522 emp)
+
+88. 541921 - Photography Studios, Portrait
+   Sector: 54 Professional, Scientific, and Technical Services | 541 Professional, Scientific, and Technical Services | 5419 Other Professional, Scientific, and Technical Services
+   Small Establishments: 11,048
+   Avg Payroll/Employee: $33,982
+   Small Biz Payroll Share: 73%
+   Avg Employees/Establishment: 3.3
+   Size Breakdown: 1-4: 9,715 est. (12,932 emp) | 5-9: 868 est. (5,649 emp) | 10-19: 304 est. (4,031 emp) | 20-49: 161 est. (4,918 emp) | 50-99: 35 est. (2,551 emp) | 100-249: 26 est. (3,715 emp) | 250-499: 3 est. (976 emp) | 500-999: 3 est. (1,749 emp)
+
+89. 611710 - Educational Support Services
+   Sector: 61 Educational Services | 611 Educational Services | 6117 Educational Support Services
+   Small Establishments: 11,011
+   Avg Payroll/Employee: $60,811
+   Small Biz Payroll Share: 37%
+   Avg Employees/Establishment: 11.2
+   Size Breakdown: 1-4: 7,712 est. (10,823 emp) | 5-9: 1,576 est. (10,294 emp) | 10-19: 1,067 est. (14,307 emp) | 20-49: 656 est. (19,130 emp) | 50-99: 208 est. (14,537 emp) | 100-249: 110 est. (16,690 emp) | 250-499: 36 est. (13,007 emp) | 500-999: 13 est. (9,202 emp) | 1000+: 11 est. (19,709 emp)
+
+90. 811490 - Other Personal and Household Goods Repair and Maintenance
+   Sector: 81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8114 Personal and Household Goods Repair and Maintenance
+   Small Establishments: 10,975
+   Avg Payroll/Employee: $42,909
+   Small Biz Payroll Share: 86%
+   Avg Employees/Establishment: 3.6
+   Size Breakdown: 1-4: 8,777 est. (13,603 emp) | 5-9: 1,603 est. (10,204 emp) | 10-19: 437 est. (5,619 emp) | 20-49: 158 est. (4,618 emp) | 50-99: 22 est. (1,412 emp) | 100-249: 8 est. (1,260 emp)
+
+91. 522310 - Mortgage and Nonmortgage Loan Brokers
+   Sector: 52 Finance and Insurance | 522 Credit Intermediation and Related Activities | 5223 Activities Related to Credit Intermediation
+   Small Establishments: 10,757
+   Avg Payroll/Employee: $91,842
+   Small Biz Payroll Share: 51%
+   Avg Employees/Establishment: 6.9
+   Size Breakdown: 1-4: 8,259 est. (12,437 emp) | 5-9: 1,457 est. (9,460 emp) | 10-19: 672 est. (8,903 emp) | 20-49: 369 est. (10,896 emp) | 50-99: 118 est. (7,956 emp) | 100-249: 54 est. (8,044 emp) | 250-499: 13 est. (4,115 emp) | 500-999: 10 est. (6,461 emp) | 1000+: 5 est. (7,731 emp)
+
+92. 238340 - Tile and Terrazzo Contractors
+   Sector: 23 Construction | 238 Specialty Trade Contractors | 2383 Building Finishing Contractors
+   Small Establishments: 10,573
+   Avg Payroll/Employee: $55,643
+   Small Biz Payroll Share: 75%
+   Avg Employees/Establishment: 5.5
+   Size Breakdown: 1-4: 7,705 est. (11,878 emp) | 5-9: 1,496 est. (9,872 emp) | 10-19: 933 est. (12,645 emp) | 20-49: 439 est. (12,769 emp) | 50-99: 108 est. (7,188 emp) | 100-249: 28 est. (4,381 emp)
+
+93. 488410 - Motor Vehicle Towing
+   Sector: 48-49 Transportation and Warehousing | 488 Support Activities for Transportation | 4884 Support Activities for Road Transportation
+   Small Establishments: 10,432
+   Avg Payroll/Employee: $49,441
+   Small Biz Payroll Share: 83%
+   Avg Employees/Establishment: 6.6
+   Size Breakdown: 1-4: 6,540 est. (10,504 emp) | 5-9: 1,974 est. (12,930 emp) | 10-19: 1,275 est. (17,222 emp) | 20-49: 643 est. (18,578 emp) | 50-99: 99 est. (6,257 emp) | 100-249: 17 est. (2,111 emp) | 250-499: 5 est. (1,752 emp)
+
+94. 424990 - Other Miscellaneous Nondurable Goods Merchant Wholesalers
+   Sector: 42 Wholesale Trade | 424 Merchant Wholesalers, Nondurable Goods | 4249 Miscellaneous Nondurable Goods Merchant Wholesalers
+   Small Establishments: 10,397
+   Avg Payroll/Employee: $63,612
+   Small Biz Payroll Share: 59%
+   Avg Employees/Establishment: 7.3
+   Size Breakdown: 1-4: 7,372 est. (11,773 emp) | 5-9: 1,605 est. (10,489 emp) | 10-19: 908 est. (11,952 emp) | 20-49: 512 est. (15,219 emp) | 50-99: 150 est. (10,458 emp) | 100-249: 65 est. (9,824 emp) | 250-499: 21 est. (6,814 emp)
+
+95. 237110 - Water and Sewer Line and Related Structures Construction
+   Sector: 23 Construction | 237 Heavy and Civil Engineering Construction | 2371 Utility System Construction
+   Small Establishments: 10,146
+   Avg Payroll/Employee: $77,314
+   Small Biz Payroll Share: 46%
+   Avg Employees/Establishment: 15.2
+   Size Breakdown: 1-4: 5,135 est. (9,482 emp) | 5-9: 2,206 est. (14,483 emp) | 10-19: 1,572 est. (21,252 emp) | 20-49: 1,233 est. (37,010 emp) | 50-99: 413 est. (28,128 emp) | 100-249: 209 est. (31,828 emp) | 250-499: 40 est. (13,236 emp) | 500-999: 8 est. (5,405 emp)

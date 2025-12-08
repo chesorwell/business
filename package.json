@@ -3,7 +3,9 @@
   "type": "module",
   "scripts": {
     "db:generate": "prisma generate --schema=src/db/schema.prisma",
-    "db:push": "prisma db push --schema=src/db/schema.prisma"
+    "db:push": "prisma db push --schema=src/db/schema.prisma",
+    "test": "node --experimental-strip-types --test src/**/*.test.ts",
+    "test:census": "npx tsx src/api/census.test.ts"
   },
   "dependencies": {
     "@prisma/client": "6.19.0",

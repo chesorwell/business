@@ -8,8 +8,26 @@ generator client {
 }
 
 model Industry {
-  id String @id @default(auto()) @map("_id") @db.ObjectId
-  code  Int @unique // 6-digit NAICS code
-  title String // Industry name: "Soybean Farming"
-  sector String // "11 Agriculture, Forestry, Fishing and Hunting | 111 Crop Production | 1111 Oilseed and Grain Farming"
+  id     String  @id @default(auto()) @map("_id") @db.ObjectId
+  code   String  @unique // 6-digit NAICS code
+  title  String  // Industry name: "Soybean Farming"
+  sector String  // "11 Agriculture, Forestry, Fishing and Hunting | 111 Crop Production | 1111 Oilseed and Grain Farming"
+  cbp    CBPData? // Census Bureau County Business Patterns data
+  cbpError String? // Error message if fetching CBP data failed
+}
+
+type CBPEstablishment {
+  sizeCode       String // "001", "210", "220", etc.
+  sizeLabel      String // "All establishments", "< 5 employees", etc.
+  establishments Int
+  employees      Int
+  annualPayroll  Int // in $1,000
+  q1Payroll      Int // in $1,000
+}
+
+type CBPData {
+  year        Int // 2022
+  fetchedAt   DateTime
+  total       CBPEstablishment
+  bySizeClass CBPEstablishment[]
 }
