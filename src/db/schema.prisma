@@ -1,0 +1,15 @@
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Industry {
+  id String @id @default(auto()) @map("_id") @db.ObjectId
+  code  Int @unique // 6-digit NAICS code
+  title String // Industry name: "Soybean Farming"
+  sector String // "11 Agriculture, Forestry, Fishing and Hunting | 111 Crop Production | 1111 Oilseed and Grain Farming"
+}
