@@ -1,7 +1,7 @@
-import { PrismaClient } from '@prisma/client';
-import { CENSUS_API_KEY } from '../env.js';
+import { PrismaClient } from "@prisma/client";
+import { CENSUS_API_KEY } from "../env.js";
 
-const CBP_BASE_URL = 'https://api.census.gov/data/2022/cbp';
+const CBP_BASE_URL = "https://api.census.gov/data/2022/cbp";
 const CBP_YEAR = 2022;
 
 const prisma = new PrismaClient();
@@ -29,10 +29,10 @@ interface EstablishmentData {
 
 async function fetchFromCensus(naicsCode: string) {
   const params = new URLSearchParams({
-    get: 'ESTAB,EMP,PAYANN,PAYQTR1,EMPSZES,EMPSZES_LABEL,NAICS2017_LABEL',
-    for: 'us:*',
+    get: "ESTAB,EMP,PAYANN,PAYQTR1,EMPSZES,EMPSZES_LABEL,NAICS2017_LABEL",
+    for: "us:*",
     NAICS2017: naicsCode,
-    LFO: '001',
+    LFO: "001",
     key: CENSUS_API_KEY,
   });
 
@@ -42,7 +42,7 @@ async function fetchFromCensus(naicsCode: string) {
     throw new Error(`No data for NAICS ${naicsCode} (excluded from CBP)`);
   }
   if (response.status === 429) {
-    throw new Error('Rate limit exceeded');
+    throw new Error("Rate limit exceeded");
   }
   if (!response.ok) {
     throw new Error(`Census API error: ${response.status}`);
@@ -69,7 +69,7 @@ async function fetchFromCensus(naicsCode: string) {
     q1Payroll: parseInt(row[3], 10) || 0,
   }));
 
-  const total = all.find((e) => e.sizeCode === '001');
+  const total = all.find((e) => e.sizeCode === "001");
   if (!total) {
     throw new Error(`No total row for NAICS ${naicsCode}`);
   }
@@ -78,7 +78,7 @@ async function fetchFromCensus(naicsCode: string) {
     year: CBP_YEAR,
     fetchedAt: new Date(),
     total,
-    bySizeClass: all.filter((e) => e.sizeCode !== '001'),
+    bySizeClass: all.filter((e) => e.sizeCode !== "001"),
   };
 }
 
@@ -110,7 +110,7 @@ export async function ensureCBPData(code: string): Promise<string> {
 
     return `Fetched and saved CBP data for ${code}`;
   } catch (e) {
-    const error = e instanceof Error ? e.message : 'Unknown error';
+    const error = e instanceof Error ? e.message : "Unknown error";
 
     await prisma.industry.update({
       where: { code },
@@ -128,7 +128,7 @@ const codes = await prisma.industry
 console.log(`Start populating ${codes.length} industries...`);
 
 for (let code of codes) {
-  console.log(code, '...');
+  console.log(code, "...");
   const res = await ensureCBPData(code);
   console.log(res);
   await new Promise((resolve) => setTimeout(resolve, 100));

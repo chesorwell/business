@@ -1328,5 +1328,47 @@
       "avgEmployeesPerEstablishment": 15.2
     },
     "sizeBreakdown": "1-4: 5,135 est. (9,482 emp) | 5-9: 2,206 est. (14,483 emp) | 10-19: 1,572 est. (21,252 emp) | 20-49: 1,233 est. (37,010 emp) | 50-99: 413 est. (28,128 emp) | 100-249: 209 est. (31,828 emp) | 250-499: 40 est. (13,236 emp) | 500-999: 8 est. (5,405 emp)"
+  },
+  {
+    "code": "523940",
+    "title": "Portfolio Management and Investment Advice",
+    "sector": "52 Finance and Insurance | 523 Securities, Commodity Contracts, and Other Financial Investments and Related Activities | 5239 Other Financial Investment Activities",
+    "metrics": {
+      "smallEstablishments": 66243,
+      "totalEstablishments": 67520,
+      "totalEmployees": 493853,
+      "avgPayrollPerEmployee": 270281,
+      "smallBizPayrollShare": 0.47,
+      "avgEmployeesPerEstablishment": 7.3
+    },
+    "sizeBreakdown": "1-4: 53,954 est. (90,590 emp) | 5-9: 7,453 est. (47,404 emp) | 10-19: 3,019 est. (40,286 emp) | 20-49: 1,817 est. (54,689 emp) | 50-99: 642 est. (43,342 emp) | 100-249: 408 est. (60,720 emp) | 250-499: 142 est. (49,153 emp) | 500-999: 53 est. (34,685 emp) | 1000+: 32 est. (72,984 emp)"
+  },
+  {
+    "code": "811114",
+    "title": "Specialized Automotive Repair",
+    "sector": "81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8111 Automotive Repair and Maintenance",
+    "metrics": {
+      "smallEstablishments": 8826,
+      "totalEstablishments": 8837,
+      "totalEmployees": 34251,
+      "avgPayrollPerEmployee": 47919,
+      "smallBizPayrollShare": 0.97,
+      "avgEmployeesPerEstablishment": 3.9
+    },
+    "sizeBreakdown": "1-4: 6,270 est. (11,925 emp) | 5-9: 1,962 est. (12,566 emp) | 10-19: 488 est. (6,018 emp) | 20-49: 106 est. (2,807 emp) | 50-99: 7 est. (492 emp)"
+  },
+  {
+    "code": "811210",
+    "title": "Electronic and Precision Equipment Repair and Maintenance",
+    "sector": "81 Other Services (except Public Administration) | 811 Repair and Maintenance | 8112 Electronic and Precision Equipment Repair and Maintenance",
+    "metrics": {
+      "smallEstablishments": 11075,
+      "totalEstablishments": 11421,
+      "totalEmployees": 105752,
+      "avgPayrollPerEmployee": 64118,
+      "smallBizPayrollShare": 0.49,
+      "avgEmployeesPerEstablishment": 9.3
+    },
+    "sizeBreakdown": "1-4: 7,880 est. (13,552 emp) | 5-9: 1,838 est. (12,013 emp) | 10-19: 841 est. (11,169 emp) | 20-49: 516 est. (15,427 emp) | 50-99: 165 est. (11,418 emp) | 100-249: 121 est. (18,991 emp) | 250-499: 50 est. (17,053 emp) | 500-999: 10 est. (6,129 emp)"
   }
 ]
